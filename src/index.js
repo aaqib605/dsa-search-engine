@@ -1,24 +1,22 @@
 import express from "express";
 import cors from "cors";
+import path from "path";
+import { fileURLToPath } from "url";
 
 import { problems, docVectors, preprocess, idf } from "./tfidfIndex.js";
+import { cosineSim } from "./utils.js";
+
+const PORT = process.env.PORT || 3000;
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 const app = express();
 app.use(cors(), express.json());
 
-function cosineSim(vecA, vecB) {
-  let dot = 0,
-    magA = 0,
-    magB = 0;
-  for (const [t, wA] of Object.entries(vecA)) {
-    magA += wA * wA;
-    dot += wA * (vecB[t] || 0);
-  }
-  for (const wB of Object.values(vecB)) {
-    magB += wB * wB;
-  }
-  return dot / (Math.sqrt(magA) * Math.sqrt(magB) + 1e-9);
-}
+app.use(express.static(path.join(__dirname, "../public")));
+
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "../public", "index.html"));
+});
 
 app.post("/search", (req, res) => {
   const { query } = req.body;
@@ -51,8 +49,6 @@ app.post("/search", (req, res) => {
 
   res.json({ results });
 });
-
-const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, () => {
   console.log(`🔍 Search API listening on http://localhost:${PORT}`);
