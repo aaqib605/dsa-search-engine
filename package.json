@@ -12,5 +12,11 @@
     "url": "git+https://github.com/aaqib605/dsa-search-engine.git"
   },
   "author": "Aaqib Javaid",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "natural": "^8.0.1",
+    "stopword": "^3.1.4"
+  }
 }
