@@ -2,10 +2,10 @@
   "name": "dsa-search-engine",
   "version": "1.0.0",
   "description": "A DSA problem search engine leveraging web scraping, efficient data storage, and a Node.js backend implementing TF-IDF to provide relevant results for user queries via a React web interface.",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
