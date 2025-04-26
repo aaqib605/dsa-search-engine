@@ -1,0 +1,4406 @@
+[
+  {
+    "title": "2845. Count of Interesting Subarrays",
+    "url": "https://leetcode.com/problems/count-of-interesting-subarrays/?envType=daily-question&envId=2025-04-25"
+  },
+  {
+    "title": "2. Add Two Numbers",
+    "url": "https://leetcode.com/problems/add-two-numbers/"
+  },
+  {
+    "title": "4. Median of Two Sorted Arrays",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+  },
+  {
+    "title": "6. Zigzag Conversion",
+    "url": "https://leetcode.com/problems/zigzag-conversion/"
+  },
+  {
+    "title": "8. String to Integer (atoi)",
+    "url": "https://leetcode.com/problems/string-to-integer-atoi/"
+  },
+  {
+    "title": "10. Regular Expression Matching",
+    "url": "https://leetcode.com/problems/regular-expression-matching/"
+  },
+  {
+    "title": "12. Integer to Roman",
+    "url": "https://leetcode.com/problems/integer-to-roman/"
+  },
+  {
+    "title": "14. Longest Common Prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/"
+  },
+  {
+    "title": "16. 3Sum Closest",
+    "url": "https://leetcode.com/problems/3sum-closest/"
+  },
+  {
+    "title": "18. 4Sum",
+    "url": "https://leetcode.com/problems/4sum/"
+  },
+  {
+    "title": "20. Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "title": "22. Generate Parentheses",
+    "url": "https://leetcode.com/problems/generate-parentheses/"
+  },
+  {
+    "title": "24. Swap Nodes in Pairs",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+  },
+  {
+    "title": "26. Remove Duplicates from Sorted Array",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+  },
+  {
+    "title": "28. Find the Index of the First Occurrence in a String",
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+  },
+  {
+    "title": "30. Substring with Concatenation of All Words",
+    "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+  },
+  {
+    "title": "32. Longest Valid Parentheses",
+    "url": "https://leetcode.com/problems/longest-valid-parentheses/"
+  },
+  {
+    "title": "34. Find First and Last Position of Element in Sorted Array",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+  },
+  {
+    "title": "36. Valid Sudoku",
+    "url": "https://leetcode.com/problems/valid-sudoku/"
+  },
+  {
+    "title": "38. Count and Say",
+    "url": "https://leetcode.com/problems/count-and-say/"
+  },
+  {
+    "title": "40. Combination Sum II",
+    "url": "https://leetcode.com/problems/combination-sum-ii/"
+  },
+  {
+    "title": "42. Trapping Rain Water",
+    "url": "https://leetcode.com/problems/trapping-rain-water/"
+  },
+  {
+    "title": "44. Wildcard Matching",
+    "url": "https://leetcode.com/problems/wildcard-matching/"
+  },
+  {
+    "title": "46. Permutations",
+    "url": "https://leetcode.com/problems/permutations/"
+  },
+  {
+    "title": "48. Rotate Image",
+    "url": "https://leetcode.com/problems/rotate-image/"
+  },
+  {
+    "title": "50. Pow(x, n)",
+    "url": "https://leetcode.com/problems/powx-n/"
+  },
+  {
+    "title": "52. N-Queens II",
+    "url": "https://leetcode.com/problems/n-queens-ii/"
+  },
+  {
+    "title": "54. Spiral Matrix",
+    "url": "https://leetcode.com/problems/spiral-matrix/"
+  },
+  {
+    "title": "56. Merge Intervals",
+    "url": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "title": "58. Length of Last Word",
+    "url": "https://leetcode.com/problems/length-of-last-word/"
+  },
+  {
+    "title": "60. Permutation Sequence",
+    "url": "https://leetcode.com/problems/permutation-sequence/"
+  },
+  {
+    "title": "62. Unique Paths",
+    "url": "https://leetcode.com/problems/unique-paths/"
+  },
+  {
+    "title": "64. Minimum Path Sum",
+    "url": "https://leetcode.com/problems/minimum-path-sum/"
+  },
+  {
+    "title": "66. Plus One",
+    "url": "https://leetcode.com/problems/plus-one/"
+  },
+  {
+    "title": "68. Text Justification",
+    "url": "https://leetcode.com/problems/text-justification/"
+  },
+  {
+    "title": "70. Climbing Stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "title": "72. Edit Distance",
+    "url": "https://leetcode.com/problems/edit-distance/"
+  },
+  {
+    "title": "74. Search a 2D Matrix",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+  },
+  {
+    "title": "76. Minimum Window Substring",
+    "url": "https://leetcode.com/problems/minimum-window-substring/"
+  },
+  {
+    "title": "78. Subsets",
+    "url": "https://leetcode.com/problems/subsets/"
+  },
+  {
+    "title": "80. Remove Duplicates from Sorted Array II",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+  },
+  {
+    "title": "82. Remove Duplicates from Sorted List II",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/"
+  },
+  {
+    "title": "84. Largest Rectangle in Histogram",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+  },
+  {
+    "title": "86. Partition List",
+    "url": "https://leetcode.com/problems/partition-list/"
+  },
+  {
+    "title": "88. Merge Sorted Array",
+    "url": "https://leetcode.com/problems/merge-sorted-array/"
+  },
+  {
+    "title": "90. Subsets II",
+    "url": "https://leetcode.com/problems/subsets-ii/"
+  },
+  {
+    "title": "92. Reverse Linked List II",
+    "url": "https://leetcode.com/problems/reverse-linked-list-ii/"
+  },
+  {
+    "title": "94. Binary Tree Inorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "title": "96. Unique Binary Search Trees",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees/"
+  },
+  {
+    "title": "98. Validate Binary Search Tree",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/"
+  },
+  {
+    "title": "100. Same Tree",
+    "url": "https://leetcode.com/problems/same-tree/"
+  },
+  {
+    "title": "102. Binary Tree Level Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
+    "title": "104. Maximum Depth of Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+  },
+  {
+    "title": "106. Construct Binary Tree from Inorder and Postorder Traversal",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+  },
+  {
+    "title": "108. Convert Sorted Array to Binary Search Tree",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+  },
+  {
+    "title": "110. Balanced Binary Tree",
+    "url": "https://leetcode.com/problems/balanced-binary-tree/"
+  },
+  {
+    "title": "112. Path Sum",
+    "url": "https://leetcode.com/problems/path-sum/"
+  },
+  {
+    "title": "114. Flatten Binary Tree to Linked List",
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+  },
+  {
+    "title": "116. Populating Next Right Pointers in Each Node",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
+  },
+  {
+    "title": "118. Pascal's Triangle",
+    "url": "https://leetcode.com/problems/pascals-triangle/"
+  },
+  {
+    "title": "120. Triangle",
+    "url": "https://leetcode.com/problems/triangle/"
+  },
+  {
+    "title": "122. Best Time to Buy and Sell Stock II",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+  },
+  {
+    "title": "124. Binary Tree Maximum Path Sum",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+  },
+  {
+    "title": "126. Word Ladder II",
+    "url": "https://leetcode.com/problems/word-ladder-ii/"
+  },
+  {
+    "title": "128. Longest Consecutive Sequence",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence/"
+  },
+  {
+    "title": "130. Surrounded Regions",
+    "url": "https://leetcode.com/problems/surrounded-regions/"
+  },
+  {
+    "title": "132. Palindrome Partitioning II",
+    "url": "https://leetcode.com/problems/palindrome-partitioning-ii/"
+  },
+  {
+    "title": "134. Gas Station",
+    "url": "https://leetcode.com/problems/gas-station/"
+  },
+  {
+    "title": "136. Single Number",
+    "url": "https://leetcode.com/problems/single-number/"
+  },
+  {
+    "title": "138. Copy List with Random Pointer",
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+  },
+  {
+    "title": "140. Word Break II",
+    "url": "https://leetcode.com/problems/word-break-ii/"
+  },
+  {
+    "title": "142. Linked List Cycle II",
+    "url": "https://leetcode.com/problems/linked-list-cycle-ii/"
+  },
+  {
+    "title": "144. Binary Tree Preorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+  },
+  {
+    "title": "146. LRU Cache",
+    "url": "https://leetcode.com/problems/lru-cache/"
+  },
+  {
+    "title": "148. Sort List",
+    "url": "https://leetcode.com/problems/sort-list/"
+  },
+  {
+    "title": "150. Evaluate Reverse Polish Notation",
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+  },
+  {
+    "title": "152. Maximum Product Subarray",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/"
+  },
+  {
+    "title": "154. Find Minimum in Rotated Sorted Array II",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/"
+  },
+  {
+    "title": "156. Binary Tree Upside Down",
+    "url": "https://leetcode.com/problems/binary-tree-upside-down/"
+  },
+  {
+    "title": "158. Read N Characters Given read4 II - Call Multiple Times",
+    "url": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/"
+  },
+  {
+    "title": "160. Intersection of Two Linked Lists",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+  },
+  {
+    "title": "162. Find Peak Element",
+    "url": "https://leetcode.com/problems/find-peak-element/"
+  },
+  {
+    "title": "164. Maximum Gap",
+    "url": "https://leetcode.com/problems/maximum-gap/"
+  },
+  {
+    "title": "166. Fraction to Recurring Decimal",
+    "url": "https://leetcode.com/problems/fraction-to-recurring-decimal/"
+  },
+  {
+    "title": "168. Excel Sheet Column Title",
+    "url": "https://leetcode.com/problems/excel-sheet-column-title/"
+  },
+  {
+    "title": "170. Two Sum III - Data structure design",
+    "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design/"
+  },
+  {
+    "title": "172. Factorial Trailing Zeroes",
+    "url": "https://leetcode.com/problems/factorial-trailing-zeroes/"
+  },
+  {
+    "title": "174. Dungeon Game",
+    "url": "https://leetcode.com/problems/dungeon-game/"
+  },
+  {
+    "title": "176. Second Highest Salary",
+    "url": "https://leetcode.com/problems/second-highest-salary/"
+  },
+  {
+    "title": "178. Rank Scores",
+    "url": "https://leetcode.com/problems/rank-scores/"
+  },
+  {
+    "title": "180. Consecutive Numbers",
+    "url": "https://leetcode.com/problems/consecutive-numbers/"
+  },
+  {
+    "title": "182. Duplicate Emails",
+    "url": "https://leetcode.com/problems/duplicate-emails/"
+  },
+  {
+    "title": "184. Department Highest Salary",
+    "url": "https://leetcode.com/problems/department-highest-salary/"
+  },
+  {
+    "title": "186. Reverse Words in a String II",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string-ii/"
+  },
+  {
+    "title": "188. Best Time to Buy and Sell Stock IV",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"
+  },
+  {
+    "title": "190. Reverse Bits",
+    "url": "https://leetcode.com/problems/reverse-bits/"
+  },
+  {
+    "title": "192. Word Frequency",
+    "url": "https://leetcode.com/problems/word-frequency/"
+  },
+  {
+    "title": "194. Transpose File",
+    "url": "https://leetcode.com/problems/transpose-file/"
+  },
+  {
+    "title": "196. Delete Duplicate Emails",
+    "url": "https://leetcode.com/problems/delete-duplicate-emails/"
+  },
+  {
+    "title": "198. House Robber",
+    "url": "https://leetcode.com/problems/house-robber/"
+  },
+  {
+    "title": "200. Number of Islands",
+    "url": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "title": "202. Happy Number",
+    "url": "https://leetcode.com/problems/happy-number/"
+  },
+  {
+    "title": "204. Count Primes",
+    "url": "https://leetcode.com/problems/count-primes/"
+  },
+  {
+    "title": "206. Reverse Linked List",
+    "url": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "title": "208. Implement Trie (Prefix Tree)",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+  },
+  {
+    "title": "210. Course Schedule II",
+    "url": "https://leetcode.com/problems/course-schedule-ii/"
+  },
+  {
+    "title": "212. Word Search II",
+    "url": "https://leetcode.com/problems/word-search-ii/"
+  },
+  {
+    "title": "214. Shortest Palindrome",
+    "url": "https://leetcode.com/problems/shortest-palindrome/"
+  },
+  {
+    "title": "216. Combination Sum III",
+    "url": "https://leetcode.com/problems/combination-sum-iii/"
+  },
+  {
+    "title": "218. The Skyline Problem",
+    "url": "https://leetcode.com/problems/the-skyline-problem/"
+  },
+  {
+    "title": "220. Contains Duplicate III",
+    "url": "https://leetcode.com/problems/contains-duplicate-iii/"
+  },
+  {
+    "title": "222. Count Complete Tree Nodes",
+    "url": "https://leetcode.com/problems/count-complete-tree-nodes/"
+  },
+  {
+    "title": "224. Basic Calculator",
+    "url": "https://leetcode.com/problems/basic-calculator/"
+  },
+  {
+    "title": "226. Invert Binary Tree",
+    "url": "https://leetcode.com/problems/invert-binary-tree/"
+  },
+  {
+    "title": "228. Summary Ranges",
+    "url": "https://leetcode.com/problems/summary-ranges/"
+  },
+  {
+    "title": "230. Kth Smallest Element in a BST",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+  },
+  {
+    "title": "232. Implement Queue using Stacks",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks/"
+  },
+  {
+    "title": "234. Palindrome Linked List",
+    "url": "https://leetcode.com/problems/palindrome-linked-list/"
+  },
+  {
+    "title": "236. Lowest Common Ancestor of a Binary Tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+  },
+  {
+    "title": "238. Product of Array Except Self",
+    "url": "https://leetcode.com/problems/product-of-array-except-self/"
+  },
+  {
+    "title": "240. Search a 2D Matrix II",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/"
+  },
+  {
+    "title": "242. Valid Anagram",
+    "url": "https://leetcode.com/problems/valid-anagram/"
+  },
+  {
+    "title": "244. Shortest Word Distance II",
+    "url": "https://leetcode.com/problems/shortest-word-distance-ii/"
+  },
+  {
+    "title": "246. Strobogrammatic Number",
+    "url": "https://leetcode.com/problems/strobogrammatic-number/"
+  },
+  {
+    "title": "248. Strobogrammatic Number III",
+    "url": "https://leetcode.com/problems/strobogrammatic-number-iii/"
+  },
+  {
+    "title": "250. Count Univalue Subtrees",
+    "url": "https://leetcode.com/problems/count-univalue-subtrees/"
+  },
+  {
+    "title": "252. Meeting Rooms",
+    "url": "https://leetcode.com/problems/meeting-rooms/"
+  },
+  {
+    "title": "254. Factor Combinations",
+    "url": "https://leetcode.com/problems/factor-combinations/"
+  },
+  {
+    "title": "256. Paint House",
+    "url": "https://leetcode.com/problems/paint-house/"
+  },
+  {
+    "title": "258. Add Digits",
+    "url": "https://leetcode.com/problems/add-digits/"
+  },
+  {
+    "title": "260. Single Number III",
+    "url": "https://leetcode.com/problems/single-number-iii/"
+  },
+  {
+    "title": "262. Trips and Users",
+    "url": "https://leetcode.com/problems/trips-and-users/"
+  },
+  {
+    "title": "264. Ugly Number II",
+    "url": "https://leetcode.com/problems/ugly-number-ii/"
+  },
+  {
+    "title": "266. Palindrome Permutation",
+    "url": "https://leetcode.com/problems/palindrome-permutation/"
+  },
+  {
+    "title": "268. Missing Number",
+    "url": "https://leetcode.com/problems/missing-number/"
+  },
+  {
+    "title": "270. Closest Binary Search Tree Value",
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value/"
+  },
+  {
+    "title": "272. Closest Binary Search Tree Value II",
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/"
+  },
+  {
+    "title": "274. H-Index",
+    "url": "https://leetcode.com/problems/h-index/"
+  },
+  {
+    "title": "276. Paint Fence",
+    "url": "https://leetcode.com/problems/paint-fence/"
+  },
+  {
+    "title": "278. First Bad Version",
+    "url": "https://leetcode.com/problems/first-bad-version/"
+  },
+  {
+    "title": "280. Wiggle Sort",
+    "url": "https://leetcode.com/problems/wiggle-sort/"
+  },
+  {
+    "title": "282. Expression Add Operators",
+    "url": "https://leetcode.com/problems/expression-add-operators/"
+  },
+  {
+    "title": "284. Peeking Iterator",
+    "url": "https://leetcode.com/problems/peeking-iterator/"
+  },
+  {
+    "title": "286. Walls and Gates",
+    "url": "https://leetcode.com/problems/walls-and-gates/"
+  },
+  {
+    "title": "288. Unique Word Abbreviation",
+    "url": "https://leetcode.com/problems/unique-word-abbreviation/"
+  },
+  {
+    "title": "290. Word Pattern",
+    "url": "https://leetcode.com/problems/word-pattern/"
+  },
+  {
+    "title": "292. Nim Game",
+    "url": "https://leetcode.com/problems/nim-game/"
+  },
+  {
+    "title": "294. Flip Game II",
+    "url": "https://leetcode.com/problems/flip-game-ii/"
+  },
+  {
+    "title": "296. Best Meeting Point",
+    "url": "https://leetcode.com/problems/best-meeting-point/"
+  },
+  {
+    "title": "298. Binary Tree Longest Consecutive Sequence",
+    "url": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/"
+  },
+  {
+    "title": "300. Longest Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/"
+  },
+  {
+    "title": "302. Smallest Rectangle Enclosing Black Pixels",
+    "url": "https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels/"
+  },
+  {
+    "title": "304. Range Sum Query 2D - Immutable",
+    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable/"
+  },
+  {
+    "title": "306. Additive Number",
+    "url": "https://leetcode.com/problems/additive-number/"
+  },
+  {
+    "title": "308. Range Sum Query 2D - Mutable",
+    "url": "https://leetcode.com/problems/range-sum-query-2d-mutable/"
+  },
+  {
+    "title": "310. Minimum Height Trees",
+    "url": "https://leetcode.com/problems/minimum-height-trees/"
+  },
+  {
+    "title": "312. Burst Balloons",
+    "url": "https://leetcode.com/problems/burst-balloons/"
+  },
+  {
+    "title": "314. Binary Tree Vertical Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-vertical-order-traversal/"
+  },
+  {
+    "title": "316. Remove Duplicate Letters",
+    "url": "https://leetcode.com/problems/remove-duplicate-letters/"
+  },
+  {
+    "title": "318. Maximum Product of Word Lengths",
+    "url": "https://leetcode.com/problems/maximum-product-of-word-lengths/"
+  },
+  {
+    "title": "320. Generalized Abbreviation",
+    "url": "https://leetcode.com/problems/generalized-abbreviation/"
+  },
+  {
+    "title": "322. Coin Change",
+    "url": "https://leetcode.com/problems/coin-change/"
+  },
+  {
+    "title": "324. Wiggle Sort II",
+    "url": "https://leetcode.com/problems/wiggle-sort-ii/"
+  },
+  {
+    "title": "326. Power of Three",
+    "url": "https://leetcode.com/problems/power-of-three/"
+  },
+  {
+    "title": "328. Odd Even Linked List",
+    "url": "https://leetcode.com/problems/odd-even-linked-list/"
+  },
+  {
+    "title": "330. Patching Array",
+    "url": "https://leetcode.com/problems/patching-array/"
+  },
+  {
+    "title": "332. Reconstruct Itinerary",
+    "url": "https://leetcode.com/problems/reconstruct-itinerary/"
+  },
+  {
+    "title": "334. Increasing Triplet Subsequence",
+    "url": "https://leetcode.com/problems/increasing-triplet-subsequence/"
+  },
+  {
+    "title": "336. Palindrome Pairs",
+    "url": "https://leetcode.com/problems/palindrome-pairs/"
+  },
+  {
+    "title": "338. Counting Bits",
+    "url": "https://leetcode.com/problems/counting-bits/"
+  },
+  {
+    "title": "340. Longest Substring with At Most K Distinct Characters",
+    "url": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/"
+  },
+  {
+    "title": "342. Power of Four",
+    "url": "https://leetcode.com/problems/power-of-four/"
+  },
+  {
+    "title": "344. Reverse String",
+    "url": "https://leetcode.com/problems/reverse-string/"
+  },
+  {
+    "title": "346. Moving Average from Data Stream",
+    "url": "https://leetcode.com/problems/moving-average-from-data-stream/"
+  },
+  {
+    "title": "348. Design Tic-Tac-Toe",
+    "url": "https://leetcode.com/problems/design-tic-tac-toe/"
+  },
+  {
+    "title": "350. Intersection of Two Arrays II",
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii/"
+  },
+  {
+    "title": "352. Data Stream as Disjoint Intervals",
+    "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals/"
+  },
+  {
+    "title": "354. Russian Doll Envelopes",
+    "url": "https://leetcode.com/problems/russian-doll-envelopes/"
+  },
+  {
+    "title": "356. Line Reflection",
+    "url": "https://leetcode.com/problems/line-reflection/"
+  },
+  {
+    "title": "358. Rearrange String k Distance Apart",
+    "url": "https://leetcode.com/problems/rearrange-string-k-distance-apart/"
+  },
+  {
+    "title": "360. Sort Transformed Array",
+    "url": "https://leetcode.com/problems/sort-transformed-array/"
+  },
+  {
+    "title": "362. Design Hit Counter",
+    "url": "https://leetcode.com/problems/design-hit-counter/"
+  },
+  {
+    "title": "364. Nested List Weight Sum II",
+    "url": "https://leetcode.com/problems/nested-list-weight-sum-ii/"
+  },
+  {
+    "title": "366. Find Leaves of Binary Tree",
+    "url": "https://leetcode.com/problems/find-leaves-of-binary-tree/"
+  },
+  {
+    "title": "368. Largest Divisible Subset",
+    "url": "https://leetcode.com/problems/largest-divisible-subset/"
+  },
+  {
+    "title": "370. Range Addition",
+    "url": "https://leetcode.com/problems/range-addition/"
+  },
+  {
+    "title": "372. Super Pow",
+    "url": "https://leetcode.com/problems/super-pow/"
+  },
+  {
+    "title": "374. Guess Number Higher or Lower",
+    "url": "https://leetcode.com/problems/guess-number-higher-or-lower/"
+  },
+  {
+    "title": "376. Wiggle Subsequence",
+    "url": "https://leetcode.com/problems/wiggle-subsequence/"
+  },
+  {
+    "title": "378. Kth Smallest Element in a Sorted Matrix",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/"
+  },
+  {
+    "title": "380. Insert Delete GetRandom O(1)",
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1/"
+  },
+  {
+    "title": "382. Linked List Random Node",
+    "url": "https://leetcode.com/problems/linked-list-random-node/"
+  },
+  {
+    "title": "384. Shuffle an Array",
+    "url": "https://leetcode.com/problems/shuffle-an-array/"
+  },
+  {
+    "title": "386. Lexicographical Numbers",
+    "url": "https://leetcode.com/problems/lexicographical-numbers/"
+  },
+  {
+    "title": "388. Longest Absolute File Path",
+    "url": "https://leetcode.com/problems/longest-absolute-file-path/"
+  },
+  {
+    "title": "390. Elimination Game",
+    "url": "https://leetcode.com/problems/elimination-game/"
+  },
+  {
+    "title": "392. Is Subsequence",
+    "url": "https://leetcode.com/problems/is-subsequence/"
+  },
+  {
+    "title": "394. Decode String",
+    "url": "https://leetcode.com/problems/decode-string/"
+  },
+  {
+    "title": "396. Rotate Function",
+    "url": "https://leetcode.com/problems/rotate-function/"
+  },
+  {
+    "title": "398. Random Pick Index",
+    "url": "https://leetcode.com/problems/random-pick-index/"
+  },
+  {
+    "title": "400. Nth Digit",
+    "url": "https://leetcode.com/problems/nth-digit/"
+  },
+  {
+    "title": "402. Remove K Digits",
+    "url": "https://leetcode.com/problems/remove-k-digits/"
+  },
+  {
+    "title": "404. Sum of Left Leaves",
+    "url": "https://leetcode.com/problems/sum-of-left-leaves/"
+  },
+  {
+    "title": "406. Queue Reconstruction by Height",
+    "url": "https://leetcode.com/problems/queue-reconstruction-by-height/"
+  },
+  {
+    "title": "408. Valid Word Abbreviation",
+    "url": "https://leetcode.com/problems/valid-word-abbreviation/"
+  },
+  {
+    "title": "410. Split Array Largest Sum",
+    "url": "https://leetcode.com/problems/split-array-largest-sum/"
+  },
+  {
+    "title": "412. Fizz Buzz",
+    "url": "https://leetcode.com/problems/fizz-buzz/"
+  },
+  {
+    "title": "414. Third Maximum Number",
+    "url": "https://leetcode.com/problems/third-maximum-number/"
+  },
+  {
+    "title": "416. Partition Equal Subset Sum",
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum/"
+  },
+  {
+    "title": "418. Sentence Screen Fitting",
+    "url": "https://leetcode.com/problems/sentence-screen-fitting/"
+  },
+  {
+    "title": "420. Strong Password Checker",
+    "url": "https://leetcode.com/problems/strong-password-checker/"
+  },
+  {
+    "title": "422. Valid Word Square",
+    "url": "https://leetcode.com/problems/valid-word-square/"
+  },
+  {
+    "title": "424. Longest Repeating Character Replacement",
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement/"
+  },
+  {
+    "title": "426. Convert Binary Search Tree to Sorted Doubly Linked List",
+    "url": "https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/"
+  },
+  {
+    "title": "428. Serialize and Deserialize N-ary Tree",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree/"
+  },
+  {
+    "title": "430. Flatten a Multilevel Doubly Linked List",
+    "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/"
+  },
+  {
+    "title": "432. All O`one Data Structure",
+    "url": "https://leetcode.com/problems/all-oone-data-structure/"
+  },
+  {
+    "title": "434. Number of Segments in a String",
+    "url": "https://leetcode.com/problems/number-of-segments-in-a-string/"
+  },
+  {
+    "title": "436. Find Right Interval",
+    "url": "https://leetcode.com/problems/find-right-interval/"
+  },
+  {
+    "title": "438. Find All Anagrams in a String",
+    "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string/"
+  },
+  {
+    "title": "440. K-th Smallest in Lexicographical Order",
+    "url": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/"
+  },
+  {
+    "title": "442. Find All Duplicates in an Array",
+    "url": "https://leetcode.com/problems/find-all-duplicates-in-an-array/"
+  },
+  {
+    "title": "444. Sequence Reconstruction",
+    "url": "https://leetcode.com/problems/sequence-reconstruction/"
+  },
+  {
+    "title": "446. Arithmetic Slices II - Subsequence",
+    "url": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence/"
+  },
+  {
+    "title": "448. Find All Numbers Disappeared in an Array",
+    "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/"
+  },
+  {
+    "title": "450. Delete Node in a BST",
+    "url": "https://leetcode.com/problems/delete-node-in-a-bst/"
+  },
+  {
+    "title": "452. Minimum Number of Arrows to Burst Balloons",
+    "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/"
+  },
+  {
+    "title": "454. 4Sum II",
+    "url": "https://leetcode.com/problems/4sum-ii/"
+  },
+  {
+    "title": "456. 132 Pattern",
+    "url": "https://leetcode.com/problems/132-pattern/"
+  },
+  {
+    "title": "458. Poor Pigs",
+    "url": "https://leetcode.com/problems/poor-pigs/"
+  },
+  {
+    "title": "460. LFU Cache",
+    "url": "https://leetcode.com/problems/lfu-cache/"
+  },
+  {
+    "title": "462. Minimum Moves to Equal Array Elements II",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/"
+  },
+  {
+    "title": "464. Can I Win",
+    "url": "https://leetcode.com/problems/can-i-win/"
+  },
+  {
+    "title": "466. Count The Repetitions",
+    "url": "https://leetcode.com/problems/count-the-repetitions/"
+  },
+  {
+    "title": "468. Validate IP Address",
+    "url": "https://leetcode.com/problems/validate-ip-address/"
+  },
+  {
+    "title": "470. Implement Rand10() Using Rand7()",
+    "url": "https://leetcode.com/problems/implement-rand10-using-rand7/"
+  },
+  {
+    "title": "472. Concatenated Words",
+    "url": "https://leetcode.com/problems/concatenated-words/"
+  },
+  {
+    "title": "474. Ones and Zeroes",
+    "url": "https://leetcode.com/problems/ones-and-zeroes/"
+  },
+  {
+    "title": "476. Number Complement",
+    "url": "https://leetcode.com/problems/number-complement/"
+  },
+  {
+    "title": "478. Generate Random Point in a Circle",
+    "url": "https://leetcode.com/problems/generate-random-point-in-a-circle/"
+  },
+  {
+    "title": "480. Sliding Window Median",
+    "url": "https://leetcode.com/problems/sliding-window-median/"
+  },
+  {
+    "title": "482. License Key Formatting",
+    "url": "https://leetcode.com/problems/license-key-formatting/"
+  },
+  {
+    "title": "484. Find Permutation",
+    "url": "https://leetcode.com/problems/find-permutation/"
+  },
+  {
+    "title": "486. Predict the Winner",
+    "url": "https://leetcode.com/problems/predict-the-winner/"
+  },
+  {
+    "title": "488. Zuma Game",
+    "url": "https://leetcode.com/problems/zuma-game/"
+  },
+  {
+    "title": "490. The Maze",
+    "url": "https://leetcode.com/problems/the-maze/"
+  },
+  {
+    "title": "492. Construct the Rectangle",
+    "url": "https://leetcode.com/problems/construct-the-rectangle/"
+  },
+  {
+    "title": "494. Target Sum",
+    "url": "https://leetcode.com/problems/target-sum/"
+  },
+  {
+    "title": "496. Next Greater Element I",
+    "url": "https://leetcode.com/problems/next-greater-element-i/"
+  },
+  {
+    "title": "498. Diagonal Traverse",
+    "url": "https://leetcode.com/problems/diagonal-traverse/"
+  },
+  {
+    "title": "500. Keyboard Row",
+    "url": "https://leetcode.com/problems/keyboard-row/"
+  },
+  {
+    "title": "502. IPO",
+    "url": "https://leetcode.com/problems/ipo/"
+  },
+  {
+    "title": "504. Base 7",
+    "url": "https://leetcode.com/problems/base-7/"
+  },
+  {
+    "title": "506. Relative Ranks",
+    "url": "https://leetcode.com/problems/relative-ranks/"
+  },
+  {
+    "title": "508. Most Frequent Subtree Sum",
+    "url": "https://leetcode.com/problems/most-frequent-subtree-sum/"
+  },
+  {
+    "title": "510. Inorder Successor in BST II",
+    "url": "https://leetcode.com/problems/inorder-successor-in-bst-ii/"
+  },
+  {
+    "title": "512. Game Play Analysis II",
+    "url": "https://leetcode.com/problems/game-play-analysis-ii/"
+  },
+  {
+    "title": "514. Freedom Trail",
+    "url": "https://leetcode.com/problems/freedom-trail/"
+  },
+  {
+    "title": "516. Longest Palindromic Subsequence",
+    "url": "https://leetcode.com/problems/longest-palindromic-subsequence/"
+  },
+  {
+    "title": "518. Coin Change II",
+    "url": "https://leetcode.com/problems/coin-change-ii/"
+  },
+  {
+    "title": "520. Detect Capital",
+    "url": "https://leetcode.com/problems/detect-capital/"
+  },
+  {
+    "title": "522. Longest Uncommon Subsequence II",
+    "url": "https://leetcode.com/problems/longest-uncommon-subsequence-ii/"
+  },
+  {
+    "title": "524. Longest Word in Dictionary through Deleting",
+    "url": "https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/"
+  },
+  {
+    "title": "526. Beautiful Arrangement",
+    "url": "https://leetcode.com/problems/beautiful-arrangement/"
+  },
+  {
+    "title": "528. Random Pick with Weight",
+    "url": "https://leetcode.com/problems/random-pick-with-weight/"
+  },
+  {
+    "title": "530. Minimum Absolute Difference in BST",
+    "url": "https://leetcode.com/problems/minimum-absolute-difference-in-bst/"
+  },
+  {
+    "title": "532. K-diff Pairs in an Array",
+    "url": "https://leetcode.com/problems/k-diff-pairs-in-an-array/"
+  },
+  {
+    "title": "534. Game Play Analysis III",
+    "url": "https://leetcode.com/problems/game-play-analysis-iii/"
+  },
+  {
+    "title": "536. Construct Binary Tree from String",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-string/"
+  },
+  {
+    "title": "538. Convert BST to Greater Tree",
+    "url": "https://leetcode.com/problems/convert-bst-to-greater-tree/"
+  },
+  {
+    "title": "540. Single Element in a Sorted Array",
+    "url": "https://leetcode.com/problems/single-element-in-a-sorted-array/"
+  },
+  {
+    "title": "542. 01 Matrix",
+    "url": "https://leetcode.com/problems/01-matrix/"
+  },
+  {
+    "title": "544. Output Contest Matches",
+    "url": "https://leetcode.com/problems/output-contest-matches/"
+  },
+  {
+    "title": "546. Remove Boxes",
+    "url": "https://leetcode.com/problems/remove-boxes/"
+  },
+  {
+    "title": "548. Split Array with Equal Sum",
+    "url": "https://leetcode.com/problems/split-array-with-equal-sum/"
+  },
+  {
+    "title": "550. Game Play Analysis IV",
+    "url": "https://leetcode.com/problems/game-play-analysis-iv/"
+  },
+  {
+    "title": "552. Student Attendance Record II",
+    "url": "https://leetcode.com/problems/student-attendance-record-ii/"
+  },
+  {
+    "title": "554. Brick Wall",
+    "url": "https://leetcode.com/problems/brick-wall/"
+  },
+  {
+    "title": "556. Next Greater Element III",
+    "url": "https://leetcode.com/problems/next-greater-element-iii/"
+  },
+  {
+    "title": "558. Logical OR of Two Binary Grids Represented as Quad-Trees",
+    "url": "https://leetcode.com/problems/logical-or-of-two-binary-grids-represented-as-quad-trees/"
+  },
+  {
+    "title": "560. Subarray Sum Equals K",
+    "url": "https://leetcode.com/problems/subarray-sum-equals-k/"
+  },
+  {
+    "title": "562. Longest Line of Consecutive One in Matrix",
+    "url": "https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix/"
+  },
+  {
+    "title": "564. Find the Closest Palindrome",
+    "url": "https://leetcode.com/problems/find-the-closest-palindrome/"
+  },
+  {
+    "title": "566. Reshape the Matrix",
+    "url": "https://leetcode.com/problems/reshape-the-matrix/"
+  },
+  {
+    "title": "568. Maximum Vacation Days",
+    "url": "https://leetcode.com/problems/maximum-vacation-days/"
+  },
+  {
+    "title": "570. Managers with at Least 5 Direct Reports",
+    "url": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports/"
+  },
+  {
+    "title": "572. Subtree of Another Tree",
+    "url": "https://leetcode.com/problems/subtree-of-another-tree/"
+  },
+  {
+    "title": "574. Winning Candidate",
+    "url": "https://leetcode.com/problems/winning-candidate/"
+  },
+  {
+    "title": "576. Out of Boundary Paths",
+    "url": "https://leetcode.com/problems/out-of-boundary-paths/"
+  },
+  {
+    "title": "578. Get Highest Answer Rate Question",
+    "url": "https://leetcode.com/problems/get-highest-answer-rate-question/"
+  },
+  {
+    "title": "580. Count Student Number in Departments",
+    "url": "https://leetcode.com/problems/count-student-number-in-departments/"
+  },
+  {
+    "title": "582. Kill Process",
+    "url": "https://leetcode.com/problems/kill-process/"
+  },
+  {
+    "title": "584. Find Customer Referee",
+    "url": "https://leetcode.com/problems/find-customer-referee/"
+  },
+  {
+    "title": "586. Customer Placing the Largest Number of Orders",
+    "url": "https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/"
+  },
+  {
+    "title": "588. Design In-Memory File System",
+    "url": "https://leetcode.com/problems/design-in-memory-file-system/"
+  },
+  {
+    "title": "590. N-ary Tree Postorder Traversal",
+    "url": "https://leetcode.com/problems/n-ary-tree-postorder-traversal/"
+  },
+  {
+    "title": "592. Fraction Addition and Subtraction",
+    "url": "https://leetcode.com/problems/fraction-addition-and-subtraction/"
+  },
+  {
+    "title": "594. Longest Harmonious Subsequence",
+    "url": "https://leetcode.com/problems/longest-harmonious-subsequence/"
+  },
+  {
+    "title": "596. Classes More Than 5 Students",
+    "url": "https://leetcode.com/problems/classes-more-than-5-students/"
+  },
+  {
+    "title": "598. Range Addition II",
+    "url": "https://leetcode.com/problems/range-addition-ii/"
+  },
+  {
+    "title": "600. Non-negative Integers without Consecutive Ones",
+    "url": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/"
+  },
+  {
+    "title": "602. Friend Requests II: Who Has the Most Friends",
+    "url": "https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/"
+  },
+  {
+    "title": "604. Design Compressed String Iterator",
+    "url": "https://leetcode.com/problems/design-compressed-string-iterator/"
+  },
+  {
+    "title": "606. Construct String from Binary Tree",
+    "url": "https://leetcode.com/problems/construct-string-from-binary-tree/"
+  },
+  {
+    "title": "608. Tree Node",
+    "url": "https://leetcode.com/problems/tree-node/"
+  },
+  {
+    "title": "610. Triangle Judgement",
+    "url": "https://leetcode.com/problems/triangle-judgement/"
+  },
+  {
+    "title": "612. Shortest Distance in a Plane",
+    "url": "https://leetcode.com/problems/shortest-distance-in-a-plane/"
+  },
+  {
+    "title": "614. Second Degree Follower",
+    "url": "https://leetcode.com/problems/second-degree-follower/"
+  },
+  {
+    "title": "616. Add Bold Tag in String",
+    "url": "https://leetcode.com/problems/add-bold-tag-in-string/"
+  },
+  {
+    "title": "618. Students Report By Geography",
+    "url": "https://leetcode.com/problems/students-report-by-geography/"
+  },
+  {
+    "title": "620. Not Boring Movies",
+    "url": "https://leetcode.com/problems/not-boring-movies/"
+  },
+  {
+    "title": "622. Design Circular Queue",
+    "url": "https://leetcode.com/problems/design-circular-queue/"
+  },
+  {
+    "title": "624. Maximum Distance in Arrays",
+    "url": "https://leetcode.com/problems/maximum-distance-in-arrays/"
+  },
+  {
+    "title": "626. Exchange Seats",
+    "url": "https://leetcode.com/problems/exchange-seats/"
+  },
+  {
+    "title": "628. Maximum Product of Three Numbers",
+    "url": "https://leetcode.com/problems/maximum-product-of-three-numbers/"
+  },
+  {
+    "title": "630. Course Schedule III",
+    "url": "https://leetcode.com/problems/course-schedule-iii/"
+  },
+  {
+    "title": "632. Smallest Range Covering Elements from K Lists",
+    "url": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/"
+  },
+  {
+    "title": "634. Find the Derangement of An Array",
+    "url": "https://leetcode.com/problems/find-the-derangement-of-an-array/"
+  },
+  {
+    "title": "636. Exclusive Time of Functions",
+    "url": "https://leetcode.com/problems/exclusive-time-of-functions/"
+  },
+  {
+    "title": "638. Shopping Offers",
+    "url": "https://leetcode.com/problems/shopping-offers/"
+  },
+  {
+    "title": "640. Solve the Equation",
+    "url": "https://leetcode.com/problems/solve-the-equation/"
+  },
+  {
+    "title": "642. Design Search Autocomplete System",
+    "url": "https://leetcode.com/problems/design-search-autocomplete-system/"
+  },
+  {
+    "title": "644. Maximum Average Subarray II",
+    "url": "https://leetcode.com/problems/maximum-average-subarray-ii/"
+  },
+  {
+    "title": "646. Maximum Length of Pair Chain",
+    "url": "https://leetcode.com/problems/maximum-length-of-pair-chain/"
+  },
+  {
+    "title": "648. Replace Words",
+    "url": "https://leetcode.com/problems/replace-words/"
+  },
+  {
+    "title": "650. 2 Keys Keyboard",
+    "url": "https://leetcode.com/problems/2-keys-keyboard/"
+  },
+  {
+    "title": "652. Find Duplicate Subtrees",
+    "url": "https://leetcode.com/problems/find-duplicate-subtrees/"
+  },
+  {
+    "title": "654. Maximum Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-binary-tree/"
+  },
+  {
+    "title": "656. Coin Path",
+    "url": "https://leetcode.com/problems/coin-path/"
+  },
+  {
+    "title": "658. Find K Closest Elements",
+    "url": "https://leetcode.com/problems/find-k-closest-elements/"
+  },
+  {
+    "title": "660. Remove 9",
+    "url": "https://leetcode.com/problems/remove-9/"
+  },
+  {
+    "title": "662. Maximum Width of Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-width-of-binary-tree/"
+  },
+  {
+    "title": "664. Strange Printer",
+    "url": "https://leetcode.com/problems/strange-printer/"
+  },
+  {
+    "title": "666. Path Sum IV",
+    "url": "https://leetcode.com/problems/path-sum-iv/"
+  },
+  {
+    "title": "668. Kth Smallest Number in Multiplication Table",
+    "url": "https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/"
+  },
+  {
+    "title": "670. Maximum Swap",
+    "url": "https://leetcode.com/problems/maximum-swap/"
+  },
+  {
+    "title": "672. Bulb Switcher II",
+    "url": "https://leetcode.com/problems/bulb-switcher-ii/"
+  },
+  {
+    "title": "674. Longest Continuous Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-continuous-increasing-subsequence/"
+  },
+  {
+    "title": "676. Implement Magic Dictionary",
+    "url": "https://leetcode.com/problems/implement-magic-dictionary/"
+  },
+  {
+    "title": "678. Valid Parenthesis String",
+    "url": "https://leetcode.com/problems/valid-parenthesis-string/"
+  },
+  {
+    "title": "680. Valid Palindrome II",
+    "url": "https://leetcode.com/problems/valid-palindrome-ii/"
+  },
+  {
+    "title": "682. Baseball Game",
+    "url": "https://leetcode.com/problems/baseball-game/"
+  },
+  {
+    "title": "684. Redundant Connection",
+    "url": "https://leetcode.com/problems/redundant-connection/"
+  },
+  {
+    "title": "686. Repeated String Match",
+    "url": "https://leetcode.com/problems/repeated-string-match/"
+  },
+  {
+    "title": "688. Knight Probability in Chessboard",
+    "url": "https://leetcode.com/problems/knight-probability-in-chessboard/"
+  },
+  {
+    "title": "690. Employee Importance",
+    "url": "https://leetcode.com/problems/employee-importance/"
+  },
+  {
+    "title": "692. Top K Frequent Words",
+    "url": "https://leetcode.com/problems/top-k-frequent-words/"
+  },
+  {
+    "title": "694. Number of Distinct Islands",
+    "url": "https://leetcode.com/problems/number-of-distinct-islands/"
+  },
+  {
+    "title": "696. Count Binary Substrings",
+    "url": "https://leetcode.com/problems/count-binary-substrings/"
+  },
+  {
+    "title": "698. Partition to K Equal Sum Subsets",
+    "url": "https://leetcode.com/problems/partition-to-k-equal-sum-subsets/"
+  },
+  {
+    "title": "700. Search in a Binary Search Tree",
+    "url": "https://leetcode.com/problems/search-in-a-binary-search-tree/"
+  },
+  {
+    "title": "702. Search in a Sorted Array of Unknown Size",
+    "url": "https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/"
+  },
+  {
+    "title": "704. Binary Search",
+    "url": "https://leetcode.com/problems/binary-search/"
+  },
+  {
+    "title": "706. Design HashMap",
+    "url": "https://leetcode.com/problems/design-hashmap/"
+  },
+  {
+    "title": "708. Insert into a Sorted Circular Linked List",
+    "url": "https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/"
+  },
+  {
+    "title": "710. Random Pick with Blacklist",
+    "url": "https://leetcode.com/problems/random-pick-with-blacklist/"
+  },
+  {
+    "title": "712. Minimum ASCII Delete Sum for Two Strings",
+    "url": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/"
+  },
+  {
+    "title": "714. Best Time to Buy and Sell Stock with Transaction Fee",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/"
+  },
+  {
+    "title": "716. Max Stack",
+    "url": "https://leetcode.com/problems/max-stack/"
+  },
+  {
+    "title": "718. Maximum Length of Repeated Subarray",
+    "url": "https://leetcode.com/problems/maximum-length-of-repeated-subarray/"
+  },
+  {
+    "title": "720. Longest Word in Dictionary",
+    "url": "https://leetcode.com/problems/longest-word-in-dictionary/"
+  },
+  {
+    "title": "722. Remove Comments",
+    "url": "https://leetcode.com/problems/remove-comments/"
+  },
+  {
+    "title": "724. Find Pivot Index",
+    "url": "https://leetcode.com/problems/find-pivot-index/"
+  },
+  {
+    "title": "726. Number of Atoms",
+    "url": "https://leetcode.com/problems/number-of-atoms/"
+  },
+  {
+    "title": "728. Self Dividing Numbers",
+    "url": "https://leetcode.com/problems/self-dividing-numbers/"
+  },
+  {
+    "title": "730. Count Different Palindromic Subsequences",
+    "url": "https://leetcode.com/problems/count-different-palindromic-subsequences/"
+  },
+  {
+    "title": "732. My Calendar III",
+    "url": "https://leetcode.com/problems/my-calendar-iii/"
+  },
+  {
+    "title": "734. Sentence Similarity",
+    "url": "https://leetcode.com/problems/sentence-similarity/"
+  },
+  {
+    "title": "736. Parse Lisp Expression",
+    "url": "https://leetcode.com/problems/parse-lisp-expression/"
+  },
+  {
+    "title": "738. Monotone Increasing Digits",
+    "url": "https://leetcode.com/problems/monotone-increasing-digits/"
+  },
+  {
+    "title": "740. Delete and Earn",
+    "url": "https://leetcode.com/problems/delete-and-earn/"
+  },
+  {
+    "title": "742. Closest Leaf in a Binary Tree",
+    "url": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree/"
+  },
+  {
+    "title": "744. Find Smallest Letter Greater Than Target",
+    "url": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/"
+  },
+  {
+    "title": "746. Min Cost Climbing Stairs",
+    "url": "https://leetcode.com/problems/min-cost-climbing-stairs/"
+  },
+  {
+    "title": "748. Shortest Completing Word",
+    "url": "https://leetcode.com/problems/shortest-completing-word/"
+  },
+  {
+    "title": "750. Number Of Corner Rectangles",
+    "url": "https://leetcode.com/problems/number-of-corner-rectangles/"
+  },
+  {
+    "title": "752. Open the Lock",
+    "url": "https://leetcode.com/problems/open-the-lock/"
+  },
+  {
+    "title": "754. Reach a Number",
+    "url": "https://leetcode.com/problems/reach-a-number/"
+  },
+  {
+    "title": "756. Pyramid Transition Matrix",
+    "url": "https://leetcode.com/problems/pyramid-transition-matrix/"
+  },
+  {
+    "title": "758. Bold Words in String",
+    "url": "https://leetcode.com/problems/bold-words-in-string/"
+  },
+  {
+    "title": "760. Find Anagram Mappings",
+    "url": "https://leetcode.com/problems/find-anagram-mappings/"
+  },
+  {
+    "title": "762. Prime Number of Set Bits in Binary Representation",
+    "url": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/"
+  },
+  {
+    "title": "764. Largest Plus Sign",
+    "url": "https://leetcode.com/problems/largest-plus-sign/"
+  },
+  {
+    "title": "766. Toeplitz Matrix",
+    "url": "https://leetcode.com/problems/toeplitz-matrix/"
+  },
+  {
+    "title": "768. Max Chunks To Make Sorted II",
+    "url": "https://leetcode.com/problems/max-chunks-to-make-sorted-ii/"
+  },
+  {
+    "title": "770. Basic Calculator IV",
+    "url": "https://leetcode.com/problems/basic-calculator-iv/"
+  },
+  {
+    "title": "772. Basic Calculator III",
+    "url": "https://leetcode.com/problems/basic-calculator-iii/"
+  },
+  {
+    "title": "774. Minimize Max Distance to Gas Station",
+    "url": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/"
+  },
+  {
+    "title": "776. Split BST",
+    "url": "https://leetcode.com/problems/split-bst/"
+  },
+  {
+    "title": "778. Swim in Rising Water",
+    "url": "https://leetcode.com/problems/swim-in-rising-water/"
+  },
+  {
+    "title": "780. Reaching Points",
+    "url": "https://leetcode.com/problems/reaching-points/"
+  },
+  {
+    "title": "782. Transform to Chessboard",
+    "url": "https://leetcode.com/problems/transform-to-chessboard/"
+  },
+  {
+    "title": "784. Letter Case Permutation",
+    "url": "https://leetcode.com/problems/letter-case-permutation/"
+  },
+  {
+    "title": "786. K-th Smallest Prime Fraction",
+    "url": "https://leetcode.com/problems/k-th-smallest-prime-fraction/"
+  },
+  {
+    "title": "788. Rotated Digits",
+    "url": "https://leetcode.com/problems/rotated-digits/"
+  },
+  {
+    "title": "790. Domino and Tromino Tiling",
+    "url": "https://leetcode.com/problems/domino-and-tromino-tiling/"
+  },
+  {
+    "title": "792. Number of Matching Subsequences",
+    "url": "https://leetcode.com/problems/number-of-matching-subsequences/"
+  },
+  {
+    "title": "794. Valid Tic-Tac-Toe State",
+    "url": "https://leetcode.com/problems/valid-tic-tac-toe-state/"
+  },
+  {
+    "title": "796. Rotate String",
+    "url": "https://leetcode.com/problems/rotate-string/"
+  },
+  {
+    "title": "798. Smallest Rotation with Highest Score",
+    "url": "https://leetcode.com/problems/smallest-rotation-with-highest-score/"
+  },
+  {
+    "title": "800. Similar RGB Color",
+    "url": "https://leetcode.com/problems/similar-rgb-color/"
+  },
+  {
+    "title": "802. Find Eventual Safe States",
+    "url": "https://leetcode.com/problems/find-eventual-safe-states/"
+  },
+  {
+    "title": "804. Unique Morse Code Words",
+    "url": "https://leetcode.com/problems/unique-morse-code-words/"
+  },
+  {
+    "title": "806. Number of Lines To Write String",
+    "url": "https://leetcode.com/problems/number-of-lines-to-write-string/"
+  },
+  {
+    "title": "808. Soup Servings",
+    "url": "https://leetcode.com/problems/soup-servings/"
+  },
+  {
+    "title": "810. Chalkboard XOR Game",
+    "url": "https://leetcode.com/problems/chalkboard-xor-game/"
+  },
+  {
+    "title": "812. Largest Triangle Area",
+    "url": "https://leetcode.com/problems/largest-triangle-area/"
+  },
+  {
+    "title": "814. Binary Tree Pruning",
+    "url": "https://leetcode.com/problems/binary-tree-pruning/"
+  },
+  {
+    "title": "816. Ambiguous Coordinates",
+    "url": "https://leetcode.com/problems/ambiguous-coordinates/"
+  },
+  {
+    "title": "818. Race Car",
+    "url": "https://leetcode.com/problems/race-car/"
+  },
+  {
+    "title": "820. Short Encoding of Words",
+    "url": "https://leetcode.com/problems/short-encoding-of-words/"
+  },
+  {
+    "title": "822. Card Flipping Game",
+    "url": "https://leetcode.com/problems/card-flipping-game/"
+  },
+  {
+    "title": "824. Goat Latin",
+    "url": "https://leetcode.com/problems/goat-latin/"
+  },
+  {
+    "title": "826. Most Profit Assigning Work",
+    "url": "https://leetcode.com/problems/most-profit-assigning-work/"
+  },
+  {
+    "title": "828. Count Unique Characters of All Substrings of a Given String",
+    "url": "https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/"
+  },
+  {
+    "title": "830. Positions of Large Groups",
+    "url": "https://leetcode.com/problems/positions-of-large-groups/"
+  },
+  {
+    "title": "832. Flipping an Image",
+    "url": "https://leetcode.com/problems/flipping-an-image/"
+  },
+  {
+    "title": "834. Sum of Distances in Tree",
+    "url": "https://leetcode.com/problems/sum-of-distances-in-tree/"
+  },
+  {
+    "title": "836. Rectangle Overlap",
+    "url": "https://leetcode.com/problems/rectangle-overlap/"
+  },
+  {
+    "title": "838. Push Dominoes",
+    "url": "https://leetcode.com/problems/push-dominoes/"
+  },
+  {
+    "title": "840. Magic Squares In Grid",
+    "url": "https://leetcode.com/problems/magic-squares-in-grid/"
+  },
+  {
+    "title": "842. Split Array into Fibonacci Sequence",
+    "url": "https://leetcode.com/problems/split-array-into-fibonacci-sequence/"
+  },
+  {
+    "title": "844. Backspace String Compare",
+    "url": "https://leetcode.com/problems/backspace-string-compare/"
+  },
+  {
+    "title": "846. Hand of Straights",
+    "url": "https://leetcode.com/problems/hand-of-straights/"
+  },
+  {
+    "title": "848. Shifting Letters",
+    "url": "https://leetcode.com/problems/shifting-letters/"
+  },
+  {
+    "title": "850. Rectangle Area II",
+    "url": "https://leetcode.com/problems/rectangle-area-ii/"
+  },
+  {
+    "title": "852. Peak Index in a Mountain Array",
+    "url": "https://leetcode.com/problems/peak-index-in-a-mountain-array/"
+  },
+  {
+    "title": "854. K-Similar Strings",
+    "url": "https://leetcode.com/problems/k-similar-strings/"
+  },
+  {
+    "title": "856. Score of Parentheses",
+    "url": "https://leetcode.com/problems/score-of-parentheses/"
+  },
+  {
+    "title": "858. Mirror Reflection",
+    "url": "https://leetcode.com/problems/mirror-reflection/"
+  },
+  {
+    "title": "860. Lemonade Change",
+    "url": "https://leetcode.com/problems/lemonade-change/"
+  },
+  {
+    "title": "862. Shortest Subarray with Sum at Least K",
+    "url": "https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/"
+  },
+  {
+    "title": "864. Shortest Path to Get All Keys",
+    "url": "https://leetcode.com/problems/shortest-path-to-get-all-keys/"
+  },
+  {
+    "title": "866. Prime Palindrome",
+    "url": "https://leetcode.com/problems/prime-palindrome/"
+  },
+  {
+    "title": "868. Binary Gap",
+    "url": "https://leetcode.com/problems/binary-gap/"
+  },
+  {
+    "title": "870. Advantage Shuffle",
+    "url": "https://leetcode.com/problems/advantage-shuffle/"
+  },
+  {
+    "title": "872. Leaf-Similar Trees",
+    "url": "https://leetcode.com/problems/leaf-similar-trees/"
+  },
+  {
+    "title": "874. Walking Robot Simulation",
+    "url": "https://leetcode.com/problems/walking-robot-simulation/"
+  },
+  {
+    "title": "876. Middle of the Linked List",
+    "url": "https://leetcode.com/problems/middle-of-the-linked-list/"
+  },
+  {
+    "title": "878. Nth Magical Number",
+    "url": "https://leetcode.com/problems/nth-magical-number/"
+  },
+  {
+    "title": "880. Decoded String at Index",
+    "url": "https://leetcode.com/problems/decoded-string-at-index/"
+  },
+  {
+    "title": "882. Reachable Nodes In Subdivided Graph",
+    "url": "https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/"
+  },
+  {
+    "title": "884. Uncommon Words from Two Sentences",
+    "url": "https://leetcode.com/problems/uncommon-words-from-two-sentences/"
+  },
+  {
+    "title": "886. Possible Bipartition",
+    "url": "https://leetcode.com/problems/possible-bipartition/"
+  },
+  {
+    "title": "888. Fair Candy Swap",
+    "url": "https://leetcode.com/problems/fair-candy-swap/"
+  },
+  {
+    "title": "890. Find and Replace Pattern",
+    "url": "https://leetcode.com/problems/find-and-replace-pattern/"
+  },
+  {
+    "title": "892. Surface Area of 3D Shapes",
+    "url": "https://leetcode.com/problems/surface-area-of-3d-shapes/"
+  },
+  {
+    "title": "894. All Possible Full Binary Trees",
+    "url": "https://leetcode.com/problems/all-possible-full-binary-trees/"
+  },
+  {
+    "title": "896. Monotonic Array",
+    "url": "https://leetcode.com/problems/monotonic-array/"
+  },
+  {
+    "title": "898. Bitwise ORs of Subarrays",
+    "url": "https://leetcode.com/problems/bitwise-ors-of-subarrays/"
+  },
+  {
+    "title": "900. RLE Iterator",
+    "url": "https://leetcode.com/problems/rle-iterator/"
+  },
+  {
+    "title": "902. Numbers At Most N Given Digit Set",
+    "url": "https://leetcode.com/problems/numbers-at-most-n-given-digit-set/"
+  },
+  {
+    "title": "904. Fruit Into Baskets",
+    "url": "https://leetcode.com/problems/fruit-into-baskets/"
+  },
+  {
+    "title": "906. Super Palindromes",
+    "url": "https://leetcode.com/problems/super-palindromes/"
+  },
+  {
+    "title": "908. Smallest Range I",
+    "url": "https://leetcode.com/problems/smallest-range-i/"
+  },
+  {
+    "title": "910. Smallest Range II",
+    "url": "https://leetcode.com/problems/smallest-range-ii/"
+  },
+  {
+    "title": "912. Sort an Array",
+    "url": "https://leetcode.com/problems/sort-an-array/"
+  },
+  {
+    "title": "914. X of a Kind in a Deck of Cards",
+    "url": "https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/"
+  },
+  {
+    "title": "916. Word Subsets",
+    "url": "https://leetcode.com/problems/word-subsets/"
+  },
+  {
+    "title": "918. Maximum Sum Circular Subarray",
+    "url": "https://leetcode.com/problems/maximum-sum-circular-subarray/"
+  },
+  {
+    "title": "920. Number of Music Playlists",
+    "url": "https://leetcode.com/problems/number-of-music-playlists/"
+  },
+  {
+    "title": "922. Sort Array By Parity II",
+    "url": "https://leetcode.com/problems/sort-array-by-parity-ii/"
+  },
+  {
+    "title": "924. Minimize Malware Spread",
+    "url": "https://leetcode.com/problems/minimize-malware-spread/"
+  },
+  {
+    "title": "926. Flip String to Monotone Increasing",
+    "url": "https://leetcode.com/problems/flip-string-to-monotone-increasing/"
+  },
+  {
+    "title": "928. Minimize Malware Spread II",
+    "url": "https://leetcode.com/problems/minimize-malware-spread-ii/"
+  },
+  {
+    "title": "930. Binary Subarrays With Sum",
+    "url": "https://leetcode.com/problems/binary-subarrays-with-sum/"
+  },
+  {
+    "title": "932. Beautiful Array",
+    "url": "https://leetcode.com/problems/beautiful-array/"
+  },
+  {
+    "title": "934. Shortest Bridge",
+    "url": "https://leetcode.com/problems/shortest-bridge/"
+  },
+  {
+    "title": "936. Stamping The Sequence",
+    "url": "https://leetcode.com/problems/stamping-the-sequence/"
+  },
+  {
+    "title": "938. Range Sum of BST",
+    "url": "https://leetcode.com/problems/range-sum-of-bst/"
+  },
+  {
+    "title": "940. Distinct Subsequences II",
+    "url": "https://leetcode.com/problems/distinct-subsequences-ii/"
+  },
+  {
+    "title": "942. DI String Match",
+    "url": "https://leetcode.com/problems/di-string-match/"
+  },
+  {
+    "title": "944. Delete Columns to Make Sorted",
+    "url": "https://leetcode.com/problems/delete-columns-to-make-sorted/"
+  },
+  {
+    "title": "946. Validate Stack Sequences",
+    "url": "https://leetcode.com/problems/validate-stack-sequences/"
+  },
+  {
+    "title": "948. Bag of Tokens",
+    "url": "https://leetcode.com/problems/bag-of-tokens/"
+  },
+  {
+    "title": "950. Reveal Cards In Increasing Order",
+    "url": "https://leetcode.com/problems/reveal-cards-in-increasing-order/"
+  },
+  {
+    "title": "952. Largest Component Size by Common Factor",
+    "url": "https://leetcode.com/problems/largest-component-size-by-common-factor/"
+  },
+  {
+    "title": "954. Array of Doubled Pairs",
+    "url": "https://leetcode.com/problems/array-of-doubled-pairs/"
+  },
+  {
+    "title": "956. Tallest Billboard",
+    "url": "https://leetcode.com/problems/tallest-billboard/"
+  },
+  {
+    "title": "958. Check Completeness of a Binary Tree",
+    "url": "https://leetcode.com/problems/check-completeness-of-a-binary-tree/"
+  },
+  {
+    "title": "960. Delete Columns to Make Sorted III",
+    "url": "https://leetcode.com/problems/delete-columns-to-make-sorted-iii/"
+  },
+  {
+    "title": "962. Maximum Width Ramp",
+    "url": "https://leetcode.com/problems/maximum-width-ramp/"
+  },
+  {
+    "title": "964. Least Operators to Express Number",
+    "url": "https://leetcode.com/problems/least-operators-to-express-number/"
+  },
+  {
+    "title": "966. Vowel Spellchecker",
+    "url": "https://leetcode.com/problems/vowel-spellchecker/"
+  },
+  {
+    "title": "968. Binary Tree Cameras",
+    "url": "https://leetcode.com/problems/binary-tree-cameras/"
+  },
+  {
+    "title": "970. Powerful Integers",
+    "url": "https://leetcode.com/problems/powerful-integers/"
+  },
+  {
+    "title": "972. Equal Rational Numbers",
+    "url": "https://leetcode.com/problems/equal-rational-numbers/"
+  },
+  {
+    "title": "974. Subarray Sums Divisible by K",
+    "url": "https://leetcode.com/problems/subarray-sums-divisible-by-k/"
+  },
+  {
+    "title": "976. Largest Perimeter Triangle",
+    "url": "https://leetcode.com/problems/largest-perimeter-triangle/"
+  },
+  {
+    "title": "978. Longest Turbulent Subarray",
+    "url": "https://leetcode.com/problems/longest-turbulent-subarray/"
+  },
+  {
+    "title": "980. Unique Paths III",
+    "url": "https://leetcode.com/problems/unique-paths-iii/"
+  },
+  {
+    "title": "982. Triples with Bitwise AND Equal To Zero",
+    "url": "https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/"
+  },
+  {
+    "title": "984. String Without AAA or BBB",
+    "url": "https://leetcode.com/problems/string-without-aaa-or-bbb/"
+  },
+  {
+    "title": "986. Interval List Intersections",
+    "url": "https://leetcode.com/problems/interval-list-intersections/"
+  },
+  {
+    "title": "988. Smallest String Starting From Leaf",
+    "url": "https://leetcode.com/problems/smallest-string-starting-from-leaf/"
+  },
+  {
+    "title": "990. Satisfiability of Equality Equations",
+    "url": "https://leetcode.com/problems/satisfiability-of-equality-equations/"
+  },
+  {
+    "title": "992. Subarrays with K Different Integers",
+    "url": "https://leetcode.com/problems/subarrays-with-k-different-integers/"
+  },
+  {
+    "title": "994. Rotting Oranges",
+    "url": "https://leetcode.com/problems/rotting-oranges/"
+  },
+  {
+    "title": "996. Number of Squareful Arrays",
+    "url": "https://leetcode.com/problems/number-of-squareful-arrays/"
+  },
+  {
+    "title": "998. Maximum Binary Tree II",
+    "url": "https://leetcode.com/problems/maximum-binary-tree-ii/"
+  },
+  {
+    "title": "1000. Minimum Cost to Merge Stones",
+    "url": "https://leetcode.com/problems/minimum-cost-to-merge-stones/"
+  },
+  {
+    "title": "1002. Find Common Characters",
+    "url": "https://leetcode.com/problems/find-common-characters/"
+  },
+  {
+    "title": "1004. Max Consecutive Ones III",
+    "url": "https://leetcode.com/problems/max-consecutive-ones-iii/"
+  },
+  {
+    "title": "1006. Clumsy Factorial",
+    "url": "https://leetcode.com/problems/clumsy-factorial/"
+  },
+  {
+    "title": "1008. Construct Binary Search Tree from Preorder Traversal",
+    "url": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/"
+  },
+  {
+    "title": "1010. Pairs of Songs With Total Durations Divisible by 60",
+    "url": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/"
+  },
+  {
+    "title": "1012. Numbers With Repeated Digits",
+    "url": "https://leetcode.com/problems/numbers-with-repeated-digits/"
+  },
+  {
+    "title": "1014. Best Sightseeing Pair",
+    "url": "https://leetcode.com/problems/best-sightseeing-pair/"
+  },
+  {
+    "title": "1016. Binary String With Substrings Representing 1 To N",
+    "url": "https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/"
+  },
+  {
+    "title": "1018. Binary Prefix Divisible By 5",
+    "url": "https://leetcode.com/problems/binary-prefix-divisible-by-5/"
+  },
+  {
+    "title": "1020. Number of Enclaves",
+    "url": "https://leetcode.com/problems/number-of-enclaves/"
+  },
+  {
+    "title": "1022. Sum of Root To Leaf Binary Numbers",
+    "url": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/"
+  },
+  {
+    "title": "1024. Video Stitching",
+    "url": "https://leetcode.com/problems/video-stitching/"
+  },
+  {
+    "title": "1026. Maximum Difference Between Node and Ancestor",
+    "url": "https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/"
+  },
+  {
+    "title": "1028. Recover a Tree From Preorder Traversal",
+    "url": "https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/"
+  },
+  {
+    "title": "1030. Matrix Cells in Distance Order",
+    "url": "https://leetcode.com/problems/matrix-cells-in-distance-order/"
+  },
+  {
+    "title": "1032. Stream of Characters",
+    "url": "https://leetcode.com/problems/stream-of-characters/"
+  },
+  {
+    "title": "1034. Coloring A Border",
+    "url": "https://leetcode.com/problems/coloring-a-border/"
+  },
+  {
+    "title": "1036. Escape a Large Maze",
+    "url": "https://leetcode.com/problems/escape-a-large-maze/"
+  },
+  {
+    "title": "1038. Binary Search Tree to Greater Sum Tree",
+    "url": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/"
+  },
+  {
+    "title": "1040. Moving Stones Until Consecutive II",
+    "url": "https://leetcode.com/problems/moving-stones-until-consecutive-ii/"
+  },
+  {
+    "title": "1042. Flower Planting With No Adjacent",
+    "url": "https://leetcode.com/problems/flower-planting-with-no-adjacent/"
+  },
+  {
+    "title": "1044. Longest Duplicate Substring",
+    "url": "https://leetcode.com/problems/longest-duplicate-substring/"
+  },
+  {
+    "title": "1046. Last Stone Weight",
+    "url": "https://leetcode.com/problems/last-stone-weight/"
+  },
+  {
+    "title": "1048. Longest String Chain",
+    "url": "https://leetcode.com/problems/longest-string-chain/"
+  },
+  {
+    "title": "1050. Actors and Directors Who Cooperated At Least Three Times",
+    "url": "https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/"
+  },
+  {
+    "title": "1052. Grumpy Bookstore Owner",
+    "url": "https://leetcode.com/problems/grumpy-bookstore-owner/"
+  },
+  {
+    "title": "1054. Distant Barcodes",
+    "url": "https://leetcode.com/problems/distant-barcodes/"
+  },
+  {
+    "title": "1056. Confusing Number",
+    "url": "https://leetcode.com/problems/confusing-number/"
+  },
+  {
+    "title": "1058. Minimize Rounding Error to Meet Target",
+    "url": "https://leetcode.com/problems/minimize-rounding-error-to-meet-target/"
+  },
+  {
+    "title": "1060. Missing Element in Sorted Array",
+    "url": "https://leetcode.com/problems/missing-element-in-sorted-array/"
+  },
+  {
+    "title": "1062. Longest Repeating Substring",
+    "url": "https://leetcode.com/problems/longest-repeating-substring/"
+  },
+  {
+    "title": "1064. Fixed Point",
+    "url": "https://leetcode.com/problems/fixed-point/"
+  },
+  {
+    "title": "1066. Campus Bikes II",
+    "url": "https://leetcode.com/problems/campus-bikes-ii/"
+  },
+  {
+    "title": "1068. Product Sales Analysis I",
+    "url": "https://leetcode.com/problems/product-sales-analysis-i/"
+  },
+  {
+    "title": "1070. Product Sales Analysis III",
+    "url": "https://leetcode.com/problems/product-sales-analysis-iii/"
+  },
+  {
+    "title": "1072. Flip Columns For Maximum Number of Equal Rows",
+    "url": "https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/"
+  },
+  {
+    "title": "1074. Number of Submatrices That Sum to Target",
+    "url": "https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/"
+  },
+  {
+    "title": "1076. Project Employees II",
+    "url": "https://leetcode.com/problems/project-employees-ii/"
+  },
+  {
+    "title": "1078. Occurrences After Bigram",
+    "url": "https://leetcode.com/problems/occurrences-after-bigram/"
+  },
+  {
+    "title": "1080. Insufficient Nodes in Root to Leaf Paths",
+    "url": "https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/"
+  },
+  {
+    "title": "1082. Sales Analysis I",
+    "url": "https://leetcode.com/problems/sales-analysis-i/"
+  },
+  {
+    "title": "1084. Sales Analysis III",
+    "url": "https://leetcode.com/problems/sales-analysis-iii/"
+  },
+  {
+    "title": "1086. High Five",
+    "url": "https://leetcode.com/problems/high-five/"
+  },
+  {
+    "title": "1088. Confusing Number II",
+    "url": "https://leetcode.com/problems/confusing-number-ii/"
+  },
+  {
+    "title": "1090. Largest Values From Labels",
+    "url": "https://leetcode.com/problems/largest-values-from-labels/"
+  },
+  {
+    "title": "1092. Shortest Common Supersequence",
+    "url": "https://leetcode.com/problems/shortest-common-supersequence/"
+  },
+  {
+    "title": "1094. Car Pooling",
+    "url": "https://leetcode.com/problems/car-pooling/"
+  },
+  {
+    "title": "1096. Brace Expansion II",
+    "url": "https://leetcode.com/problems/brace-expansion-ii/"
+  },
+  {
+    "title": "1098. Unpopular Books",
+    "url": "https://leetcode.com/problems/unpopular-books/"
+  },
+  {
+    "title": "1100. Find K-Length Substrings With No Repeated Characters",
+    "url": "https://leetcode.com/problems/find-k-length-substrings-with-no-repeated-characters/"
+  },
+  {
+    "title": "1102. Path With Maximum Minimum Value",
+    "url": "https://leetcode.com/problems/path-with-maximum-minimum-value/"
+  },
+  {
+    "title": "1104. Path In Zigzag Labelled Binary Tree",
+    "url": "https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/"
+  },
+  {
+    "title": "1106. Parsing A Boolean Expression",
+    "url": "https://leetcode.com/problems/parsing-a-boolean-expression/"
+  },
+  {
+    "title": "1108. Defanging an IP Address",
+    "url": "https://leetcode.com/problems/defanging-an-ip-address/"
+  },
+  {
+    "title": "1110. Delete Nodes And Return Forest",
+    "url": "https://leetcode.com/problems/delete-nodes-and-return-forest/"
+  },
+  {
+    "title": "1112. Highest Grade For Each Student",
+    "url": "https://leetcode.com/problems/highest-grade-for-each-student/"
+  },
+  {
+    "title": "1114. Print in Order",
+    "url": "https://leetcode.com/problems/print-in-order/"
+  },
+  {
+    "title": "1116. Print Zero Even Odd",
+    "url": "https://leetcode.com/problems/print-zero-even-odd/"
+  },
+  {
+    "title": "1118. Number of Days in a Month",
+    "url": "https://leetcode.com/problems/number-of-days-in-a-month/"
+  },
+  {
+    "title": "1120. Maximum Average Subtree",
+    "url": "https://leetcode.com/problems/maximum-average-subtree/"
+  },
+  {
+    "title": "1122. Relative Sort Array",
+    "url": "https://leetcode.com/problems/relative-sort-array/"
+  },
+  {
+    "title": "1124. Longest Well-Performing Interval",
+    "url": "https://leetcode.com/problems/longest-well-performing-interval/"
+  },
+  {
+    "title": "1126. Active Businesses",
+    "url": "https://leetcode.com/problems/active-businesses/"
+  },
+  {
+    "title": "1128. Number of Equivalent Domino Pairs",
+    "url": "https://leetcode.com/problems/number-of-equivalent-domino-pairs/"
+  },
+  {
+    "title": "1130. Minimum Cost Tree From Leaf Values",
+    "url": "https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/"
+  },
+  {
+    "title": "1132. Reported Posts II",
+    "url": "https://leetcode.com/problems/reported-posts-ii/"
+  },
+  {
+    "title": "1134. Armstrong Number",
+    "url": "https://leetcode.com/problems/armstrong-number/"
+  },
+  {
+    "title": "1136. Parallel Courses",
+    "url": "https://leetcode.com/problems/parallel-courses/"
+  },
+  {
+    "title": "1138. Alphabet Board Path",
+    "url": "https://leetcode.com/problems/alphabet-board-path/"
+  },
+  {
+    "title": "1140. Stone Game II",
+    "url": "https://leetcode.com/problems/stone-game-ii/"
+  },
+  {
+    "title": "1142. User Activity for the Past 30 Days II",
+    "url": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii/"
+  },
+  {
+    "title": "1144. Decrease Elements To Make Array Zigzag",
+    "url": "https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/"
+  },
+  {
+    "title": "1146. Snapshot Array",
+    "url": "https://leetcode.com/problems/snapshot-array/"
+  },
+  {
+    "title": "1148. Article Views I",
+    "url": "https://leetcode.com/problems/article-views-i/"
+  },
+  {
+    "title": "1150. Check If a Number Is Majority Element in a Sorted Array",
+    "url": "https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/"
+  },
+  {
+    "title": "1152. Analyze User Website Visit Pattern",
+    "url": "https://leetcode.com/problems/analyze-user-website-visit-pattern/"
+  },
+  {
+    "title": "1154. Day of the Year",
+    "url": "https://leetcode.com/problems/day-of-the-year/"
+  },
+  {
+    "title": "1156. Swap For Longest Repeated Character Substring",
+    "url": "https://leetcode.com/problems/swap-for-longest-repeated-character-substring/"
+  },
+  {
+    "title": "1158. Market Analysis I",
+    "url": "https://leetcode.com/problems/market-analysis-i/"
+  },
+  {
+    "title": "1160. Find Words That Can Be Formed by Characters",
+    "url": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/"
+  },
+  {
+    "title": "1162. As Far from Land as Possible",
+    "url": "https://leetcode.com/problems/as-far-from-land-as-possible/"
+  },
+  {
+    "title": "1164. Product Price at a Given Date",
+    "url": "https://leetcode.com/problems/product-price-at-a-given-date/"
+  },
+  {
+    "title": "1166. Design File System",
+    "url": "https://leetcode.com/problems/design-file-system/"
+  },
+  {
+    "title": "1168. Optimize Water Distribution in a Village",
+    "url": "https://leetcode.com/problems/optimize-water-distribution-in-a-village/"
+  },
+  {
+    "title": "1170. Compare Strings by Frequency of the Smallest Character",
+    "url": "https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/"
+  },
+  {
+    "title": "1172. Dinner Plate Stacks",
+    "url": "https://leetcode.com/problems/dinner-plate-stacks/"
+  },
+  {
+    "title": "1174. Immediate Food Delivery II",
+    "url": "https://leetcode.com/problems/immediate-food-delivery-ii/"
+  },
+  {
+    "title": "1176. Diet Plan Performance",
+    "url": "https://leetcode.com/problems/diet-plan-performance/"
+  },
+  {
+    "title": "1178. Number of Valid Words for Each Puzzle",
+    "url": "https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/"
+  },
+  {
+    "title": "1180. Count Substrings with Only One Distinct Letter",
+    "url": "https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/"
+  },
+  {
+    "title": "1182. Shortest Distance to Target Color",
+    "url": "https://leetcode.com/problems/shortest-distance-to-target-color/"
+  },
+  {
+    "title": "1184. Distance Between Bus Stops",
+    "url": "https://leetcode.com/problems/distance-between-bus-stops/"
+  },
+  {
+    "title": "1186. Maximum Subarray Sum with One Deletion",
+    "url": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/"
+  },
+  {
+    "title": "1188. Design Bounded Blocking Queue",
+    "url": "https://leetcode.com/problems/design-bounded-blocking-queue/"
+  },
+  {
+    "title": "1190. Reverse Substrings Between Each Pair of Parentheses",
+    "url": "https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/"
+  },
+  {
+    "title": "1192. Critical Connections in a Network",
+    "url": "https://leetcode.com/problems/critical-connections-in-a-network/"
+  },
+  {
+    "title": "1194. Tournament Winners",
+    "url": "https://leetcode.com/problems/tournament-winners/"
+  },
+  {
+    "title": "1196. How Many Apples Can You Put into the Basket",
+    "url": "https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/"
+  },
+  {
+    "title": "1198. Find Smallest Common Element in All Rows",
+    "url": "https://leetcode.com/problems/find-smallest-common-element-in-all-rows/"
+  },
+  {
+    "title": "1200. Minimum Absolute Difference",
+    "url": "https://leetcode.com/problems/minimum-absolute-difference/"
+  },
+  {
+    "title": "1202. Smallest String With Swaps",
+    "url": "https://leetcode.com/problems/smallest-string-with-swaps/"
+  },
+  {
+    "title": "1204. Last Person to Fit in the Bus",
+    "url": "https://leetcode.com/problems/last-person-to-fit-in-the-bus/"
+  },
+  {
+    "title": "1206. Design Skiplist",
+    "url": "https://leetcode.com/problems/design-skiplist/"
+  },
+  {
+    "title": "1208. Get Equal Substrings Within Budget",
+    "url": "https://leetcode.com/problems/get-equal-substrings-within-budget/"
+  },
+  {
+    "title": "1210. Minimum Moves to Reach Target with Rotations",
+    "url": "https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/"
+  },
+  {
+    "title": "1212. Team Scores in Football Tournament",
+    "url": "https://leetcode.com/problems/team-scores-in-football-tournament/"
+  },
+  {
+    "title": "1214. Two Sum BSTs",
+    "url": "https://leetcode.com/problems/two-sum-bsts/"
+  },
+  {
+    "title": "1216. Valid Palindrome III",
+    "url": "https://leetcode.com/problems/valid-palindrome-iii/"
+  },
+  {
+    "title": "1218. Longest Arithmetic Subsequence of Given Difference",
+    "url": "https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/"
+  },
+  {
+    "title": "1220. Count Vowels Permutation",
+    "url": "https://leetcode.com/problems/count-vowels-permutation/"
+  },
+  {
+    "title": "1222. Queens That Can Attack the King",
+    "url": "https://leetcode.com/problems/queens-that-can-attack-the-king/"
+  },
+  {
+    "title": "1224. Maximum Equal Frequency",
+    "url": "https://leetcode.com/problems/maximum-equal-frequency/"
+  },
+  {
+    "title": "1226. The Dining Philosophers",
+    "url": "https://leetcode.com/problems/the-dining-philosophers/"
+  },
+  {
+    "title": "1228. Missing Number In Arithmetic Progression",
+    "url": "https://leetcode.com/problems/missing-number-in-arithmetic-progression/"
+  },
+  {
+    "title": "1230. Toss Strange Coins",
+    "url": "https://leetcode.com/problems/toss-strange-coins/"
+  },
+  {
+    "title": "1232. Check If It Is a Straight Line",
+    "url": "https://leetcode.com/problems/check-if-it-is-a-straight-line/"
+  },
+  {
+    "title": "1234. Replace the Substring for Balanced String",
+    "url": "https://leetcode.com/problems/replace-the-substring-for-balanced-string/"
+  },
+  {
+    "title": "1236. Web Crawler",
+    "url": "https://leetcode.com/problems/web-crawler/"
+  },
+  {
+    "title": "1238. Circular Permutation in Binary Representation",
+    "url": "https://leetcode.com/problems/circular-permutation-in-binary-representation/"
+  },
+  {
+    "title": "1240. Tiling a Rectangle with the Fewest Squares",
+    "url": "https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/"
+  },
+  {
+    "title": "1242. Web Crawler Multithreaded",
+    "url": "https://leetcode.com/problems/web-crawler-multithreaded/"
+  },
+  {
+    "title": "1244. Design A Leaderboard",
+    "url": "https://leetcode.com/problems/design-a-leaderboard/"
+  },
+  {
+    "title": "1246. Palindrome Removal",
+    "url": "https://leetcode.com/problems/palindrome-removal/"
+  },
+  {
+    "title": "1248. Count Number of Nice Subarrays",
+    "url": "https://leetcode.com/problems/count-number-of-nice-subarrays/"
+  },
+  {
+    "title": "1250. Check If It Is a Good Array",
+    "url": "https://leetcode.com/problems/check-if-it-is-a-good-array/"
+  },
+  {
+    "title": "1252. Cells with Odd Values in a Matrix",
+    "url": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/"
+  },
+  {
+    "title": "1254. Number of Closed Islands",
+    "url": "https://leetcode.com/problems/number-of-closed-islands/"
+  },
+  {
+    "title": "1256. Encode Number",
+    "url": "https://leetcode.com/problems/encode-number/"
+  },
+  {
+    "title": "1258. Synonymous Sentences",
+    "url": "https://leetcode.com/problems/synonymous-sentences/"
+  },
+  {
+    "title": "1260. Shift 2D Grid",
+    "url": "https://leetcode.com/problems/shift-2d-grid/"
+  },
+  {
+    "title": "1262. Greatest Sum Divisible by Three",
+    "url": "https://leetcode.com/problems/greatest-sum-divisible-by-three/"
+  },
+  {
+    "title": "1264. Page Recommendations",
+    "url": "https://leetcode.com/problems/page-recommendations/"
+  },
+  {
+    "title": "1266. Minimum Time Visiting All Points",
+    "url": "https://leetcode.com/problems/minimum-time-visiting-all-points/"
+  },
+  {
+    "title": "1268. Search Suggestions System",
+    "url": "https://leetcode.com/problems/search-suggestions-system/"
+  },
+  {
+    "title": "1270. All People Report to the Given Manager",
+    "url": "https://leetcode.com/problems/all-people-report-to-the-given-manager/"
+  },
+  {
+    "title": "1272. Remove Interval",
+    "url": "https://leetcode.com/problems/remove-interval/"
+  },
+  {
+    "title": "1274. Number of Ships in a Rectangle",
+    "url": "https://leetcode.com/problems/number-of-ships-in-a-rectangle/"
+  },
+  {
+    "title": "1276. Number of Burgers with No Waste of Ingredients",
+    "url": "https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/"
+  },
+  {
+    "title": "1278. Palindrome Partitioning III",
+    "url": "https://leetcode.com/problems/palindrome-partitioning-iii/"
+  },
+  {
+    "title": "1280. Students and Examinations",
+    "url": "https://leetcode.com/problems/students-and-examinations/"
+  },
+  {
+    "title": "1282. Group the People Given the Group Size They Belong To",
+    "url": "https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/"
+  },
+  {
+    "title": "1284. Minimum Number of Flips to Convert Binary Matrix to Zero Matrix",
+    "url": "https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/"
+  },
+  {
+    "title": "1286. Iterator for Combination",
+    "url": "https://leetcode.com/problems/iterator-for-combination/"
+  },
+  {
+    "title": "1288. Remove Covered Intervals",
+    "url": "https://leetcode.com/problems/remove-covered-intervals/"
+  },
+  {
+    "title": "1290. Convert Binary Number in a Linked List to Integer",
+    "url": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/"
+  },
+  {
+    "title": "1292. Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "url": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/"
+  },
+  {
+    "title": "1294. Weather Type in Each Country",
+    "url": "https://leetcode.com/problems/weather-type-in-each-country/"
+  },
+  {
+    "title": "1296. Divide Array in Sets of K Consecutive Numbers",
+    "url": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/"
+  },
+  {
+    "title": "1298. Maximum Candies You Can Get from Boxes",
+    "url": "https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/"
+  },
+  {
+    "title": "1300. Sum of Mutated Array Closest to Target",
+    "url": "https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/"
+  },
+  {
+    "title": "1302. Deepest Leaves Sum",
+    "url": "https://leetcode.com/problems/deepest-leaves-sum/"
+  },
+  {
+    "title": "1304. Find N Unique Integers Sum up to Zero",
+    "url": "https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/"
+  },
+  {
+    "title": "1306. Jump Game III",
+    "url": "https://leetcode.com/problems/jump-game-iii/"
+  },
+  {
+    "title": "1308. Running Total for Different Genders",
+    "url": "https://leetcode.com/problems/running-total-for-different-genders/"
+  },
+  {
+    "title": "1310. XOR Queries of a Subarray",
+    "url": "https://leetcode.com/problems/xor-queries-of-a-subarray/"
+  },
+  {
+    "title": "1312. Minimum Insertion Steps to Make a String Palindrome",
+    "url": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/"
+  },
+  {
+    "title": "1314. Matrix Block Sum",
+    "url": "https://leetcode.com/problems/matrix-block-sum/"
+  },
+  {
+    "title": "1316. Distinct Echo Substrings",
+    "url": "https://leetcode.com/problems/distinct-echo-substrings/"
+  },
+  {
+    "title": "1318. Minimum Flips to Make a OR b Equal to c",
+    "url": "https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/"
+  },
+  {
+    "title": "1320. Minimum Distance to Type a Word Using Two Fingers",
+    "url": "https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/"
+  },
+  {
+    "title": "1322. Ads Performance",
+    "url": "https://leetcode.com/problems/ads-performance/"
+  },
+  {
+    "title": "1324. Print Words Vertically",
+    "url": "https://leetcode.com/problems/print-words-vertically/"
+  },
+  {
+    "title": "1326. Minimum Number of Taps to Open to Water a Garden",
+    "url": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/"
+  },
+  {
+    "title": "1328. Break a Palindrome",
+    "url": "https://leetcode.com/problems/break-a-palindrome/"
+  },
+  {
+    "title": "1330. Reverse Subarray To Maximize Array Value",
+    "url": "https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/"
+  },
+  {
+    "title": "1332. Remove Palindromic Subsequences",
+    "url": "https://leetcode.com/problems/remove-palindromic-subsequences/"
+  },
+  {
+    "title": "1334. Find the City With the Smallest Number of Neighbors at a Threshold Distance",
+    "url": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/"
+  },
+  {
+    "title": "1336. Number of Transactions per Visit",
+    "url": "https://leetcode.com/problems/number-of-transactions-per-visit/"
+  },
+  {
+    "title": "1338. Reduce Array Size to The Half",
+    "url": "https://leetcode.com/problems/reduce-array-size-to-the-half/"
+  },
+  {
+    "title": "1340. Jump Game V",
+    "url": "https://leetcode.com/problems/jump-game-v/"
+  },
+  {
+    "title": "1342. Number of Steps to Reduce a Number to Zero",
+    "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/"
+  },
+  {
+    "title": "1344. Angle Between Hands of a Clock",
+    "url": "https://leetcode.com/problems/angle-between-hands-of-a-clock/"
+  },
+  {
+    "title": "1346. Check If N and Its Double Exist",
+    "url": "https://leetcode.com/problems/check-if-n-and-its-double-exist/"
+  },
+  {
+    "title": "1348. Tweet Counts Per Frequency",
+    "url": "https://leetcode.com/problems/tweet-counts-per-frequency/"
+  },
+  {
+    "title": "1350. Students With Invalid Departments",
+    "url": "https://leetcode.com/problems/students-with-invalid-departments/"
+  },
+  {
+    "title": "1352. Product of the Last K Numbers",
+    "url": "https://leetcode.com/problems/product-of-the-last-k-numbers/"
+  },
+  {
+    "title": "1354. Construct Target Array With Multiple Sums",
+    "url": "https://leetcode.com/problems/construct-target-array-with-multiple-sums/"
+  },
+  {
+    "title": "1356. Sort Integers by The Number of 1 Bits",
+    "url": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/"
+  },
+  {
+    "title": "1358. Number of Substrings Containing All Three Characters",
+    "url": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/"
+  },
+  {
+    "title": "1360. Number of Days Between Two Dates",
+    "url": "https://leetcode.com/problems/number-of-days-between-two-dates/"
+  },
+  {
+    "title": "1362. Closest Divisors",
+    "url": "https://leetcode.com/problems/closest-divisors/"
+  },
+  {
+    "title": "1364. Number of Trusted Contacts of a Customer",
+    "url": "https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/"
+  },
+  {
+    "title": "1366. Rank Teams by Votes",
+    "url": "https://leetcode.com/problems/rank-teams-by-votes/"
+  },
+  {
+    "title": "1368. Minimum Cost to Make at Least One Valid Path in a Grid",
+    "url": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/"
+  },
+  {
+    "title": "1370. Increasing Decreasing String",
+    "url": "https://leetcode.com/problems/increasing-decreasing-string/"
+  },
+  {
+    "title": "1372. Longest ZigZag Path in a Binary Tree",
+    "url": "https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/"
+  },
+  {
+    "title": "1374. Generate a String With Characters That Have Odd Counts",
+    "url": "https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/"
+  },
+  {
+    "title": "1376. Time Needed to Inform All Employees",
+    "url": "https://leetcode.com/problems/time-needed-to-inform-all-employees/"
+  },
+  {
+    "title": "1378. Replace Employee ID With The Unique Identifier",
+    "url": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/"
+  },
+  {
+    "title": "1380. Lucky Numbers in a Matrix",
+    "url": "https://leetcode.com/problems/lucky-numbers-in-a-matrix/"
+  },
+  {
+    "title": "1382. Balance a Binary Search Tree",
+    "url": "https://leetcode.com/problems/balance-a-binary-search-tree/"
+  },
+  {
+    "title": "1384. Total Sales Amount by Year",
+    "url": "https://leetcode.com/problems/total-sales-amount-by-year/"
+  },
+  {
+    "title": "1386. Cinema Seat Allocation",
+    "url": "https://leetcode.com/problems/cinema-seat-allocation/"
+  },
+  {
+    "title": "1388. Pizza With 3n Slices",
+    "url": "https://leetcode.com/problems/pizza-with-3n-slices/"
+  },
+  {
+    "title": "1390. Four Divisors",
+    "url": "https://leetcode.com/problems/four-divisors/"
+  },
+  {
+    "title": "1392. Longest Happy Prefix",
+    "url": "https://leetcode.com/problems/longest-happy-prefix/"
+  },
+  {
+    "title": "1394. Find Lucky Integer in an Array",
+    "url": "https://leetcode.com/problems/find-lucky-integer-in-an-array/"
+  },
+  {
+    "title": "1396. Design Underground System",
+    "url": "https://leetcode.com/problems/design-underground-system/"
+  },
+  {
+    "title": "1398. Customers Who Bought Products A and B but Not C",
+    "url": "https://leetcode.com/problems/customers-who-bought-products-a-and-b-but-not-c/"
+  },
+  {
+    "title": "1400. Construct K Palindrome Strings",
+    "url": "https://leetcode.com/problems/construct-k-palindrome-strings/"
+  },
+  {
+    "title": "1402. Reducing Dishes",
+    "url": "https://leetcode.com/problems/reducing-dishes/"
+  },
+  {
+    "title": "1404. Number of Steps to Reduce a Number in Binary Representation to One",
+    "url": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/"
+  },
+  {
+    "title": "1406. Stone Game III",
+    "url": "https://leetcode.com/problems/stone-game-iii/"
+  },
+  {
+    "title": "1408. String Matching in an Array",
+    "url": "https://leetcode.com/problems/string-matching-in-an-array/"
+  },
+  {
+    "title": "1410. HTML Entity Parser",
+    "url": "https://leetcode.com/problems/html-entity-parser/"
+  },
+  {
+    "title": "1412. Find the Quiet Students in All Exams",
+    "url": "https://leetcode.com/problems/find-the-quiet-students-in-all-exams/"
+  },
+  {
+    "title": "1414. Find the Minimum Number of Fibonacci Numbers Whose Sum Is K",
+    "url": "https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/"
+  },
+  {
+    "title": "1416. Restore The Array",
+    "url": "https://leetcode.com/problems/restore-the-array/"
+  },
+  {
+    "title": "1418. Display Table of Food Orders in a Restaurant",
+    "url": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant/"
+  },
+  {
+    "title": "1420. Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "url": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/"
+  },
+  {
+    "title": "1422. Maximum Score After Splitting a String",
+    "url": "https://leetcode.com/problems/maximum-score-after-splitting-a-string/"
+  },
+  {
+    "title": "1424. Diagonal Traverse II",
+    "url": "https://leetcode.com/problems/diagonal-traverse-ii/"
+  },
+  {
+    "title": "1426. Counting Elements",
+    "url": "https://leetcode.com/problems/counting-elements/"
+  },
+  {
+    "title": "1428. Leftmost Column with at Least a One",
+    "url": "https://leetcode.com/problems/leftmost-column-with-at-least-a-one/"
+  },
+  {
+    "title": "1430. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree",
+    "url": "https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/"
+  },
+  {
+    "title": "1432. Max Difference You Can Get From Changing an Integer",
+    "url": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/"
+  },
+  {
+    "title": "1434. Number of Ways to Wear Different Hats to Each Other",
+    "url": "https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/"
+  },
+  {
+    "title": "1436. Destination City",
+    "url": "https://leetcode.com/problems/destination-city/"
+  },
+  {
+    "title": "1438. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "url": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/"
+  },
+  {
+    "title": "1440. Evaluate Boolean Expression",
+    "url": "https://leetcode.com/problems/evaluate-boolean-expression/"
+  },
+  {
+    "title": "1442. Count Triplets That Can Form Two Arrays of Equal XOR",
+    "url": "https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/"
+  },
+  {
+    "title": "1444. Number of Ways of Cutting a Pizza",
+    "url": "https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/"
+  },
+  {
+    "title": "1446. Consecutive Characters",
+    "url": "https://leetcode.com/problems/consecutive-characters/"
+  },
+  {
+    "title": "1448. Count Good Nodes in Binary Tree",
+    "url": "https://leetcode.com/problems/count-good-nodes-in-binary-tree/"
+  },
+  {
+    "title": "1450. Number of Students Doing Homework at a Given Time",
+    "url": "https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/"
+  },
+  {
+    "title": "1452. People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "url": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/"
+  },
+  {
+    "title": "1454. Active Users",
+    "url": "https://leetcode.com/problems/active-users/"
+  },
+  {
+    "title": "1456. Maximum Number of Vowels in a Substring of Given Length",
+    "url": "https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/"
+  },
+  {
+    "title": "1458. Max Dot Product of Two Subsequences",
+    "url": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/"
+  },
+  {
+    "title": "1460. Make Two Arrays Equal by Reversing Subarrays",
+    "url": "https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/"
+  },
+  {
+    "title": "1462. Course Schedule IV",
+    "url": "https://leetcode.com/problems/course-schedule-iv/"
+  },
+  {
+    "title": "1464. Maximum Product of Two Elements in an Array",
+    "url": "https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/"
+  },
+  {
+    "title": "1466. Reorder Routes to Make All Paths Lead to the City Zero",
+    "url": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/"
+  },
+  {
+    "title": "1468. Calculate Salaries",
+    "url": "https://leetcode.com/problems/calculate-salaries/"
+  },
+  {
+    "title": "1470. Shuffle the Array",
+    "url": "https://leetcode.com/problems/shuffle-the-array/"
+  },
+  {
+    "title": "1472. Design Browser History",
+    "url": "https://leetcode.com/problems/design-browser-history/"
+  },
+  {
+    "title": "1474. Delete N Nodes After M Nodes of a Linked List",
+    "url": "https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/"
+  },
+  {
+    "title": "1476. Subrectangle Queries",
+    "url": "https://leetcode.com/problems/subrectangle-queries/"
+  },
+  {
+    "title": "1478. Allocate Mailboxes",
+    "url": "https://leetcode.com/problems/allocate-mailboxes/"
+  },
+  {
+    "title": "1480. Running Sum of 1d Array",
+    "url": "https://leetcode.com/problems/running-sum-of-1d-array/"
+  },
+  {
+    "title": "1482. Minimum Number of Days to Make m Bouquets",
+    "url": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/"
+  },
+  {
+    "title": "1484. Group Sold Products By The Date",
+    "url": "https://leetcode.com/problems/group-sold-products-by-the-date/"
+  },
+  {
+    "title": "1486. XOR Operation in an Array",
+    "url": "https://leetcode.com/problems/xor-operation-in-an-array/"
+  },
+  {
+    "title": "1488. Avoid Flood in The City",
+    "url": "https://leetcode.com/problems/avoid-flood-in-the-city/"
+  },
+  {
+    "title": "1490. Clone N-ary Tree",
+    "url": "https://leetcode.com/problems/clone-n-ary-tree/"
+  },
+  {
+    "title": "1492. The kth Factor of n",
+    "url": "https://leetcode.com/problems/the-kth-factor-of-n/"
+  },
+  {
+    "title": "1494. Parallel Courses II",
+    "url": "https://leetcode.com/problems/parallel-courses-ii/"
+  },
+  {
+    "title": "1496. Path Crossing",
+    "url": "https://leetcode.com/problems/path-crossing/"
+  },
+  {
+    "title": "1498. Number of Subsequences That Satisfy the Given Sum Condition",
+    "url": "https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/"
+  },
+  {
+    "title": "1500. Design a File Sharing System",
+    "url": "https://leetcode.com/problems/design-a-file-sharing-system/"
+  },
+  {
+    "title": "1502. Can Make Arithmetic Progression From Sequence",
+    "url": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/"
+  },
+  {
+    "title": "1504. Count Submatrices With All Ones",
+    "url": "https://leetcode.com/problems/count-submatrices-with-all-ones/"
+  },
+  {
+    "title": "1506. Find Root of N-Ary Tree",
+    "url": "https://leetcode.com/problems/find-root-of-n-ary-tree/"
+  },
+  {
+    "title": "1508. Range Sum of Sorted Subarray Sums",
+    "url": "https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/"
+  },
+  {
+    "title": "1510. Stone Game IV",
+    "url": "https://leetcode.com/problems/stone-game-iv/"
+  },
+  {
+    "title": "1512. Number of Good Pairs",
+    "url": "https://leetcode.com/problems/number-of-good-pairs/"
+  },
+  {
+    "title": "1514. Path with Maximum Probability",
+    "url": "https://leetcode.com/problems/path-with-maximum-probability/"
+  },
+  {
+    "title": "1516. Move Sub-Tree of N-Ary Tree",
+    "url": "https://leetcode.com/problems/move-sub-tree-of-n-ary-tree/"
+  },
+  {
+    "title": "1518. Water Bottles",
+    "url": "https://leetcode.com/problems/water-bottles/"
+  },
+  {
+    "title": "1520. Maximum Number of Non-Overlapping Substrings",
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/"
+  },
+  {
+    "title": "1522. Diameter of N-Ary Tree",
+    "url": "https://leetcode.com/problems/diameter-of-n-ary-tree/"
+  },
+  {
+    "title": "1524. Number of Sub-arrays With Odd Sum",
+    "url": "https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/"
+  },
+  {
+    "title": "1526. Minimum Number of Increments on Subarrays to Form a Target Array",
+    "url": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/"
+  },
+  {
+    "title": "1528. Shuffle String",
+    "url": "https://leetcode.com/problems/shuffle-string/"
+  },
+  {
+    "title": "1530. Number of Good Leaf Nodes Pairs",
+    "url": "https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/"
+  },
+  {
+    "title": "1532. The Most Recent Three Orders",
+    "url": "https://leetcode.com/problems/the-most-recent-three-orders/"
+  },
+  {
+    "title": "1534. Count Good Triplets",
+    "url": "https://leetcode.com/problems/count-good-triplets/"
+  },
+  {
+    "title": "1536. Minimum Swaps to Arrange a Binary Grid",
+    "url": "https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/"
+  },
+  {
+    "title": "1538. Guess the Majority in a Hidden Array",
+    "url": "https://leetcode.com/problems/guess-the-majority-in-a-hidden-array/"
+  },
+  {
+    "title": "1540. Can Convert String in K Moves",
+    "url": "https://leetcode.com/problems/can-convert-string-in-k-moves/"
+  },
+  {
+    "title": "1542. Find Longest Awesome Substring",
+    "url": "https://leetcode.com/problems/find-longest-awesome-substring/"
+  },
+  {
+    "title": "1544. Make The String Great",
+    "url": "https://leetcode.com/problems/make-the-string-great/"
+  },
+  {
+    "title": "1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target",
+    "url": "https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/"
+  },
+  {
+    "title": "1548. The Most Similar Path in a Graph",
+    "url": "https://leetcode.com/problems/the-most-similar-path-in-a-graph/"
+  },
+  {
+    "title": "1550. Three Consecutive Odds",
+    "url": "https://leetcode.com/problems/three-consecutive-odds/"
+  },
+  {
+    "title": "1552. Magnetic Force Between Two Balls",
+    "url": "https://leetcode.com/problems/magnetic-force-between-two-balls/"
+  },
+  {
+    "title": "1554. Strings Differ by One Character",
+    "url": "https://leetcode.com/problems/strings-differ-by-one-character/"
+  },
+  {
+    "title": "1556. Thousand Separator",
+    "url": "https://leetcode.com/problems/thousand-separator/"
+  },
+  {
+    "title": "1558. Minimum Numbers of Function Calls to Make Target Array",
+    "url": "https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/"
+  },
+  {
+    "title": "1560. Most Visited Sector in  a Circular Track",
+    "url": "https://leetcode.com/problems/most-visited-sector-in-a-circular-track/"
+  },
+  {
+    "title": "1562. Find Latest Group of Size M",
+    "url": "https://leetcode.com/problems/find-latest-group-of-size-m/"
+  },
+  {
+    "title": "1564. Put Boxes Into the Warehouse I",
+    "url": "https://leetcode.com/problems/put-boxes-into-the-warehouse-i/"
+  },
+  {
+    "title": "1566. Detect Pattern of Length M Repeated K or More Times",
+    "url": "https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/"
+  },
+  {
+    "title": "1568. Minimum Number of Days to Disconnect Island",
+    "url": "https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/"
+  },
+  {
+    "title": "1570. Dot Product of Two Sparse Vectors",
+    "url": "https://leetcode.com/problems/dot-product-of-two-sparse-vectors/"
+  },
+  {
+    "title": "1572. Matrix Diagonal Sum",
+    "url": "https://leetcode.com/problems/matrix-diagonal-sum/"
+  },
+  {
+    "title": "1574. Shortest Subarray to be Removed to Make Array Sorted",
+    "url": "https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/"
+  },
+  {
+    "title": "1576. Replace All ?'s to Avoid Consecutive Repeating Characters",
+    "url": "https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/"
+  },
+  {
+    "title": "1578. Minimum Time to Make Rope Colorful",
+    "url": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/"
+  },
+  {
+    "title": "1580. Put Boxes Into the Warehouse II",
+    "url": "https://leetcode.com/problems/put-boxes-into-the-warehouse-ii/"
+  },
+  {
+    "title": "1582. Special Positions in a Binary Matrix",
+    "url": "https://leetcode.com/problems/special-positions-in-a-binary-matrix/"
+  },
+  {
+    "title": "1584. Min Cost to Connect All Points",
+    "url": "https://leetcode.com/problems/min-cost-to-connect-all-points/"
+  },
+  {
+    "title": "1586. Binary Search Tree Iterator II",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator-ii/"
+  },
+  {
+    "title": "1588. Sum of All Odd Length Subarrays",
+    "url": "https://leetcode.com/problems/sum-of-all-odd-length-subarrays/"
+  },
+  {
+    "title": "1590. Make Sum Divisible by P",
+    "url": "https://leetcode.com/problems/make-sum-divisible-by-p/"
+  },
+  {
+    "title": "1592. Rearrange Spaces Between Words",
+    "url": "https://leetcode.com/problems/rearrange-spaces-between-words/"
+  },
+  {
+    "title": "1594. Maximum Non Negative Product in a Matrix",
+    "url": "https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/"
+  },
+  {
+    "title": "1596. The Most Frequently Ordered Products for Each Customer",
+    "url": "https://leetcode.com/problems/the-most-frequently-ordered-products-for-each-customer/"
+  },
+  {
+    "title": "1598. Crawler Log Folder",
+    "url": "https://leetcode.com/problems/crawler-log-folder/"
+  },
+  {
+    "title": "1600. Throne Inheritance",
+    "url": "https://leetcode.com/problems/throne-inheritance/"
+  },
+  {
+    "title": "1602. Find Nearest Right Node in Binary Tree",
+    "url": "https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/"
+  },
+  {
+    "title": "1604. Alert Using Same Key-Card Three or More Times in a One Hour Period",
+    "url": "https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/"
+  },
+  {
+    "title": "1606. Find Servers That Handled Most Number of Requests",
+    "url": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests/"
+  },
+  {
+    "title": "1608. Special Array With X Elements Greater Than or Equal X",
+    "url": "https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/"
+  },
+  {
+    "title": "1610. Maximum Number of Visible Points",
+    "url": "https://leetcode.com/problems/maximum-number-of-visible-points/"
+  },
+  {
+    "title": "1612. Check If Two Expression Trees are Equivalent",
+    "url": "https://leetcode.com/problems/check-if-two-expression-trees-are-equivalent/"
+  },
+  {
+    "title": "1614. Maximum Nesting Depth of the Parentheses",
+    "url": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/"
+  },
+  {
+    "title": "1616. Split Two Strings to Make Palindrome",
+    "url": "https://leetcode.com/problems/split-two-strings-to-make-palindrome/"
+  },
+  {
+    "title": "1618. Maximum Font to Fit a Sentence in a Screen",
+    "url": "https://leetcode.com/problems/maximum-font-to-fit-a-sentence-in-a-screen/"
+  },
+  {
+    "title": "1620. Coordinate With Maximum Network Quality",
+    "url": "https://leetcode.com/problems/coordinate-with-maximum-network-quality/"
+  },
+  {
+    "title": "1622. Fancy Sequence",
+    "url": "https://leetcode.com/problems/fancy-sequence/"
+  },
+  {
+    "title": "1624. Largest Substring Between Two Equal Characters",
+    "url": "https://leetcode.com/problems/largest-substring-between-two-equal-characters/"
+  },
+  {
+    "title": "1626. Best Team With No Conflicts",
+    "url": "https://leetcode.com/problems/best-team-with-no-conflicts/"
+  },
+  {
+    "title": "1628. Design an Expression Tree With Evaluate Function",
+    "url": "https://leetcode.com/problems/design-an-expression-tree-with-evaluate-function/"
+  },
+  {
+    "title": "1630. Arithmetic Subarrays",
+    "url": "https://leetcode.com/problems/arithmetic-subarrays/"
+  },
+  {
+    "title": "1632. Rank Transform of a Matrix",
+    "url": "https://leetcode.com/problems/rank-transform-of-a-matrix/"
+  },
+  {
+    "title": "1634. Add Two Polynomials Represented as Linked Lists",
+    "url": "https://leetcode.com/problems/add-two-polynomials-represented-as-linked-lists/"
+  },
+  {
+    "title": "1636. Sort Array by Increasing Frequency",
+    "url": "https://leetcode.com/problems/sort-array-by-increasing-frequency/"
+  },
+  {
+    "title": "1638. Count Substrings That Differ by One Character",
+    "url": "https://leetcode.com/problems/count-substrings-that-differ-by-one-character/"
+  },
+  {
+    "title": "1640. Check Array Formation Through Concatenation",
+    "url": "https://leetcode.com/problems/check-array-formation-through-concatenation/"
+  },
+  {
+    "title": "1642. Furthest Building You Can Reach",
+    "url": "https://leetcode.com/problems/furthest-building-you-can-reach/"
+  },
+  {
+    "title": "1644. Lowest Common Ancestor of a Binary Tree II",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-ii/"
+  },
+  {
+    "title": "1646. Get Maximum in Generated Array",
+    "url": "https://leetcode.com/problems/get-maximum-in-generated-array/"
+  },
+  {
+    "title": "1648. Sell Diminishing-Valued Colored Balls",
+    "url": "https://leetcode.com/problems/sell-diminishing-valued-colored-balls/"
+  },
+  {
+    "title": "1650. Lowest Common Ancestor of a Binary Tree III",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iii/"
+  },
+  {
+    "title": "1652. Defuse the Bomb",
+    "url": "https://leetcode.com/problems/defuse-the-bomb/"
+  },
+  {
+    "title": "1654. Minimum Jumps to Reach Home",
+    "url": "https://leetcode.com/problems/minimum-jumps-to-reach-home/"
+  },
+  {
+    "title": "1656. Design an Ordered Stream",
+    "url": "https://leetcode.com/problems/design-an-ordered-stream/"
+  },
+  {
+    "title": "1658. Minimum Operations to Reduce X to Zero",
+    "url": "https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/"
+  },
+  {
+    "title": "1660. Correct a Binary Tree",
+    "url": "https://leetcode.com/problems/correct-a-binary-tree/"
+  },
+  {
+    "title": "1662. Check If Two String Arrays are Equivalent",
+    "url": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/"
+  },
+  {
+    "title": "1664. Ways to Make a Fair Array",
+    "url": "https://leetcode.com/problems/ways-to-make-a-fair-array/"
+  },
+  {
+    "title": "1666. Change the Root of a Binary Tree",
+    "url": "https://leetcode.com/problems/change-the-root-of-a-binary-tree/"
+  },
+  {
+    "title": "1668. Maximum Repeating Substring",
+    "url": "https://leetcode.com/problems/maximum-repeating-substring/"
+  },
+  {
+    "title": "1670. Design Front Middle Back Queue",
+    "url": "https://leetcode.com/problems/design-front-middle-back-queue/"
+  },
+  {
+    "title": "1672. Richest Customer Wealth",
+    "url": "https://leetcode.com/problems/richest-customer-wealth/"
+  },
+  {
+    "title": "1674. Minimum Moves to Make Array Complementary",
+    "url": "https://leetcode.com/problems/minimum-moves-to-make-array-complementary/"
+  },
+  {
+    "title": "1676. Lowest Common Ancestor of a Binary Tree IV",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree-iv/"
+  },
+  {
+    "title": "1678. Goal Parser Interpretation",
+    "url": "https://leetcode.com/problems/goal-parser-interpretation/"
+  },
+  {
+    "title": "1680. Concatenation of Consecutive Binary Numbers",
+    "url": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/"
+  },
+  {
+    "title": "1682. Longest Palindromic Subsequence II",
+    "url": "https://leetcode.com/problems/longest-palindromic-subsequence-ii/"
+  },
+  {
+    "title": "1684. Count the Number of Consistent Strings",
+    "url": "https://leetcode.com/problems/count-the-number-of-consistent-strings/"
+  },
+  {
+    "title": "1686. Stone Game VI",
+    "url": "https://leetcode.com/problems/stone-game-vi/"
+  },
+  {
+    "title": "1688. Count of Matches in Tournament",
+    "url": "https://leetcode.com/problems/count-of-matches-in-tournament/"
+  },
+  {
+    "title": "1690. Stone Game VII",
+    "url": "https://leetcode.com/problems/stone-game-vii/"
+  },
+  {
+    "title": "1692. Count Ways to Distribute Candies",
+    "url": "https://leetcode.com/problems/count-ways-to-distribute-candies/"
+  },
+  {
+    "title": "1694. Reformat Phone Number",
+    "url": "https://leetcode.com/problems/reformat-phone-number/"
+  },
+  {
+    "title": "1696. Jump Game VI",
+    "url": "https://leetcode.com/problems/jump-game-vi/"
+  },
+  {
+    "title": "1698. Number of Distinct Substrings in a String",
+    "url": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/"
+  },
+  {
+    "title": "1700. Number of Students Unable to Eat Lunch",
+    "url": "https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/"
+  },
+  {
+    "title": "1702. Maximum Binary String After Change",
+    "url": "https://leetcode.com/problems/maximum-binary-string-after-change/"
+  },
+  {
+    "title": "1704. Determine if String Halves Are Alike",
+    "url": "https://leetcode.com/problems/determine-if-string-halves-are-alike/"
+  },
+  {
+    "title": "1706. Where Will the Ball Fall",
+    "url": "https://leetcode.com/problems/where-will-the-ball-fall/"
+  },
+  {
+    "title": "1708. Largest Subarray Length K",
+    "url": "https://leetcode.com/problems/largest-subarray-length-k/"
+  },
+  {
+    "title": "1710. Maximum Units on a Truck",
+    "url": "https://leetcode.com/problems/maximum-units-on-a-truck/"
+  },
+  {
+    "title": "1712. Ways to Split Array Into Three Subarrays",
+    "url": "https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/"
+  },
+  {
+    "title": "1714. Sum Of Special Evenly-Spaced Elements In Array",
+    "url": "https://leetcode.com/problems/sum-of-special-evenly-spaced-elements-in-array/"
+  },
+  {
+    "title": "1716. Calculate Money in Leetcode Bank",
+    "url": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/"
+  },
+  {
+    "title": "1718. Construct the Lexicographically Largest Valid Sequence",
+    "url": "https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/"
+  },
+  {
+    "title": "1720. Decode XORed Array",
+    "url": "https://leetcode.com/problems/decode-xored-array/"
+  },
+  {
+    "title": "1722. Minimize Hamming Distance After Swap Operations",
+    "url": "https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/"
+  },
+  {
+    "title": "1724. Checking Existence of Edge Length Limited Paths II",
+    "url": "https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths-ii/"
+  },
+  {
+    "title": "1726. Tuple with Same Product",
+    "url": "https://leetcode.com/problems/tuple-with-same-product/"
+  },
+  {
+    "title": "1728. Cat and Mouse II",
+    "url": "https://leetcode.com/problems/cat-and-mouse-ii/"
+  },
+  {
+    "title": "1730. Shortest Path to Get Food",
+    "url": "https://leetcode.com/problems/shortest-path-to-get-food/"
+  },
+  {
+    "title": "1732. Find the Highest Altitude",
+    "url": "https://leetcode.com/problems/find-the-highest-altitude/"
+  },
+  {
+    "title": "1734. Decode XORed Permutation",
+    "url": "https://leetcode.com/problems/decode-xored-permutation/"
+  },
+  {
+    "title": "1736. Latest Time by Replacing Hidden Digits",
+    "url": "https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/"
+  },
+  {
+    "title": "1738. Find Kth Largest XOR Coordinate Value",
+    "url": "https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/"
+  },
+  {
+    "title": "1740. Find Distance in a Binary Tree",
+    "url": "https://leetcode.com/problems/find-distance-in-a-binary-tree/"
+  },
+  {
+    "title": "1742. Maximum Number of Balls in a Box",
+    "url": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box/"
+  },
+  {
+    "title": "1744. Can You Eat Your Favorite Candy on Your Favorite Day?",
+    "url": "https://leetcode.com/problems/can-you-eat-your-favorite-candy-on-your-favorite-day/"
+  },
+  {
+    "title": "1746. Maximum Subarray Sum After One Operation",
+    "url": "https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/"
+  },
+  {
+    "title": "1748. Sum of Unique Elements",
+    "url": "https://leetcode.com/problems/sum-of-unique-elements/"
+  },
+  {
+    "title": "1750. Minimum Length of String After Deleting Similar Ends",
+    "url": "https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/"
+  },
+  {
+    "title": "1752. Check if Array Is Sorted and Rotated",
+    "url": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/"
+  },
+  {
+    "title": "1754. Largest Merge Of Two Strings",
+    "url": "https://leetcode.com/problems/largest-merge-of-two-strings/"
+  },
+  {
+    "title": "1756. Design Most Recently Used Queue",
+    "url": "https://leetcode.com/problems/design-most-recently-used-queue/"
+  },
+  {
+    "title": "1758. Minimum Changes To Make Alternating Binary String",
+    "url": "https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/"
+  },
+  {
+    "title": "1760. Minimum Limit of Balls in a Bag",
+    "url": "https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/"
+  },
+  {
+    "title": "1762. Buildings With an Ocean View",
+    "url": "https://leetcode.com/problems/buildings-with-an-ocean-view/"
+  },
+  {
+    "title": "1764. Form Array by Concatenating Subarrays of Another Array",
+    "url": "https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/"
+  },
+  {
+    "title": "1766. Tree of Coprimes",
+    "url": "https://leetcode.com/problems/tree-of-coprimes/"
+  },
+  {
+    "title": "1768. Merge Strings Alternately",
+    "url": "https://leetcode.com/problems/merge-strings-alternately/"
+  },
+  {
+    "title": "1770. Maximum Score from Performing Multiplication Operations",
+    "url": "https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/"
+  },
+  {
+    "title": "1772. Sort Features by Popularity",
+    "url": "https://leetcode.com/problems/sort-features-by-popularity/"
+  },
+  {
+    "title": "1774. Closest Dessert Cost",
+    "url": "https://leetcode.com/problems/closest-dessert-cost/"
+  },
+  {
+    "title": "1776. Car Fleet II",
+    "url": "https://leetcode.com/problems/car-fleet-ii/"
+  },
+  {
+    "title": "1778. Shortest Path in a Hidden Grid",
+    "url": "https://leetcode.com/problems/shortest-path-in-a-hidden-grid/"
+  },
+  {
+    "title": "1780. Check if Number is a Sum of Powers of Three",
+    "url": "https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/"
+  },
+  {
+    "title": "1782. Count Pairs Of Nodes",
+    "url": "https://leetcode.com/problems/count-pairs-of-nodes/"
+  },
+  {
+    "title": "1784. Check if Binary String Has at Most One Segment of Ones",
+    "url": "https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/"
+  },
+  {
+    "title": "1786. Number of Restricted Paths From First to Last Node",
+    "url": "https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/"
+  },
+  {
+    "title": "1788. Maximize the Beauty of the Garden",
+    "url": "https://leetcode.com/problems/maximize-the-beauty-of-the-garden/"
+  },
+  {
+    "title": "1790. Check if One String Swap Can Make Strings Equal",
+    "url": "https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/"
+  },
+  {
+    "title": "1792. Maximum Average Pass Ratio",
+    "url": "https://leetcode.com/problems/maximum-average-pass-ratio/"
+  },
+  {
+    "title": "1794. Count Pairs of Equal Substrings With Minimum Difference",
+    "url": "https://leetcode.com/problems/count-pairs-of-equal-substrings-with-minimum-difference/"
+  },
+  {
+    "title": "1796. Second Largest Digit in a String",
+    "url": "https://leetcode.com/problems/second-largest-digit-in-a-string/"
+  },
+  {
+    "title": "1798. Maximum Number of Consecutive Values You Can Make",
+    "url": "https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/"
+  },
+  {
+    "title": "1800. Maximum Ascending Subarray Sum",
+    "url": "https://leetcode.com/problems/maximum-ascending-subarray-sum/"
+  },
+  {
+    "title": "1802. Maximum Value at a Given Index in a Bounded Array",
+    "url": "https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/"
+  },
+  {
+    "title": "1804. Implement Trie II (Prefix Tree)",
+    "url": "https://leetcode.com/problems/implement-trie-ii-prefix-tree/"
+  },
+  {
+    "title": "1806. Minimum Number of Operations to Reinitialize a Permutation",
+    "url": "https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/"
+  },
+  {
+    "title": "1808. Maximize Number of Nice Divisors",
+    "url": "https://leetcode.com/problems/maximize-number-of-nice-divisors/"
+  },
+  {
+    "title": "1810. Minimum Path Cost in a Hidden Grid",
+    "url": "https://leetcode.com/problems/minimum-path-cost-in-a-hidden-grid/"
+  },
+  {
+    "title": "1812. Determine Color of a Chessboard Square",
+    "url": "https://leetcode.com/problems/determine-color-of-a-chessboard-square/"
+  },
+  {
+    "title": "1814. Count Nice Pairs in an Array",
+    "url": "https://leetcode.com/problems/count-nice-pairs-in-an-array/"
+  },
+  {
+    "title": "1816. Truncate Sentence",
+    "url": "https://leetcode.com/problems/truncate-sentence/"
+  },
+  {
+    "title": "1818. Minimum Absolute Sum Difference",
+    "url": "https://leetcode.com/problems/minimum-absolute-sum-difference/"
+  },
+  {
+    "title": "1820. Maximum Number of Accepted Invitations",
+    "url": "https://leetcode.com/problems/maximum-number-of-accepted-invitations/"
+  },
+  {
+    "title": "1822. Sign of the Product of an Array",
+    "url": "https://leetcode.com/problems/sign-of-the-product-of-an-array/"
+  },
+  {
+    "title": "1824. Minimum Sideway Jumps",
+    "url": "https://leetcode.com/problems/minimum-sideway-jumps/"
+  },
+  {
+    "title": "1826. Faulty Sensor",
+    "url": "https://leetcode.com/problems/faulty-sensor/"
+  },
+  {
+    "title": "1828. Queries on Number of Points Inside a Circle",
+    "url": "https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/"
+  },
+  {
+    "title": "1830. Minimum Number of Operations to Make String Sorted",
+    "url": "https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/"
+  },
+  {
+    "title": "1832. Check if the Sentence Is Pangram",
+    "url": "https://leetcode.com/problems/check-if-the-sentence-is-pangram/"
+  },
+  {
+    "title": "1834. Single-Threaded CPU",
+    "url": "https://leetcode.com/problems/single-threaded-cpu/"
+  },
+  {
+    "title": "1836. Remove Duplicates From an Unsorted Linked List",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-an-unsorted-linked-list/"
+  },
+  {
+    "title": "1838. Frequency of the Most Frequent Element",
+    "url": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/"
+  },
+  {
+    "title": "1840. Maximum Building Height",
+    "url": "https://leetcode.com/problems/maximum-building-height/"
+  },
+  {
+    "title": "1842. Next Palindrome Using Same Digits",
+    "url": "https://leetcode.com/problems/next-palindrome-using-same-digits/"
+  },
+  {
+    "title": "1844. Replace All Digits with Characters",
+    "url": "https://leetcode.com/problems/replace-all-digits-with-characters/"
+  },
+  {
+    "title": "1846. Maximum Element After Decreasing and Rearranging",
+    "url": "https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/"
+  },
+  {
+    "title": "1848. Minimum Distance to the Target Element",
+    "url": "https://leetcode.com/problems/minimum-distance-to-the-target-element/"
+  },
+  {
+    "title": "1850. Minimum Adjacent Swaps to Reach the Kth Smallest Number",
+    "url": "https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/"
+  },
+  {
+    "title": "1852. Distinct Numbers in Each Subarray",
+    "url": "https://leetcode.com/problems/distinct-numbers-in-each-subarray/"
+  },
+  {
+    "title": "1854. Maximum Population Year",
+    "url": "https://leetcode.com/problems/maximum-population-year/"
+  },
+  {
+    "title": "1856. Maximum Subarray Min-Product",
+    "url": "https://leetcode.com/problems/maximum-subarray-min-product/"
+  },
+  {
+    "title": "1858. Longest Word With All Prefixes",
+    "url": "https://leetcode.com/problems/longest-word-with-all-prefixes/"
+  },
+  {
+    "title": "1860. Incremental Memory Leak",
+    "url": "https://leetcode.com/problems/incremental-memory-leak/"
+  },
+  {
+    "title": "1862. Sum of Floored Pairs",
+    "url": "https://leetcode.com/problems/sum-of-floored-pairs/"
+  },
+  {
+    "title": "1864. Minimum Number of Swaps to Make the Binary String Alternating",
+    "url": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/"
+  },
+  {
+    "title": "1866. Number of Ways to Rearrange Sticks With K Sticks Visible",
+    "url": "https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/"
+  },
+  {
+    "title": "1868. Product of Two Run-Length Encoded Arrays",
+    "url": "https://leetcode.com/problems/product-of-two-run-length-encoded-arrays/"
+  },
+  {
+    "title": "1870. Minimum Speed to Arrive on Time",
+    "url": "https://leetcode.com/problems/minimum-speed-to-arrive-on-time/"
+  },
+  {
+    "title": "1872. Stone Game VIII",
+    "url": "https://leetcode.com/problems/stone-game-viii/"
+  },
+  {
+    "title": "1874. Minimize Product Sum of Two Arrays",
+    "url": "https://leetcode.com/problems/minimize-product-sum-of-two-arrays/"
+  },
+  {
+    "title": "1876. Substrings of Size Three with Distinct Characters",
+    "url": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/"
+  },
+  {
+    "title": "1878. Get Biggest Three Rhombus Sums in a Grid",
+    "url": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid/"
+  },
+  {
+    "title": "1880. Check if Word Equals Summation of Two Words",
+    "url": "https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/"
+  },
+  {
+    "title": "1882. Process Tasks Using Servers",
+    "url": "https://leetcode.com/problems/process-tasks-using-servers/"
+  },
+  {
+    "title": "1884. Egg Drop With 2 Eggs and N Floors",
+    "url": "https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/"
+  },
+  {
+    "title": "1886. Determine Whether Matrix Can Be Obtained By Rotation",
+    "url": "https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/"
+  },
+  {
+    "title": "1888. Minimum Number of Flips to Make the Binary String Alternating",
+    "url": "https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating/"
+  },
+  {
+    "title": "1890. The Latest Login in 2020",
+    "url": "https://leetcode.com/problems/the-latest-login-in-2020/"
+  },
+  {
+    "title": "1892. Page Recommendations II",
+    "url": "https://leetcode.com/problems/page-recommendations-ii/"
+  },
+  {
+    "title": "1894. Find the Student that Will Replace the Chalk",
+    "url": "https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/"
+  },
+  {
+    "title": "1896. Minimum Cost to Change the Final Value of Expression",
+    "url": "https://leetcode.com/problems/minimum-cost-to-change-the-final-value-of-expression/"
+  },
+  {
+    "title": "1898. Maximum Number of Removable Characters",
+    "url": "https://leetcode.com/problems/maximum-number-of-removable-characters/"
+  },
+  {
+    "title": "1900. The Earliest and Latest Rounds Where Players Compete",
+    "url": "https://leetcode.com/problems/the-earliest-and-latest-rounds-where-players-compete/"
+  },
+  {
+    "title": "1902. Depth of BST Given Insertion Order",
+    "url": "https://leetcode.com/problems/depth-of-bst-given-insertion-order/"
+  },
+  {
+    "title": "1904. The Number of Full Rounds You Have Played",
+    "url": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/"
+  },
+  {
+    "title": "1906. Minimum Absolute Difference Queries",
+    "url": "https://leetcode.com/problems/minimum-absolute-difference-queries/"
+  },
+  {
+    "title": "1908. Game of Nim",
+    "url": "https://leetcode.com/problems/game-of-nim/"
+  },
+  {
+    "title": "1910. Remove All Occurrences of a Substring",
+    "url": "https://leetcode.com/problems/remove-all-occurrences-of-a-substring/"
+  },
+  {
+    "title": "1912. Design Movie Rental System",
+    "url": "https://leetcode.com/problems/design-movie-rental-system/"
+  },
+  {
+    "title": "1914. Cyclically Rotating a Grid",
+    "url": "https://leetcode.com/problems/cyclically-rotating-a-grid/"
+  },
+  {
+    "title": "1916. Count Ways to Build Rooms in an Ant Colony",
+    "url": "https://leetcode.com/problems/count-ways-to-build-rooms-in-an-ant-colony/"
+  },
+  {
+    "title": "1918. Kth Smallest Subarray Sum",
+    "url": "https://leetcode.com/problems/kth-smallest-subarray-sum/"
+  },
+  {
+    "title": "1920. Build Array from Permutation",
+    "url": "https://leetcode.com/problems/build-array-from-permutation/"
+  },
+  {
+    "title": "1922. Count Good Numbers",
+    "url": "https://leetcode.com/problems/count-good-numbers/"
+  },
+  {
+    "title": "1924. Erect the Fence II",
+    "url": "https://leetcode.com/problems/erect-the-fence-ii/"
+  },
+  {
+    "title": "1926. Nearest Exit from Entrance in Maze",
+    "url": "https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/"
+  },
+  {
+    "title": "1928. Minimum Cost to Reach Destination in Time",
+    "url": "https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/"
+  },
+  {
+    "title": "1930. Unique Length-3 Palindromic Subsequences",
+    "url": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/"
+  },
+  {
+    "title": "1932. Merge BSTs to Create Single BST",
+    "url": "https://leetcode.com/problems/merge-bsts-to-create-single-bst/"
+  },
+  {
+    "title": "1934. Confirmation Rate",
+    "url": "https://leetcode.com/problems/confirmation-rate/"
+  },
+  {
+    "title": "1936. Add Minimum Number of Rungs",
+    "url": "https://leetcode.com/problems/add-minimum-number-of-rungs/"
+  },
+  {
+    "title": "1938. Maximum Genetic Difference Query",
+    "url": "https://leetcode.com/problems/maximum-genetic-difference-query/"
+  },
+  {
+    "title": "1940. Longest Common Subsequence Between Sorted Arrays",
+    "url": "https://leetcode.com/problems/longest-common-subsequence-between-sorted-arrays/"
+  },
+  {
+    "title": "1942. The Number of the Smallest Unoccupied Chair",
+    "url": "https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/"
+  },
+  {
+    "title": "1944. Number of Visible People in a Queue",
+    "url": "https://leetcode.com/problems/number-of-visible-people-in-a-queue/"
+  },
+  {
+    "title": "1946. Largest Number After Mutating Substring",
+    "url": "https://leetcode.com/problems/largest-number-after-mutating-substring/"
+  },
+  {
+    "title": "1948. Delete Duplicate Folders in System",
+    "url": "https://leetcode.com/problems/delete-duplicate-folders-in-system/"
+  },
+  {
+    "title": "1950. Maximum of Minimum Values in All Subarrays",
+    "url": "https://leetcode.com/problems/maximum-of-minimum-values-in-all-subarrays/"
+  },
+  {
+    "title": "1952. Three Divisors",
+    "url": "https://leetcode.com/problems/three-divisors/"
+  },
+  {
+    "title": "1954. Minimum Garden Perimeter to Collect Enough Apples",
+    "url": "https://leetcode.com/problems/minimum-garden-perimeter-to-collect-enough-apples/"
+  },
+  {
+    "title": "1956. Minimum Time For K Virus Variants to Spread",
+    "url": "https://leetcode.com/problems/minimum-time-for-k-virus-variants-to-spread/"
+  },
+  {
+    "title": "1958. Check if Move is Legal",
+    "url": "https://leetcode.com/problems/check-if-move-is-legal/"
+  },
+  {
+    "title": "1960. Maximum Product of the Length of Two Palindromic Substrings",
+    "url": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-substrings/"
+  },
+  {
+    "title": "1962. Remove Stones to Minimize the Total",
+    "url": "https://leetcode.com/problems/remove-stones-to-minimize-the-total/"
+  },
+  {
+    "title": "1964. Find the Longest Valid Obstacle Course at Each Position",
+    "url": "https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/"
+  },
+  {
+    "title": "1966. Binary Searchable Numbers in an Unsorted Array",
+    "url": "https://leetcode.com/problems/binary-searchable-numbers-in-an-unsorted-array/"
+  },
+  {
+    "title": "1968. Array With Elements Not Equal to Average of Neighbors",
+    "url": "https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/"
+  },
+  {
+    "title": "1970. Last Day Where You Can Still Cross",
+    "url": "https://leetcode.com/problems/last-day-where-you-can-still-cross/"
+  },
+  {
+    "title": "1972. First and Last Call On the Same Day",
+    "url": "https://leetcode.com/problems/first-and-last-call-on-the-same-day/"
+  },
+  {
+    "title": "1974. Minimum Time to Type Word Using Special Typewriter",
+    "url": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/"
+  },
+  {
+    "title": "1976. Number of Ways to Arrive at Destination",
+    "url": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/"
+  },
+  {
+    "title": "1978. Employees Whose Manager Left the Company",
+    "url": "https://leetcode.com/problems/employees-whose-manager-left-the-company/"
+  },
+  {
+    "title": "1980. Find Unique Binary String",
+    "url": "https://leetcode.com/problems/find-unique-binary-string/"
+  },
+  {
+    "title": "1982. Find Array Given Subset Sums",
+    "url": "https://leetcode.com/problems/find-array-given-subset-sums/"
+  },
+  {
+    "title": "1984. Minimum Difference Between Highest and Lowest of K Scores",
+    "url": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/"
+  },
+  {
+    "title": "1986. Minimum Number of Work Sessions to Finish the Tasks",
+    "url": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks/"
+  },
+  {
+    "title": "1988. Find Cutoff Score for Each School",
+    "url": "https://leetcode.com/problems/find-cutoff-score-for-each-school/"
+  },
+  {
+    "title": "1990. Count the Number of Experiments",
+    "url": "https://leetcode.com/problems/count-the-number-of-experiments/"
+  },
+  {
+    "title": "1992. Find All Groups of Farmland",
+    "url": "https://leetcode.com/problems/find-all-groups-of-farmland/"
+  },
+  {
+    "title": "1994. The Number of Good Subsets",
+    "url": "https://leetcode.com/problems/the-number-of-good-subsets/"
+  },
+  {
+    "title": "1996. The Number of Weak Characters in the Game",
+    "url": "https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/"
+  },
+  {
+    "title": "1998. GCD Sort of an Array",
+    "url": "https://leetcode.com/problems/gcd-sort-of-an-array/"
+  },
+  {
+    "title": "2000. Reverse Prefix of Word",
+    "url": "https://leetcode.com/problems/reverse-prefix-of-word/"
+  },
+  {
+    "title": "2002. Maximum Product of the Length of Two Palindromic Subsequences",
+    "url": "https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/"
+  },
+  {
+    "title": "2004. The Number of Seniors and Juniors to Join the Company",
+    "url": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company/"
+  },
+  {
+    "title": "2006. Count Number of Pairs With Absolute Difference K",
+    "url": "https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/"
+  },
+  {
+    "title": "2008. Maximum Earnings From Taxi",
+    "url": "https://leetcode.com/problems/maximum-earnings-from-taxi/"
+  },
+  {
+    "title": "2010. The Number of Seniors and Juniors to Join the Company II",
+    "url": "https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company-ii/"
+  },
+  {
+    "title": "2012. Sum of Beauty in the Array",
+    "url": "https://leetcode.com/problems/sum-of-beauty-in-the-array/"
+  },
+  {
+    "title": "2014. Longest Subsequence Repeated k Times",
+    "url": "https://leetcode.com/problems/longest-subsequence-repeated-k-times/"
+  },
+  {
+    "title": "2016. Maximum Difference Between Increasing Elements",
+    "url": "https://leetcode.com/problems/maximum-difference-between-increasing-elements/"
+  },
+  {
+    "title": "2018. Check if Word Can Be Placed In Crossword",
+    "url": "https://leetcode.com/problems/check-if-word-can-be-placed-in-crossword/"
+  },
+  {
+    "title": "2020. Number of Accounts That Did Not Stream",
+    "url": "https://leetcode.com/problems/number-of-accounts-that-did-not-stream/"
+  },
+  {
+    "title": "2022. Convert 1D Array Into 2D Array",
+    "url": "https://leetcode.com/problems/convert-1d-array-into-2d-array/"
+  },
+  {
+    "title": "2024. Maximize the Confusion of an Exam",
+    "url": "https://leetcode.com/problems/maximize-the-confusion-of-an-exam/"
+  },
+  {
+    "title": "2026. Low-Quality Problems",
+    "url": "https://leetcode.com/problems/low-quality-problems/"
+  },
+  {
+    "title": "2028. Find Missing Observations",
+    "url": "https://leetcode.com/problems/find-missing-observations/"
+  },
+  {
+    "title": "2030. Smallest K-Length Subsequence With Occurrences of a Letter",
+    "url": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter/"
+  },
+  {
+    "title": "2032. Two Out of Three",
+    "url": "https://leetcode.com/problems/two-out-of-three/"
+  },
+  {
+    "title": "2034. Stock Price Fluctuation",
+    "url": "https://leetcode.com/problems/stock-price-fluctuation/"
+  },
+  {
+    "title": "2036. Maximum Alternating Subarray Sum",
+    "url": "https://leetcode.com/problems/maximum-alternating-subarray-sum/"
+  },
+  {
+    "title": "2038. Remove Colored Pieces if Both Neighbors are the Same Color",
+    "url": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/"
+  },
+  {
+    "title": "2040. Kth Smallest Product of Two Sorted Arrays",
+    "url": "https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/"
+  },
+  {
+    "title": "2042. Check if Numbers Are Ascending in a Sentence",
+    "url": "https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/"
+  },
+  {
+    "title": "2044. Count Number of Maximum Bitwise-OR Subsets",
+    "url": "https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/"
+  },
+  {
+    "title": "2046. Sort Linked List Already Sorted Using Absolute Values",
+    "url": "https://leetcode.com/problems/sort-linked-list-already-sorted-using-absolute-values/"
+  },
+  {
+    "title": "2048. Next Greater Numerically Balanced Number",
+    "url": "https://leetcode.com/problems/next-greater-numerically-balanced-number/"
+  },
+  {
+    "title": "2050. Parallel Courses III",
+    "url": "https://leetcode.com/problems/parallel-courses-iii/"
+  },
+  {
+    "title": "2052. Minimum Cost to Separate Sentence Into Rows",
+    "url": "https://leetcode.com/problems/minimum-cost-to-separate-sentence-into-rows/"
+  },
+  {
+    "title": "2054. Two Best Non-Overlapping Events",
+    "url": "https://leetcode.com/problems/two-best-non-overlapping-events/"
+  },
+  {
+    "title": "2056. Number of Valid Move Combinations On Chessboard",
+    "url": "https://leetcode.com/problems/number-of-valid-move-combinations-on-chessboard/"
+  },
+  {
+    "title": "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "url": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/"
+  },
+  {
+    "title": "2060. Check if an Original String Exists Given Two Encoded Strings",
+    "url": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings/"
+  },
+  {
+    "title": "2062. Count Vowel Substrings of a String",
+    "url": "https://leetcode.com/problems/count-vowel-substrings-of-a-string/"
+  },
+  {
+    "title": "2064. Minimized Maximum of Products Distributed to Any Store",
+    "url": "https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/"
+  },
+  {
+    "title": "2066. Account Balance",
+    "url": "https://leetcode.com/problems/account-balance/"
+  },
+  {
+    "title": "2068. Check Whether Two Strings are Almost Equivalent",
+    "url": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/"
+  },
+  {
+    "title": "2070. Most Beautiful Item for Each Query",
+    "url": "https://leetcode.com/problems/most-beautiful-item-for-each-query/"
+  },
+  {
+    "title": "2072. The Winner University",
+    "url": "https://leetcode.com/problems/the-winner-university/"
+  },
+  {
+    "title": "2074. Reverse Nodes in Even Length Groups",
+    "url": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups/"
+  },
+  {
+    "title": "2076. Process Restricted Friend Requests",
+    "url": "https://leetcode.com/problems/process-restricted-friend-requests/"
+  },
+  {
+    "title": "2078. Two Furthest Houses With Different Colors",
+    "url": "https://leetcode.com/problems/two-furthest-houses-with-different-colors/"
+  },
+  {
+    "title": "2080. Range Frequency Queries",
+    "url": "https://leetcode.com/problems/range-frequency-queries/"
+  },
+  {
+    "title": "2082. The Number of Rich Customers",
+    "url": "https://leetcode.com/problems/the-number-of-rich-customers/"
+  },
+  {
+    "title": "2084. Drop Type 1 Orders for Customers With Type 0 Orders",
+    "url": "https://leetcode.com/problems/drop-type-1-orders-for-customers-with-type-0-orders/"
+  },
+  {
+    "title": "2086. Minimum Number of Food Buckets to Feed the Hamsters",
+    "url": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters/"
+  },
+  {
+    "title": "2088. Count Fertile Pyramids in a Land",
+    "url": "https://leetcode.com/problems/count-fertile-pyramids-in-a-land/"
+  },
+  {
+    "title": "2090. K Radius Subarray Averages",
+    "url": "https://leetcode.com/problems/k-radius-subarray-averages/"
+  },
+  {
+    "title": "2092. Find All People With Secret",
+    "url": "https://leetcode.com/problems/find-all-people-with-secret/"
+  },
+  {
+    "title": "2094. Finding 3-Digit Even Numbers",
+    "url": "https://leetcode.com/problems/finding-3-digit-even-numbers/"
+  },
+  {
+    "title": "2096. Step-By-Step Directions From a Binary Tree Node to Another",
+    "url": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/"
+  },
+  {
+    "title": "2098. Subsequence of Size K With the Largest Even Sum",
+    "url": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum/"
+  },
+  {
+    "title": "2100. Find Good Days to Rob the Bank",
+    "url": "https://leetcode.com/problems/find-good-days-to-rob-the-bank/"
+  },
+  {
+    "title": "2102. Sequentially Ordinal Rank Tracker",
+    "url": "https://leetcode.com/problems/sequentially-ordinal-rank-tracker/"
+  },
+  {
+    "title": "2104. Sum of Subarray Ranges",
+    "url": "https://leetcode.com/problems/sum-of-subarray-ranges/"
+  },
+  {
+    "title": "2106. Maximum Fruits Harvested After at Most K Steps",
+    "url": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/"
+  },
+  {
+    "title": "2108. Find First Palindromic String in the Array",
+    "url": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/"
+  },
+  {
+    "title": "2110. Number of Smooth Descent Periods of a Stock",
+    "url": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/"
+  },
+  {
+    "title": "2112. The Airport With the Most Traffic",
+    "url": "https://leetcode.com/problems/the-airport-with-the-most-traffic/"
+  },
+  {
+    "title": "2114. Maximum Number of Words Found in Sentences",
+    "url": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/"
+  },
+  {
+    "title": "2116. Check if a Parentheses String Can Be Valid",
+    "url": "https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/"
+  },
+  {
+    "title": "2118. Build the Equation",
+    "url": "https://leetcode.com/problems/build-the-equation/"
+  },
+  {
+    "title": "2120. Execution of All Suffix Instructions Staying in a Grid",
+    "url": "https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/"
+  },
+  {
+    "title": "2122. Recover the Original Array",
+    "url": "https://leetcode.com/problems/recover-the-original-array/"
+  },
+  {
+    "title": "2124. Check if All A's Appears Before All B's",
+    "url": "https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/"
+  },
+  {
+    "title": "2126. Destroying Asteroids",
+    "url": "https://leetcode.com/problems/destroying-asteroids/"
+  },
+  {
+    "title": "2128. Remove All Ones With Row and Column Flips",
+    "url": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips/"
+  },
+  {
+    "title": "2130. Maximum Twin Sum of a Linked List",
+    "url": "https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/"
+  },
+  {
+    "title": "2132. Stamping the Grid",
+    "url": "https://leetcode.com/problems/stamping-the-grid/"
+  },
+  {
+    "title": "2134. Minimum Swaps to Group All 1's Together II",
+    "url": "https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/"
+  },
+  {
+    "title": "2136. Earliest Possible Day of Full Bloom",
+    "url": "https://leetcode.com/problems/earliest-possible-day-of-full-bloom/"
+  },
+  {
+    "title": "2138. Divide a String Into Groups of Size k",
+    "url": "https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/"
+  },
+  {
+    "title": "2140. Solving Questions With Brainpower",
+    "url": "https://leetcode.com/problems/solving-questions-with-brainpower/"
+  },
+  {
+    "title": "2142. The Number of Passengers in Each Bus I",
+    "url": "https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/"
+  },
+  {
+    "title": "2144. Minimum Cost of Buying Candies With Discount",
+    "url": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/"
+  },
+  {
+    "title": "2146. K Highest Ranked Items Within a Price Range",
+    "url": "https://leetcode.com/problems/k-highest-ranked-items-within-a-price-range/"
+  },
+  {
+    "title": "2148. Count Elements With Strictly Smaller and Greater Elements",
+    "url": "https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/"
+  },
+  {
+    "title": "2150. Find All Lonely Numbers in the Array",
+    "url": "https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/"
+  },
+  {
+    "title": "2152. Minimum Number of Lines to Cover Points",
+    "url": "https://leetcode.com/problems/minimum-number-of-lines-to-cover-points/"
+  },
+  {
+    "title": "2154. Keep Multiplying Found Values by Two",
+    "url": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/"
+  },
+  {
+    "title": "2156. Find Substring With Given Hash Value",
+    "url": "https://leetcode.com/problems/find-substring-with-given-hash-value/"
+  },
+  {
+    "title": "2158. Amount of New Area Painted Each Day",
+    "url": "https://leetcode.com/problems/amount-of-new-area-painted-each-day/"
+  },
+  {
+    "title": "2160. Minimum Sum of Four Digit Number After Splitting Digits",
+    "url": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/"
+  },
+  {
+    "title": "2162. Minimum Cost to Set Cooking Time",
+    "url": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time/"
+  },
+  {
+    "title": "2164. Sort Even and Odd Indices Independently",
+    "url": "https://leetcode.com/problems/sort-even-and-odd-indices-independently/"
+  },
+  {
+    "title": "2166. Design Bitset",
+    "url": "https://leetcode.com/problems/design-bitset/"
+  },
+  {
+    "title": "2168. Unique Substrings With Equal Digit Frequency",
+    "url": "https://leetcode.com/problems/unique-substrings-with-equal-digit-frequency/"
+  },
+  {
+    "title": "2170. Minimum Operations to Make the Array Alternating",
+    "url": "https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/"
+  },
+  {
+    "title": "2172. Maximum AND Sum of Array",
+    "url": "https://leetcode.com/problems/maximum-and-sum-of-array/"
+  },
+  {
+    "title": "2174. Remove All Ones With Row and Column Flips II",
+    "url": "https://leetcode.com/problems/remove-all-ones-with-row-and-column-flips-ii/"
+  },
+  {
+    "title": "2176. Count Equal and Divisible Pairs in an Array",
+    "url": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/"
+  },
+  {
+    "title": "2178. Maximum Split of Positive Even Integers",
+    "url": "https://leetcode.com/problems/maximum-split-of-positive-even-integers/"
+  },
+  {
+    "title": "2180. Count Integers With Even Digit Sum",
+    "url": "https://leetcode.com/problems/count-integers-with-even-digit-sum/"
+  },
+  {
+    "title": "2182. Construct String With Repeat Limit",
+    "url": "https://leetcode.com/problems/construct-string-with-repeat-limit/"
+  },
+  {
+    "title": "2184. Number of Ways to Build Sturdy Brick Wall",
+    "url": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall/"
+  },
+  {
+    "title": "2186. Minimum Number of Steps to Make Two Strings Anagram II",
+    "url": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/"
+  },
+  {
+    "title": "2188. Minimum Time to Finish the Race",
+    "url": "https://leetcode.com/problems/minimum-time-to-finish-the-race/"
+  },
+  {
+    "title": "2190. Most Frequent Number Following Key In an Array",
+    "url": "https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/"
+  },
+  {
+    "title": "2192. All Ancestors of a Node in a Directed Acyclic Graph",
+    "url": "https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/"
+  },
+  {
+    "title": "2194. Cells in a Range on an Excel Sheet",
+    "url": "https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/"
+  },
+  {
+    "title": "2196. Create Binary Tree From Descriptions",
+    "url": "https://leetcode.com/problems/create-binary-tree-from-descriptions/"
+  },
+  {
+    "title": "2198. Number of Single Divisor Triplets",
+    "url": "https://leetcode.com/problems/number-of-single-divisor-triplets/"
+  },
+  {
+    "title": "2200. Find All K-Distant Indices in an Array",
+    "url": "https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/"
+  }
+]
