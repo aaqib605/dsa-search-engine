@@ -4,7 +4,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 
 import { problems, docVectors, preprocess, idf } from "./tfidfIndex.js";
-import { cosineSim } from "./utils.js";
+import { cosineSim } from "../utils/cosineSim.js";
 
 const PORT = process.env.PORT || 3000;
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
