@@ -1,6 +1,7 @@
 const form = document.getElementById("search-form");
 const input = document.getElementById("query-input");
 const resultsDiv = document.getElementById("results");
+const spinner = document.getElementById("spinner");
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
@@ -8,7 +9,8 @@ form.addEventListener("submit", async (e) => {
   const query = input.value.trim();
   if (!query) return;
 
-  resultsDiv.innerHTML = "<p>Searching…</p>";
+  resultsDiv.innerHTML = "";
+  spinner.classList.remove("hidden");
 
   try {
     const res = await fetch("/search", {
@@ -20,6 +22,8 @@ form.addEventListener("submit", async (e) => {
     if (!res.ok) throw new Error(`Server error: ${res.status}`);
 
     const { results } = await res.json();
+
+    spinner.classList.add("hidden");
 
     if (results.length === 0) {
       resultsDiv.innerHTML = "<p>No matches found.</p>";
@@ -45,6 +49,7 @@ form.addEventListener("submit", async (e) => {
       })
       .join("");
   } catch (err) {
+    spinner.classList.add("hidden");
     console.error(err);
     resultsDiv.innerHTML = `<p>Error: ${err.message}</p>`;
   }
