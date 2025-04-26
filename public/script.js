@@ -11,7 +11,7 @@ form.addEventListener("submit", async (e) => {
   resultsDiv.innerHTML = "<p>Searching…</p>";
 
   try {
-    const res = await fetch("http://localhost:3000/search", {
+    const res = await fetch("/search", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ query }),
