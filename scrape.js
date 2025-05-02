@@ -2,7 +2,10 @@ import puppeteer from "puppeteer";
 import fs from "fs";
 
 const scrapeLeetcodeProblems = async () => {
-  const browser = await puppeteer.launch();
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--disable-blink-features=AutomationControlled"],
+  });
 
   const page = await browser.newPage();
 
@@ -64,4 +67,70 @@ const scrapeLeetcodeProblems = async () => {
   await browser.close();
 };
 
+const scrapeCodeforcesProblems = async (pages = 3) => {
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ["--disable-blink-features=AutomationControlled"],
+  });
+
+  const page = await browser.newPage();
+
+  await page.setUserAgent(
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
+      "AppleWebKit/537.36 (KHTML, like Gecko) " +
+      "Chrome/114.0.5735.199 Safari/537.36"
+  );
+
+  const allProblems = [];
+
+  for (let p = 1; p <= pages; p++) {
+    const url = `https://codeforces.com/problemset/page/${p}/`;
+
+    await page.goto(url);
+
+    await page.waitForSelector("table.problems");
+
+    const problemsOnThisPage = await page.evaluate(() => {
+      const tableBody = document.querySelector("tbody");
+      const rows = Array.from(tableBody.querySelectorAll("tr"));
+
+      return rows
+        .map((row) => {
+          const firstTd = row.querySelector("td:nth-child(1)");
+          const secondTd = row.querySelector("td:nth-child(2)");
+
+          if (firstTd && secondTd) {
+            const problemId = firstTd.querySelector("a").textContent.trim();
+
+            const problemName = secondTd.querySelector("a").textContent.trim();
+            const problemLink = secondTd
+              .querySelector("a")
+              .getAttribute("href")
+              .trim();
+
+            return {
+              title: `${problemId} ${problemName}`,
+              href: `https://codeforces.com${problemLink}`,
+            };
+          }
+        })
+        .filter(Boolean);
+    });
+
+    console.log(`Scraped problems from page ${p}`);
+
+    allProblems.push(...problemsOnThisPage);
+  }
+
+  console.log(allProblems);
+
+  fs.writeFileSync(
+    "codeforces_problems.json",
+    JSON.stringify(allProblems, null, 2)
+  );
+
+  await browser.close();
+};
+
 scrapeLeetcodeProblems();
+scrapeCodeforcesProblems();
