@@ -49,7 +49,10 @@ const scrapeLeetcodeProblems = async () => {
       const nodes = Array.from(document.querySelectorAll(sel));
 
       return nodes.map((el) => ({
-        title: el.querySelector(".ellipsis.line-clamp-1")?.textContent.trim(),
+        title: el
+          .querySelector(".ellipsis.line-clamp-1")
+          ?.textContent.trim()
+          .split(". ")[1],
         url: el.href,
       }));
     }, problemSelector);
@@ -60,7 +63,7 @@ const scrapeLeetcodeProblems = async () => {
   console.log(allProblems);
 
   fs.writeFileSync(
-    "leetcode_problems.json",
+    "./problems/leetcode_problems.json",
     JSON.stringify(allProblems, null, 2)
   );
 
@@ -110,7 +113,7 @@ const scrapeCodeforcesProblems = async (pages = 3) => {
 
             return {
               title: `${problemId} ${problemName}`,
-              href: `https://codeforces.com${problemLink}`,
+              url: `https://codeforces.com${problemLink}`,
             };
           }
         })
@@ -125,7 +128,7 @@ const scrapeCodeforcesProblems = async (pages = 3) => {
   console.log(allProblems);
 
   fs.writeFileSync(
-    "codeforces_problems.json",
+    "./problems/codeforces_problems.json",
     JSON.stringify(allProblems, null, 2)
   );
 

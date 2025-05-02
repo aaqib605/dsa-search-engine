@@ -1,0 +1,3007 @@
+[
+  {
+    "platform": "LeetCode",
+    "title": "Push Dominoes",
+    "url": "https://leetcode.com/problems/push-dominoes/?envType=daily-question&envId=2025-05-02"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Two Sum",
+    "url": "https://leetcode.com/problems/two-sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Add Two Numbers",
+    "url": "https://leetcode.com/problems/add-two-numbers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Substring Without Repeating Characters",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Median of Two Sorted Arrays",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Palindromic Substring",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Zigzag Conversion",
+    "url": "https://leetcode.com/problems/zigzag-conversion/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "String to Integer (atoi)",
+    "url": "https://leetcode.com/problems/string-to-integer-atoi/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Palindrome Number",
+    "url": "https://leetcode.com/problems/palindrome-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Regular Expression Matching",
+    "url": "https://leetcode.com/problems/regular-expression-matching/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Container With Most Water",
+    "url": "https://leetcode.com/problems/container-with-most-water/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Integer to Roman",
+    "url": "https://leetcode.com/problems/integer-to-roman/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Roman to Integer",
+    "url": "https://leetcode.com/problems/roman-to-integer/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Common Prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "3Sum",
+    "url": "https://leetcode.com/problems/3sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "3Sum Closest",
+    "url": "https://leetcode.com/problems/3sum-closest/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Letter Combinations of a Phone Number",
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "4Sum",
+    "url": "https://leetcode.com/problems/4sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Nth Node From End of List",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Merge Two Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Generate Parentheses",
+    "url": "https://leetcode.com/problems/generate-parentheses/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Merge k Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Swap Nodes in Pairs",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Nodes in k-Group",
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Duplicates from Sorted Array",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Element",
+    "url": "https://leetcode.com/problems/remove-element/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find the Index of the First Occurrence in a String",
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Divide Two Integers",
+    "url": "https://leetcode.com/problems/divide-two-integers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Substring with Concatenation of All Words",
+    "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Next Permutation",
+    "url": "https://leetcode.com/problems/next-permutation/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Valid Parentheses",
+    "url": "https://leetcode.com/problems/longest-valid-parentheses/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Search in Rotated Sorted Array",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Search Insert Position",
+    "url": "https://leetcode.com/problems/search-insert-position/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Sudoku",
+    "url": "https://leetcode.com/problems/valid-sudoku/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Sudoku Solver",
+    "url": "https://leetcode.com/problems/sudoku-solver/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Count and Say",
+    "url": "https://leetcode.com/problems/count-and-say/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Combination Sum",
+    "url": "https://leetcode.com/problems/combination-sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Combination Sum II",
+    "url": "https://leetcode.com/problems/combination-sum-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "First Missing Positive",
+    "url": "https://leetcode.com/problems/first-missing-positive/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Trapping Rain Water",
+    "url": "https://leetcode.com/problems/trapping-rain-water/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Multiply Strings",
+    "url": "https://leetcode.com/problems/multiply-strings/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Wildcard Matching",
+    "url": "https://leetcode.com/problems/wildcard-matching/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Jump Game II",
+    "url": "https://leetcode.com/problems/jump-game-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Permutations",
+    "url": "https://leetcode.com/problems/permutations/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Permutations II",
+    "url": "https://leetcode.com/problems/permutations-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Rotate Image",
+    "url": "https://leetcode.com/problems/rotate-image/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Group Anagrams",
+    "url": "https://leetcode.com/problems/group-anagrams/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Pow(x, n)",
+    "url": "https://leetcode.com/problems/powx-n/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "N-Queens",
+    "url": "https://leetcode.com/problems/n-queens/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "N-Queens II",
+    "url": "https://leetcode.com/problems/n-queens-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Subarray",
+    "url": "https://leetcode.com/problems/maximum-subarray/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Spiral Matrix",
+    "url": "https://leetcode.com/problems/spiral-matrix/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Jump Game",
+    "url": "https://leetcode.com/problems/jump-game/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Merge Intervals",
+    "url": "https://leetcode.com/problems/merge-intervals/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Insert Interval",
+    "url": "https://leetcode.com/problems/insert-interval/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Length of Last Word",
+    "url": "https://leetcode.com/problems/length-of-last-word/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Spiral Matrix II",
+    "url": "https://leetcode.com/problems/spiral-matrix-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Permutation Sequence",
+    "url": "https://leetcode.com/problems/permutation-sequence/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Rotate List",
+    "url": "https://leetcode.com/problems/rotate-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Unique Paths",
+    "url": "https://leetcode.com/problems/unique-paths/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Unique Paths II",
+    "url": "https://leetcode.com/problems/unique-paths-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Minimum Path Sum",
+    "url": "https://leetcode.com/problems/minimum-path-sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Number",
+    "url": "https://leetcode.com/problems/valid-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Plus One",
+    "url": "https://leetcode.com/problems/plus-one/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Add Binary",
+    "url": "https://leetcode.com/problems/add-binary/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Text Justification",
+    "url": "https://leetcode.com/problems/text-justification/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Sqrt(x)",
+    "url": "https://leetcode.com/problems/sqrtx/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Climbing Stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Simplify Path",
+    "url": "https://leetcode.com/problems/simplify-path/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Edit Distance",
+    "url": "https://leetcode.com/problems/edit-distance/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Set Matrix Zeroes",
+    "url": "https://leetcode.com/problems/set-matrix-zeroes/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Search a 2D Matrix",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Sort Colors",
+    "url": "https://leetcode.com/problems/sort-colors/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Minimum Window Substring",
+    "url": "https://leetcode.com/problems/minimum-window-substring/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Combinations",
+    "url": "https://leetcode.com/problems/combinations/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Subsets",
+    "url": "https://leetcode.com/problems/subsets/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Search",
+    "url": "https://leetcode.com/problems/word-search/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Duplicates from Sorted Array II",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Search in Rotated Sorted Array II",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Duplicates from Sorted List II",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Duplicates from Sorted List",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Largest Rectangle in Histogram",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximal Rectangle",
+    "url": "https://leetcode.com/problems/maximal-rectangle/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Partition List",
+    "url": "https://leetcode.com/problems/partition-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Scramble String",
+    "url": "https://leetcode.com/problems/scramble-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Merge Sorted Array",
+    "url": "https://leetcode.com/problems/merge-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Gray Code",
+    "url": "https://leetcode.com/problems/gray-code/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Subsets II",
+    "url": "https://leetcode.com/problems/subsets-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Decode Ways",
+    "url": "https://leetcode.com/problems/decode-ways/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Linked List II",
+    "url": "https://leetcode.com/problems/reverse-linked-list-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Restore IP Addresses",
+    "url": "https://leetcode.com/problems/restore-ip-addresses/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Inorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Unique Binary Search Trees II",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Unique Binary Search Trees",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Interleaving String",
+    "url": "https://leetcode.com/problems/interleaving-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Validate Binary Search Tree",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Recover Binary Search Tree",
+    "url": "https://leetcode.com/problems/recover-binary-search-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Same Tree",
+    "url": "https://leetcode.com/problems/same-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Symmetric Tree",
+    "url": "https://leetcode.com/problems/symmetric-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Level Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Depth of Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Level Order Traversal II",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Convert Sorted List to Binary Search Tree",
+    "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Balanced Binary Tree",
+    "url": "https://leetcode.com/problems/balanced-binary-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Minimum Depth of Binary Tree",
+    "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Path Sum",
+    "url": "https://leetcode.com/problems/path-sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Path Sum II",
+    "url": "https://leetcode.com/problems/path-sum-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Flatten Binary Tree to Linked List",
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Distinct Subsequences",
+    "url": "https://leetcode.com/problems/distinct-subsequences/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Populating Next Right Pointers in Each Node",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Populating Next Right Pointers in Each Node II",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Pascal's Triangle",
+    "url": "https://leetcode.com/problems/pascals-triangle/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Pascal's Triangle II",
+    "url": "https://leetcode.com/problems/pascals-triangle-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Triangle",
+    "url": "https://leetcode.com/problems/triangle/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Best Time to Buy and Sell Stock",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Best Time to Buy and Sell Stock II",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Best Time to Buy and Sell Stock III",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Maximum Path Sum",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Palindrome",
+    "url": "https://leetcode.com/problems/valid-palindrome/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Ladder II",
+    "url": "https://leetcode.com/problems/word-ladder-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Ladder",
+    "url": "https://leetcode.com/problems/word-ladder/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Consecutive Sequence",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Sum Root to Leaf Numbers",
+    "url": "https://leetcode.com/problems/sum-root-to-leaf-numbers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Surrounded Regions",
+    "url": "https://leetcode.com/problems/surrounded-regions/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Palindrome Partitioning",
+    "url": "https://leetcode.com/problems/palindrome-partitioning/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Palindrome Partitioning II",
+    "url": "https://leetcode.com/problems/palindrome-partitioning-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Clone Graph",
+    "url": "https://leetcode.com/problems/clone-graph/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Gas Station",
+    "url": "https://leetcode.com/problems/gas-station/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Candy",
+    "url": "https://leetcode.com/problems/candy/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Single Number",
+    "url": "https://leetcode.com/problems/single-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Single Number II",
+    "url": "https://leetcode.com/problems/single-number-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Copy List with Random Pointer",
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Break",
+    "url": "https://leetcode.com/problems/word-break/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Break II",
+    "url": "https://leetcode.com/problems/word-break-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Linked List Cycle",
+    "url": "https://leetcode.com/problems/linked-list-cycle/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Linked List Cycle II",
+    "url": "https://leetcode.com/problems/linked-list-cycle-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reorder List",
+    "url": "https://leetcode.com/problems/reorder-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Preorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-preorder-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Postorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-postorder-traversal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "LRU Cache",
+    "url": "https://leetcode.com/problems/lru-cache/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Insertion Sort List",
+    "url": "https://leetcode.com/problems/insertion-sort-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Sort List",
+    "url": "https://leetcode.com/problems/sort-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Max Points on a Line",
+    "url": "https://leetcode.com/problems/max-points-on-a-line/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Evaluate Reverse Polish Notation",
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Words in a String",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Product Subarray",
+    "url": "https://leetcode.com/problems/maximum-product-subarray/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find Minimum in Rotated Sorted Array",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Min Stack",
+    "url": "https://leetcode.com/problems/min-stack/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Upside Down",
+    "url": "https://leetcode.com/problems/binary-tree-upside-down/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Read N Characters Given Read4",
+    "url": "https://leetcode.com/problems/read-n-characters-given-read4/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Read N Characters Given read4 II - Call Multiple Times",
+    "url": "https://leetcode.com/problems/read-n-characters-given-read4-ii-call-multiple-times/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "url": "https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Intersection of Two Linked Lists",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "One Edit Distance",
+    "url": "https://leetcode.com/problems/one-edit-distance/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find Peak Element",
+    "url": "https://leetcode.com/problems/find-peak-element/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Missing Ranges",
+    "url": "https://leetcode.com/problems/missing-ranges/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximum Gap",
+    "url": "https://leetcode.com/problems/maximum-gap/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Compare Version Numbers",
+    "url": "https://leetcode.com/problems/compare-version-numbers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Fraction to Recurring Decimal",
+    "url": "https://leetcode.com/problems/fraction-to-recurring-decimal/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Two Sum II - Input Array Is Sorted",
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Excel Sheet Column Title",
+    "url": "https://leetcode.com/problems/excel-sheet-column-title/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Majority Element",
+    "url": "https://leetcode.com/problems/majority-element/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Two Sum III - Data structure design",
+    "url": "https://leetcode.com/problems/two-sum-iii-data-structure-design/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Excel Sheet Column Number",
+    "url": "https://leetcode.com/problems/excel-sheet-column-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Factorial Trailing Zeroes",
+    "url": "https://leetcode.com/problems/factorial-trailing-zeroes/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Search Tree Iterator",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Dungeon Game",
+    "url": "https://leetcode.com/problems/dungeon-game/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Combine Two Tables",
+    "url": "https://leetcode.com/problems/combine-two-tables/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Second Highest Salary",
+    "url": "https://leetcode.com/problems/second-highest-salary/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Nth Highest Salary",
+    "url": "https://leetcode.com/problems/nth-highest-salary/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Rank Scores",
+    "url": "https://leetcode.com/problems/rank-scores/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Largest Number",
+    "url": "https://leetcode.com/problems/largest-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Consecutive Numbers",
+    "url": "https://leetcode.com/problems/consecutive-numbers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Employees Earning More Than Their Managers",
+    "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Duplicate Emails",
+    "url": "https://leetcode.com/problems/duplicate-emails/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Customers Who Never Order",
+    "url": "https://leetcode.com/problems/customers-who-never-order/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Department Highest Salary",
+    "url": "https://leetcode.com/problems/department-highest-salary/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Department Top Three Salaries",
+    "url": "https://leetcode.com/problems/department-top-three-salaries/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Words in a String II",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Repeated DNA Sequences",
+    "url": "https://leetcode.com/problems/repeated-dna-sequences/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Best Time to Buy and Sell Stock IV",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Rotate Array",
+    "url": "https://leetcode.com/problems/rotate-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Bits",
+    "url": "https://leetcode.com/problems/reverse-bits/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Number of 1 Bits",
+    "url": "https://leetcode.com/problems/number-of-1-bits/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Frequency",
+    "url": "https://leetcode.com/problems/word-frequency/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Phone Numbers",
+    "url": "https://leetcode.com/problems/valid-phone-numbers/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Transpose File",
+    "url": "https://leetcode.com/problems/transpose-file/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Tenth Line",
+    "url": "https://leetcode.com/problems/tenth-line/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Delete Duplicate Emails",
+    "url": "https://leetcode.com/problems/delete-duplicate-emails/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Rising Temperature",
+    "url": "https://leetcode.com/problems/rising-temperature/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "House Robber",
+    "url": "https://leetcode.com/problems/house-robber/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Right Side View",
+    "url": "https://leetcode.com/problems/binary-tree-right-side-view/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Number of Islands",
+    "url": "https://leetcode.com/problems/number-of-islands/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Bitwise AND of Numbers Range",
+    "url": "https://leetcode.com/problems/bitwise-and-of-numbers-range/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Happy Number",
+    "url": "https://leetcode.com/problems/happy-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Remove Linked List Elements",
+    "url": "https://leetcode.com/problems/remove-linked-list-elements/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Count Primes",
+    "url": "https://leetcode.com/problems/count-primes/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Isomorphic Strings",
+    "url": "https://leetcode.com/problems/isomorphic-strings/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Reverse Linked List",
+    "url": "https://leetcode.com/problems/reverse-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Course Schedule",
+    "url": "https://leetcode.com/problems/course-schedule/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Implement Trie (Prefix Tree)",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Minimum Size Subarray Sum",
+    "url": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Course Schedule II",
+    "url": "https://leetcode.com/problems/course-schedule-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Design Add and Search Words Data Structure",
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Search II",
+    "url": "https://leetcode.com/problems/word-search-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "House Robber II",
+    "url": "https://leetcode.com/problems/house-robber-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Shortest Palindrome",
+    "url": "https://leetcode.com/problems/shortest-palindrome/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Kth Largest Element in an Array",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Combination Sum III",
+    "url": "https://leetcode.com/problems/combination-sum-iii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Contains Duplicate",
+    "url": "https://leetcode.com/problems/contains-duplicate/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "The Skyline Problem",
+    "url": "https://leetcode.com/problems/the-skyline-problem/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Contains Duplicate II",
+    "url": "https://leetcode.com/problems/contains-duplicate-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Contains Duplicate III",
+    "url": "https://leetcode.com/problems/contains-duplicate-iii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Maximal Square",
+    "url": "https://leetcode.com/problems/maximal-square/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Count Complete Tree Nodes",
+    "url": "https://leetcode.com/problems/count-complete-tree-nodes/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Rectangle Area",
+    "url": "https://leetcode.com/problems/rectangle-area/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Basic Calculator",
+    "url": "https://leetcode.com/problems/basic-calculator/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Implement Stack using Queues",
+    "url": "https://leetcode.com/problems/implement-stack-using-queues/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Invert Binary Tree",
+    "url": "https://leetcode.com/problems/invert-binary-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Basic Calculator II",
+    "url": "https://leetcode.com/problems/basic-calculator-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Summary Ranges",
+    "url": "https://leetcode.com/problems/summary-ranges/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Majority Element II",
+    "url": "https://leetcode.com/problems/majority-element-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Kth Smallest Element in a BST",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Power of Two",
+    "url": "https://leetcode.com/problems/power-of-two/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Implement Queue using Stacks",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Number of Digit One",
+    "url": "https://leetcode.com/problems/number-of-digit-one/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Palindrome Linked List",
+    "url": "https://leetcode.com/problems/palindrome-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Delete Node in a Linked List",
+    "url": "https://leetcode.com/problems/delete-node-in-a-linked-list/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Product of Array Except Self",
+    "url": "https://leetcode.com/problems/product-of-array-except-self/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Sliding Window Maximum",
+    "url": "https://leetcode.com/problems/sliding-window-maximum/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Search a 2D Matrix II",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Different Ways to Add Parentheses",
+    "url": "https://leetcode.com/problems/different-ways-to-add-parentheses/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Valid Anagram",
+    "url": "https://leetcode.com/problems/valid-anagram/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Shortest Word Distance",
+    "url": "https://leetcode.com/problems/shortest-word-distance/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Shortest Word Distance II",
+    "url": "https://leetcode.com/problems/shortest-word-distance-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Shortest Word Distance III",
+    "url": "https://leetcode.com/problems/shortest-word-distance-iii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Strobogrammatic Number",
+    "url": "https://leetcode.com/problems/strobogrammatic-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Strobogrammatic Number II",
+    "url": "https://leetcode.com/problems/strobogrammatic-number-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Strobogrammatic Number III",
+    "url": "https://leetcode.com/problems/strobogrammatic-number-iii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Group Shifted Strings",
+    "url": "https://leetcode.com/problems/group-shifted-strings/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Count Univalue Subtrees",
+    "url": "https://leetcode.com/problems/count-univalue-subtrees/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Flatten 2D Vector",
+    "url": "https://leetcode.com/problems/flatten-2d-vector/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Meeting Rooms",
+    "url": "https://leetcode.com/problems/meeting-rooms/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Meeting Rooms II",
+    "url": "https://leetcode.com/problems/meeting-rooms-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Factor Combinations",
+    "url": "https://leetcode.com/problems/factor-combinations/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Verify Preorder Sequence in Binary Search Tree",
+    "url": "https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Paint House",
+    "url": "https://leetcode.com/problems/paint-house/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Paths",
+    "url": "https://leetcode.com/problems/binary-tree-paths/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Add Digits",
+    "url": "https://leetcode.com/problems/add-digits/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "3Sum Smaller",
+    "url": "https://leetcode.com/problems/3sum-smaller/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Single Number III",
+    "url": "https://leetcode.com/problems/single-number-iii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Graph Valid Tree",
+    "url": "https://leetcode.com/problems/graph-valid-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Trips and Users",
+    "url": "https://leetcode.com/problems/trips-and-users/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Ugly Number",
+    "url": "https://leetcode.com/problems/ugly-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Ugly Number II",
+    "url": "https://leetcode.com/problems/ugly-number-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Paint House II",
+    "url": "https://leetcode.com/problems/paint-house-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Palindrome Permutation",
+    "url": "https://leetcode.com/problems/palindrome-permutation/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Palindrome Permutation II",
+    "url": "https://leetcode.com/problems/palindrome-permutation-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Missing Number",
+    "url": "https://leetcode.com/problems/missing-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Alien Dictionary",
+    "url": "https://leetcode.com/problems/alien-dictionary/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Closest Binary Search Tree Value",
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Encode and Decode Strings",
+    "url": "https://leetcode.com/problems/encode-and-decode-strings/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Closest Binary Search Tree Value II",
+    "url": "https://leetcode.com/problems/closest-binary-search-tree-value-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Integer to English Words",
+    "url": "https://leetcode.com/problems/integer-to-english-words/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "H-Index",
+    "url": "https://leetcode.com/problems/h-index/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "H-Index II",
+    "url": "https://leetcode.com/problems/h-index-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Paint Fence",
+    "url": "https://leetcode.com/problems/paint-fence/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find the Celebrity",
+    "url": "https://leetcode.com/problems/find-the-celebrity/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "First Bad Version",
+    "url": "https://leetcode.com/problems/first-bad-version/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Perfect Squares",
+    "url": "https://leetcode.com/problems/perfect-squares/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Wiggle Sort",
+    "url": "https://leetcode.com/problems/wiggle-sort/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Zigzag Iterator",
+    "url": "https://leetcode.com/problems/zigzag-iterator/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Expression Add Operators",
+    "url": "https://leetcode.com/problems/expression-add-operators/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Move Zeroes",
+    "url": "https://leetcode.com/problems/move-zeroes/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Peeking Iterator",
+    "url": "https://leetcode.com/problems/peeking-iterator/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Inorder Successor in BST",
+    "url": "https://leetcode.com/problems/inorder-successor-in-bst/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Walls and Gates",
+    "url": "https://leetcode.com/problems/walls-and-gates/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find the Duplicate Number",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Unique Word Abbreviation",
+    "url": "https://leetcode.com/problems/unique-word-abbreviation/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Game of Life",
+    "url": "https://leetcode.com/problems/game-of-life/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Pattern",
+    "url": "https://leetcode.com/problems/word-pattern/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Word Pattern II",
+    "url": "https://leetcode.com/problems/word-pattern-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Nim Game",
+    "url": "https://leetcode.com/problems/nim-game/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Flip Game",
+    "url": "https://leetcode.com/problems/flip-game/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Flip Game II",
+    "url": "https://leetcode.com/problems/flip-game-ii/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Find Median from Data Stream",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Best Meeting Point",
+    "url": "https://leetcode.com/problems/best-meeting-point/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Serialize and Deserialize Binary Tree",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Binary Tree Longest Consecutive Sequence",
+    "url": "https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Bulls and Cows",
+    "url": "https://leetcode.com/problems/bulls-and-cows/"
+  },
+  {
+    "platform": "LeetCode",
+    "title": "Longest Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence/"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2108F Fallen Towers",
+    "url": "https://codeforces.com/problemset/problem/2108/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2108E Spruce Dispute",
+    "url": "https://codeforces.com/problemset/problem/2108/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2108D Needle in a Numstack",
+    "url": "https://codeforces.com/problemset/problem/2108/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2108C Neo's Escape",
+    "url": "https://codeforces.com/problemset/problem/2108/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2108B SUMdamental Decomposition",
+    "url": "https://codeforces.com/problemset/problem/2108/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2108A Permutation Warm-Up",
+    "url": "https://codeforces.com/problemset/problem/2108/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106G2 Baudelaire (hard version)",
+    "url": "https://codeforces.com/problemset/problem/2106/G2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106G1 Baudelaire (easy version)",
+    "url": "https://codeforces.com/problemset/problem/2106/G1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106F Goblin",
+    "url": "https://codeforces.com/problemset/problem/2106/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106E Wolf",
+    "url": "https://codeforces.com/problemset/problem/2106/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106D Flower Boy",
+    "url": "https://codeforces.com/problemset/problem/2106/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106C Cherry Bomb",
+    "url": "https://codeforces.com/problemset/problem/2106/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106B St. Chroma",
+    "url": "https://codeforces.com/problemset/problem/2106/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2106A Dr. TC",
+    "url": "https://codeforces.com/problemset/problem/2106/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2104G Modulo 3",
+    "url": "https://codeforces.com/problemset/problem/2104/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2104F Numbers and Strings",
+    "url": "https://codeforces.com/problemset/problem/2104/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2104E Unpleasant Strings",
+    "url": "https://codeforces.com/problemset/problem/2104/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2104D Array and GCD",
+    "url": "https://codeforces.com/problemset/problem/2104/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2104C Card Game",
+    "url": "https://codeforces.com/problemset/problem/2104/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2104B Move to the End",
+    "url": "https://codeforces.com/problemset/problem/2104/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2104A Three Decks",
+    "url": "https://codeforces.com/problemset/problem/2104/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2103F Maximize Nor",
+    "url": "https://codeforces.com/problemset/problem/2103/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2103E Keep the Sum",
+    "url": "https://codeforces.com/problemset/problem/2103/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2103D Local Construction",
+    "url": "https://codeforces.com/problemset/problem/2103/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2103C Median Splits",
+    "url": "https://codeforces.com/problemset/problem/2103/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2103B Binary Typewriter",
+    "url": "https://codeforces.com/problemset/problem/2103/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2103A Common Multiple",
+    "url": "https://codeforces.com/problemset/problem/2103/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2098B Sasha and the Apartment Purchase",
+    "url": "https://codeforces.com/problemset/problem/2098/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2098A Vadim's Collection",
+    "url": "https://codeforces.com/problemset/problem/2098/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2097F Lost Luggage",
+    "url": "https://codeforces.com/problemset/problem/2097/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2097E Clearing the Snowdrift",
+    "url": "https://codeforces.com/problemset/problem/2097/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2097D Homework",
+    "url": "https://codeforces.com/problemset/problem/2097/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2097C Bermuda Triangle",
+    "url": "https://codeforces.com/problemset/problem/2097/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2097B Baggage Claim",
+    "url": "https://codeforces.com/problemset/problem/2097/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2097A Sports Betting",
+    "url": "https://codeforces.com/problemset/problem/2097/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096H Wonderful XOR Problem",
+    "url": "https://codeforces.com/problemset/problem/2096/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096G Wonderful Guessing Game",
+    "url": "https://codeforces.com/problemset/problem/2096/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096F Wonderful Impostors",
+    "url": "https://codeforces.com/problemset/problem/2096/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096E Wonderful Teddy Bears",
+    "url": "https://codeforces.com/problemset/problem/2096/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096D Wonderful Lightbulbs",
+    "url": "https://codeforces.com/problemset/problem/2096/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096C Wonderful City",
+    "url": "https://codeforces.com/problemset/problem/2096/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096B Wonderful Gloves",
+    "url": "https://codeforces.com/problemset/problem/2096/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2096A Wonderful Sticks",
+    "url": "https://codeforces.com/problemset/problem/2096/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095J Premiere at a Wrong Time",
+    "url": "https://codeforces.com/problemset/problem/2095/J"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095I Mysterious Script",
+    "url": "https://codeforces.com/problemset/problem/2095/I"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095H Blurry Vision",
+    "url": "https://codeforces.com/problemset/problem/2095/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095G Definitely a Geometry Problem",
+    "url": "https://codeforces.com/problemset/problem/2095/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095F ⅓ оf а Рrоblеm",
+    "url": "https://codeforces.com/problemset/problem/2095/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095E Pair Count",
+    "url": "https://codeforces.com/problemset/problem/2095/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095D Where Am I?",
+    "url": "https://codeforces.com/problemset/problem/2095/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095C Would It Be Unrated?",
+    "url": "https://codeforces.com/problemset/problem/2095/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095B Plinko",
+    "url": "https://codeforces.com/problemset/problem/2095/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2095A Piecing It Together",
+    "url": "https://codeforces.com/problemset/problem/2095/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094H La Vaca Saturno Saturnita",
+    "url": "https://codeforces.com/problemset/problem/2094/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094G Chimpanzini Bananini",
+    "url": "https://codeforces.com/problemset/problem/2094/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094F Trulimero Trulicina",
+    "url": "https://codeforces.com/problemset/problem/2094/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094E Boneca Ambalabu",
+    "url": "https://codeforces.com/problemset/problem/2094/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094D Tung Tung Sahur",
+    "url": "https://codeforces.com/problemset/problem/2094/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094C Brr Brrr Patapim",
+    "url": "https://codeforces.com/problemset/problem/2094/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094B Bobritto Bandito",
+    "url": "https://codeforces.com/problemset/problem/2094/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2094A Trippi Troppi",
+    "url": "https://codeforces.com/problemset/problem/2094/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2093G Shorten the Array",
+    "url": "https://codeforces.com/problemset/problem/2093/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2093F Hackers and Neural Networks",
+    "url": "https://codeforces.com/problemset/problem/2093/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2093E Min Max MEX",
+    "url": "https://codeforces.com/problemset/problem/2093/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2093D Skibidi Table",
+    "url": "https://codeforces.com/problemset/problem/2093/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2093C Simple Repetition",
+    "url": "https://codeforces.com/problemset/problem/2093/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2093B Expensive Number",
+    "url": "https://codeforces.com/problemset/problem/2093/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2093A Ideal Generator",
+    "url": "https://codeforces.com/problemset/problem/2093/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2092F Andryusha and CCB",
+    "url": "https://codeforces.com/problemset/problem/2092/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2092E She knows...",
+    "url": "https://codeforces.com/problemset/problem/2092/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2092D Mishkin Energizer",
+    "url": "https://codeforces.com/problemset/problem/2092/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2092C Asuna and the Mosquitoes",
+    "url": "https://codeforces.com/problemset/problem/2092/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2092B Lady Bug",
+    "url": "https://codeforces.com/problemset/problem/2092/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2092A Kamilka and the Sheep",
+    "url": "https://codeforces.com/problemset/problem/2092/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2091G Gleb and Boating",
+    "url": "https://codeforces.com/problemset/problem/2091/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2091F Igor and Mountain",
+    "url": "https://codeforces.com/problemset/problem/2091/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2091E Interesting Ratio",
+    "url": "https://codeforces.com/problemset/problem/2091/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2091D Place of the Olympiad",
+    "url": "https://codeforces.com/problemset/problem/2091/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2091C Combination Lock",
+    "url": "https://codeforces.com/problemset/problem/2091/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2091B Team Training",
+    "url": "https://codeforces.com/problemset/problem/2091/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2091A Olympiad Date",
+    "url": "https://codeforces.com/problemset/problem/2091/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2090C Dining Hall",
+    "url": "https://codeforces.com/problemset/problem/2090/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2090B Pushing Balls",
+    "url": "https://codeforces.com/problemset/problem/2090/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2090A Treasure Hunt",
+    "url": "https://codeforces.com/problemset/problem/2090/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2089E Black Cat Collapse",
+    "url": "https://codeforces.com/problemset/problem/2089/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2089D Conditional Operators",
+    "url": "https://codeforces.com/problemset/problem/2089/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2089C2 Key of Like (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2089/C2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2089C1 Key of Like (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2089/C1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2089B2 Canteen (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2089/B2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2089B1 Canteen (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2089/B1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2089A Simple Permutation",
+    "url": "https://codeforces.com/problemset/problem/2089/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087I Hamiltonian Partition",
+    "url": "https://codeforces.com/problemset/problem/2087/I"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087H Nim with Special Numbers",
+    "url": "https://codeforces.com/problemset/problem/2087/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087G Esports in Berland",
+    "url": "https://codeforces.com/problemset/problem/2087/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087F Weapon Upgrade",
+    "url": "https://codeforces.com/problemset/problem/2087/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087E Color the Arrows",
+    "url": "https://codeforces.com/problemset/problem/2087/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087D Uppercase or Lowercase?",
+    "url": "https://codeforces.com/problemset/problem/2087/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087C Coin Game",
+    "url": "https://codeforces.com/problemset/problem/2087/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087B Showmatch",
+    "url": "https://codeforces.com/problemset/problem/2087/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2087A Password Generator",
+    "url": "https://codeforces.com/problemset/problem/2087/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2086F Online Palindrome",
+    "url": "https://codeforces.com/problemset/problem/2086/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2086E Zebra-like Numbers",
+    "url": "https://codeforces.com/problemset/problem/2086/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2086D Even String",
+    "url": "https://codeforces.com/problemset/problem/2086/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2086C Disappearing Permutation",
+    "url": "https://codeforces.com/problemset/problem/2086/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2086B Large Array and Segments",
+    "url": "https://codeforces.com/problemset/problem/2086/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2086A Cloudberry Jam",
+    "url": "https://codeforces.com/problemset/problem/2086/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2085F2 Serval and Colorful Array (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2085/F2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2085F1 Serval and Colorful Array (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2085/F1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2085E Serval and Modulo",
+    "url": "https://codeforces.com/problemset/problem/2085/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2085D Serval and Kaitenzushi Buffet",
+    "url": "https://codeforces.com/problemset/problem/2085/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2085C Serval and The Formula",
+    "url": "https://codeforces.com/problemset/problem/2085/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2085B Serval and Final MEX",
+    "url": "https://codeforces.com/problemset/problem/2085/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2085A Serval and String Theory",
+    "url": "https://codeforces.com/problemset/problem/2085/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084H Turtle and Nediam 2",
+    "url": "https://codeforces.com/problemset/problem/2084/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084G2 Wish Upon a Satellite (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2084/G2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084G1 Wish Upon a Satellite (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2084/G1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084F Skyscape",
+    "url": "https://codeforces.com/problemset/problem/2084/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084E Blossom",
+    "url": "https://codeforces.com/problemset/problem/2084/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084D Arcology On Permafrost",
+    "url": "https://codeforces.com/problemset/problem/2084/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084C You Soared Afar With Grace",
+    "url": "https://codeforces.com/problemset/problem/2084/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084B MIN = GCD",
+    "url": "https://codeforces.com/problemset/problem/2084/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2084A Max and Mod",
+    "url": "https://codeforces.com/problemset/problem/2084/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2082B Floor or Ceil",
+    "url": "https://codeforces.com/problemset/problem/2082/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2082A Binary Matrix",
+    "url": "https://codeforces.com/problemset/problem/2082/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081G2 Hard Formula (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2081/G2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081G1 Hard Formula",
+    "url": "https://codeforces.com/problemset/problem/2081/G1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081F Hot Matrix",
+    "url": "https://codeforces.com/problemset/problem/2081/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081E Quantifier",
+    "url": "https://codeforces.com/problemset/problem/2081/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081D MST in Modulo Graph",
+    "url": "https://codeforces.com/problemset/problem/2081/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081C Quaternary Matrix",
+    "url": "https://codeforces.com/problemset/problem/2081/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081B Balancing",
+    "url": "https://codeforces.com/problemset/problem/2081/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2081A Math Division",
+    "url": "https://codeforces.com/problemset/problem/2081/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2080D Order Statistics",
+    "url": "https://codeforces.com/problemset/problem/2080/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2080C Card Flip",
+    "url": "https://codeforces.com/problemset/problem/2080/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2080B Best Runner",
+    "url": "https://codeforces.com/problemset/problem/2080/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2080A Strong Connectivity Strikes Back",
+    "url": "https://codeforces.com/problemset/problem/2080/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2079D Cute Subsequences",
+    "url": "https://codeforces.com/problemset/problem/2079/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2079C Dreaming Is Not Harmful",
+    "url": "https://codeforces.com/problemset/problem/2079/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2079B Arithmetic Exercise",
+    "url": "https://codeforces.com/problemset/problem/2079/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2079A Alice, Bob, And Two Arrays",
+    "url": "https://codeforces.com/problemset/problem/2079/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2078D Scammy Game Ad",
+    "url": "https://codeforces.com/problemset/problem/2078/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2078B Vicious Labyrinth",
+    "url": "https://codeforces.com/problemset/problem/2078/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2078A Final Verdict",
+    "url": "https://codeforces.com/problemset/problem/2078/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2077G RGB Walking",
+    "url": "https://codeforces.com/problemset/problem/2077/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2077F AND x OR",
+    "url": "https://codeforces.com/problemset/problem/2077/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2077E Another Folding Strip",
+    "url": "https://codeforces.com/problemset/problem/2077/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2077D Maximum Polygon",
+    "url": "https://codeforces.com/problemset/problem/2077/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2077C Binary Subsequence Value Sum",
+    "url": "https://codeforces.com/problemset/problem/2077/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2077B Finding OR Sum",
+    "url": "https://codeforces.com/problemset/problem/2077/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2077A Breach of Faith",
+    "url": "https://codeforces.com/problemset/problem/2077/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2075F Beautiful Sequence Returns",
+    "url": "https://codeforces.com/problemset/problem/2075/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2075E XOR Matrix",
+    "url": "https://codeforces.com/problemset/problem/2075/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2075D Equalization",
+    "url": "https://codeforces.com/problemset/problem/2075/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2075C Two Colors",
+    "url": "https://codeforces.com/problemset/problem/2075/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2075B Array Recoloring",
+    "url": "https://codeforces.com/problemset/problem/2075/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2075A To Zero",
+    "url": "https://codeforces.com/problemset/problem/2075/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2074G Game With Triangles: Season 2",
+    "url": "https://codeforces.com/problemset/problem/2074/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2074F Counting Necessary Nodes",
+    "url": "https://codeforces.com/problemset/problem/2074/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2074E Empty Triangle",
+    "url": "https://codeforces.com/problemset/problem/2074/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2074D Counting Points",
+    "url": "https://codeforces.com/problemset/problem/2074/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2074C XOR and Triangle",
+    "url": "https://codeforces.com/problemset/problem/2074/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2074B The Third Side",
+    "url": "https://codeforces.com/problemset/problem/2074/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2074A Draw a Square",
+    "url": "https://codeforces.com/problemset/problem/2074/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073M Can You Reach There?",
+    "url": "https://codeforces.com/problemset/problem/2073/M"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073L Boarding Queue",
+    "url": "https://codeforces.com/problemset/problem/2073/L"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073K Book Sorting",
+    "url": "https://codeforces.com/problemset/problem/2073/K"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073J Gathering Sharks",
+    "url": "https://codeforces.com/problemset/problem/2073/J"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073I Squares on Grid Lines",
+    "url": "https://codeforces.com/problemset/problem/2073/I"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073H Secret Lilies and Roses",
+    "url": "https://codeforces.com/problemset/problem/2073/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073G Corrupted File",
+    "url": "https://codeforces.com/problemset/problem/2073/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073F Hold the Star",
+    "url": "https://codeforces.com/problemset/problem/2073/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073E Minus Operator",
+    "url": "https://codeforces.com/problemset/problem/2073/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073D Tower of Hanoi",
+    "url": "https://codeforces.com/problemset/problem/2073/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073C Cactus Connectivity",
+    "url": "https://codeforces.com/problemset/problem/2073/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073B Three-Dimensional Embedding",
+    "url": "https://codeforces.com/problemset/problem/2073/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2073A Control Towers",
+    "url": "https://codeforces.com/problemset/problem/2073/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2072G I've Been Flipping Numbers for 300 Years and Calculated the Sum",
+    "url": "https://codeforces.com/problemset/problem/2072/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2072F Goodbye, Banker Life",
+    "url": "https://codeforces.com/problemset/problem/2072/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2072E Do You Love Your Hero and His Two-Hit Multi-Target Attacks?",
+    "url": "https://codeforces.com/problemset/problem/2072/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2072D For Wizards, the Exam Is Easy, but I Couldn't Handle It",
+    "url": "https://codeforces.com/problemset/problem/2072/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2072C Creating Keys for StORages Has Become My Main Skill",
+    "url": "https://codeforces.com/problemset/problem/2072/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2072B Having Been a Treasurer in the Past, I Help Goblins Deceive",
+    "url": "https://codeforces.com/problemset/problem/2072/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2072A New World, New Me, New Array",
+    "url": "https://codeforces.com/problemset/problem/2072/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2071F Towering Arrays",
+    "url": "https://codeforces.com/problemset/problem/2071/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2071E LeaFall",
+    "url": "https://codeforces.com/problemset/problem/2071/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2071D2 Infinite Sequence (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2071/D2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2071D1 Infinite Sequence (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2071/D1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2071C Trapmigiano Reggiano",
+    "url": "https://codeforces.com/problemset/problem/2071/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2071B Perfecto",
+    "url": "https://codeforces.com/problemset/problem/2071/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2071A The Play Never Ends",
+    "url": "https://codeforces.com/problemset/problem/2071/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2070F Friends and Pizza",
+    "url": "https://codeforces.com/problemset/problem/2070/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2070E Game with Binary String",
+    "url": "https://codeforces.com/problemset/problem/2070/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2070D Tree Jumps",
+    "url": "https://codeforces.com/problemset/problem/2070/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2070C Limited Repainting",
+    "url": "https://codeforces.com/problemset/problem/2070/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2070B Robot Program",
+    "url": "https://codeforces.com/problemset/problem/2070/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2070A FizzBuzz Remixed",
+    "url": "https://codeforces.com/problemset/problem/2070/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2069F Graph Inclusion",
+    "url": "https://codeforces.com/problemset/problem/2069/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2069E A, B, AB and BA",
+    "url": "https://codeforces.com/problemset/problem/2069/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2069D Palindrome Shuffle",
+    "url": "https://codeforces.com/problemset/problem/2069/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2069C Beautiful Sequence",
+    "url": "https://codeforces.com/problemset/problem/2069/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2069B Set of Strangers",
+    "url": "https://codeforces.com/problemset/problem/2069/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2069A Was there an Array?",
+    "url": "https://codeforces.com/problemset/problem/2069/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068K Amusement Park Rides",
+    "url": "https://codeforces.com/problemset/problem/2068/K"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068J The Ultimate Wine Tasting Event",
+    "url": "https://codeforces.com/problemset/problem/2068/J"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068I Pinball",
+    "url": "https://codeforces.com/problemset/problem/2068/I"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068H Statues",
+    "url": "https://codeforces.com/problemset/problem/2068/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068G A Very Long Hike",
+    "url": "https://codeforces.com/problemset/problem/2068/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068F Mascot Naming",
+    "url": "https://codeforces.com/problemset/problem/2068/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068E Porto Vs. Benfica",
+    "url": "https://codeforces.com/problemset/problem/2068/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068D Morse Code",
+    "url": "https://codeforces.com/problemset/problem/2068/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068C Ads",
+    "url": "https://codeforces.com/problemset/problem/2068/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068B Urban Planning",
+    "url": "https://codeforces.com/problemset/problem/2068/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2068A Condorcet Elections",
+    "url": "https://codeforces.com/problemset/problem/2068/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2067C Devyatkino",
+    "url": "https://codeforces.com/problemset/problem/2067/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2067B Two Large Bags",
+    "url": "https://codeforces.com/problemset/problem/2067/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2067A Adjacent Digit Sums",
+    "url": "https://codeforces.com/problemset/problem/2067/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2066F Curse",
+    "url": "https://codeforces.com/problemset/problem/2066/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2066E Tropical Season",
+    "url": "https://codeforces.com/problemset/problem/2066/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2066D2 Club of Young Aircraft Builders (hard version)",
+    "url": "https://codeforces.com/problemset/problem/2066/D2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2066D1 Club of Young Aircraft Builders (easy version)",
+    "url": "https://codeforces.com/problemset/problem/2066/D1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2066C Bitwise Slides",
+    "url": "https://codeforces.com/problemset/problem/2066/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2066B White Magic",
+    "url": "https://codeforces.com/problemset/problem/2066/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2066A Object Identification",
+    "url": "https://codeforces.com/problemset/problem/2066/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065H Bro Thinks He's Him",
+    "url": "https://codeforces.com/problemset/problem/2065/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065G Skibidus and Capping",
+    "url": "https://codeforces.com/problemset/problem/2065/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065F Skibidus and Slay",
+    "url": "https://codeforces.com/problemset/problem/2065/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065E Skibidus and Rizz",
+    "url": "https://codeforces.com/problemset/problem/2065/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065D Skibidus and Sigma",
+    "url": "https://codeforces.com/problemset/problem/2065/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065C2 Skibidus and Fanum Tax (hard version)",
+    "url": "https://codeforces.com/problemset/problem/2065/C2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065C1 Skibidus and Fanum Tax (easy version)",
+    "url": "https://codeforces.com/problemset/problem/2065/C1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065B Skibidus and Ohio",
+    "url": "https://codeforces.com/problemset/problem/2065/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2065A Skibidus and Amog'u",
+    "url": "https://codeforces.com/problemset/problem/2065/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2064F We Be Summing",
+    "url": "https://codeforces.com/problemset/problem/2064/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2064E Mycraft Sand Sort",
+    "url": "https://codeforces.com/problemset/problem/2064/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2064D Eating",
+    "url": "https://codeforces.com/problemset/problem/2064/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2064C Remove the Ends",
+    "url": "https://codeforces.com/problemset/problem/2064/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2064B Variety is Discouraged",
+    "url": "https://codeforces.com/problemset/problem/2064/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2064A Brogramming Contest",
+    "url": "https://codeforces.com/problemset/problem/2064/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2063F2 Counting Is Not Fun (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2063/F2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2063F1 Counting Is Not Fun (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2063/F1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2063E Triangle Tree",
+    "url": "https://codeforces.com/problemset/problem/2063/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2063D Game With Triangles",
+    "url": "https://codeforces.com/problemset/problem/2063/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2063C Remove Exactly Two",
+    "url": "https://codeforces.com/problemset/problem/2063/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2063B Subsequence Update",
+    "url": "https://codeforces.com/problemset/problem/2063/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2063A Minimal Coprime",
+    "url": "https://codeforces.com/problemset/problem/2063/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062H Galaxy Generator",
+    "url": "https://codeforces.com/problemset/problem/2062/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062G Permutation Factory",
+    "url": "https://codeforces.com/problemset/problem/2062/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062F Traveling Salescat",
+    "url": "https://codeforces.com/problemset/problem/2062/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062E2 The Game (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2062/E2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062E1 The Game (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2062/E1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062D Balanced Tree",
+    "url": "https://codeforces.com/problemset/problem/2062/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062C Cirno and Operations",
+    "url": "https://codeforces.com/problemset/problem/2062/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062B Clockwork",
+    "url": "https://codeforces.com/problemset/problem/2062/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2062A String",
+    "url": "https://codeforces.com/problemset/problem/2062/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061I Kevin and Nivek",
+    "url": "https://codeforces.com/problemset/problem/2061/I"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061H2 Kevin and Stones (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2061/H2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061H1 Kevin and Stones (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2061/H1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061G Kevin and Teams",
+    "url": "https://codeforces.com/problemset/problem/2061/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061F2 Kevin and Binary String (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2061/F2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061F1 Kevin and Binary String (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2061/F1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061E Kevin and And",
+    "url": "https://codeforces.com/problemset/problem/2061/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061D Kevin and Numbers",
+    "url": "https://codeforces.com/problemset/problem/2061/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061C Kevin and Puzzle",
+    "url": "https://codeforces.com/problemset/problem/2061/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061B Kevin and Geometry",
+    "url": "https://codeforces.com/problemset/problem/2061/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2061A Kevin and Arithmetic",
+    "url": "https://codeforces.com/problemset/problem/2061/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2060G Bugged Sort",
+    "url": "https://codeforces.com/problemset/problem/2060/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2060F Multiplicative Arrays",
+    "url": "https://codeforces.com/problemset/problem/2060/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2060E Graph Composition",
+    "url": "https://codeforces.com/problemset/problem/2060/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2060D Subtract Min Sort",
+    "url": "https://codeforces.com/problemset/problem/2060/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2060C Game of Mathletes",
+    "url": "https://codeforces.com/problemset/problem/2060/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2060B Farmer John's Card Game",
+    "url": "https://codeforces.com/problemset/problem/2060/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2060A Fibonacciness",
+    "url": "https://codeforces.com/problemset/problem/2060/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2059E2 Stop Gaming (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2059/E2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2059E1 Stop Gaming (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2059/E1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2059D Graph and Graph",
+    "url": "https://codeforces.com/problemset/problem/2059/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2059C Customer Service",
+    "url": "https://codeforces.com/problemset/problem/2059/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2059B Cost of the Array",
+    "url": "https://codeforces.com/problemset/problem/2059/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2059A Milya and Two Arrays",
+    "url": "https://codeforces.com/problemset/problem/2059/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057H Coffee Break",
+    "url": "https://codeforces.com/problemset/problem/2057/H"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057G Secret Message",
+    "url": "https://codeforces.com/problemset/problem/2057/G"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057F Formation",
+    "url": "https://codeforces.com/problemset/problem/2057/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057E2 Another Exercise on Graphs (hard version)",
+    "url": "https://codeforces.com/problemset/problem/2057/E2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057E1 Another Exercise on Graphs (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2057/E1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057D Gifts Order",
+    "url": "https://codeforces.com/problemset/problem/2057/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057C Trip to the Olympiad",
+    "url": "https://codeforces.com/problemset/problem/2057/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057B Gorilla and the Exam",
+    "url": "https://codeforces.com/problemset/problem/2057/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2057A MEX Table",
+    "url": "https://codeforces.com/problemset/problem/2057/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2056F2 Xor of Median (Hard Version)",
+    "url": "https://codeforces.com/problemset/problem/2056/F2"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2056F1 Xor of Median (Easy Version)",
+    "url": "https://codeforces.com/problemset/problem/2056/F1"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2056E Nested Segments",
+    "url": "https://codeforces.com/problemset/problem/2056/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2056D Unique Median",
+    "url": "https://codeforces.com/problemset/problem/2056/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2056C Palindromic Subsequences",
+    "url": "https://codeforces.com/problemset/problem/2056/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2056B Find the Permutation",
+    "url": "https://codeforces.com/problemset/problem/2056/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2056A Shape Perimeter",
+    "url": "https://codeforces.com/problemset/problem/2056/A"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2055F Cosmic Divide",
+    "url": "https://codeforces.com/problemset/problem/2055/F"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2055E Haystacks",
+    "url": "https://codeforces.com/problemset/problem/2055/E"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2055D Scarecrow",
+    "url": "https://codeforces.com/problemset/problem/2055/D"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2055C The Trail",
+    "url": "https://codeforces.com/problemset/problem/2055/C"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2055B Crafting",
+    "url": "https://codeforces.com/problemset/problem/2055/B"
+  },
+  {
+    "platform": "Codeforces",
+    "title": "2055A Two Frogs",
+    "url": "https://codeforces.com/problemset/problem/2055/A"
+  }
+]

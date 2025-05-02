@@ -3,7 +3,10 @@ import stopword from "stopword";
 import natural from "natural";
 
 const problems = JSON.parse(
-  fs.readFileSync(new URL("../all_problems.json", import.meta.url), "utf8")
+  fs.readFileSync(
+    new URL("../problems/all_problems.json", import.meta.url),
+    "utf8"
+  )
 );
 
 export function preprocess(text) {

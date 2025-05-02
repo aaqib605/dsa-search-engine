@@ -5,7 +5,10 @@
   "main": "src/index.js",
   "type": "module",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "merge": "node utils/merge.js",
+    "scrape": "node scrape.js",
+    "all": "npm run scrape && npm run merge && npm run start"
   },
   "repository": {
     "type": "git",

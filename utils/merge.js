@@ -1,27 +1,27 @@
+import path from "path";
 import fs from "fs";
+import { fileURLToPath } from "url";
 
-const lc = JSON.parse(
-  fs.readFileSync("../scrapper/leetcode/leetcode_problems.json", "utf8")
-);
-const cf = JSON.parse(
-  fs.readFileSync("../scrapper/codeforces/codeforces_problems.json", "utf8")
-);
-const cc = JSON.parse(
-  fs.readFileSync("../scrapper/codechef/codechef_problems.json", "utf8")
-);
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
-let idCounter = 1;
+const lcPath = path.resolve(__dirname, "../problems/leetcode_problems.json");
+const cfPath = path.resolve(__dirname, "../problems/codeforces_problems.json");
+
+const lc = JSON.parse(fs.readFileSync(lcPath, "utf8"));
+const cf = JSON.parse(fs.readFileSync(cfPath, "utf8"));
+
 const tag = (arr, name) =>
   arr.map((p) => ({
-    id: idCounter++,
     platform: name,
     ...p,
   }));
 
-const all = [
-  ...tag(lc, "LeetCode"),
-  ...tag(cf, "Codeforces"),
-  ...tag(cc, "CodeChef"),
-];
+const all = [...tag(lc, "LeetCode"), ...tag(cf, "Codeforces")];
 
-fs.writeFileSync("all_problems.json", JSON.stringify(all, null, 2));
+const allProblemsPath = path.resolve(
+  __dirname,
+  "../problems/all_problems.json"
+);
+
+fs.writeFileSync(allProblemsPath, JSON.stringify(all, null, 2));
